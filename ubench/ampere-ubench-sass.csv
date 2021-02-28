@@ -1,127 +1,152 @@
-Warning path Error - cannot open file /home/tgrogers-raid/a/jenkin99/workspace/ccel-Sim_accel-sim-framework_dev/./statistics-archive/ubench/ampere-ubench-sass.csv. Continuing
-Processing ampere-ubench-sass-40587.csv
+Processing ./statistics-archive/ubench/ampere-ubench-sass.csv
+Processing ampere-ubench-sass-7242.csv
 ----------------------------------------------------------------------------------------------------
 Accel-Sim-build
 ,l1_bw_32f/NO_ARGS--_Z5l1_bwPjS_PfS0_--0,l1_bw_64f/NO_ARGS--_Z5l1_bwPjS_PdS0_--0,l1_bw_128/NO_ARGS--_Z5l1_bwPjS_PfS0_--0,l1_lat/NO_ARGS--_Z6l1_latPjS_PmS0_--0,l1_lat/NO_ARGS--_Z6l1_latPjS_PmS0_--0,l2_bw_32f/NO_ARGS--_Z5l2_bwPjS_PfS0_--0,l2_bw_64f/NO_ARGS--_Z5l2_bwPjS_PdS0_--0,l2_lat/NO_ARGS--_Z6l2_latPjS_PmS0_--0,mem_bw/NO_ARGS--_Z6mem_bwPfS_S_S_S_S_PjS0_--0,mem_lat/NO_ARGS--_Z7mem_latPjS_PmS0_--0,shared_bw/NO_ARGS--_Z9shared_bwPjS_Pf--0,shared_lat/NO_ARGS--_Z10shared_latPjS_Pmj--0,MaxFlops/NO_ARGS--_Z9max_flopsIfEvPjS0_PT_S2_S2_--0,l1_shared_bw/NO_ARGS--_Z9shared_bwPjS_S_S_j--0,l1_bw_32f_unroll/NO_ARGS--_Z5l1_bwPjS_PfS0_--0,l1_bw_32f_unroll_large/NO_ARGS--_Z5l1_bwPjS_PfS0_--0,AV--VG
+RTX3070-SASS-accel-5ef8f93-gpgpu-deb5eb5-accel-None-gpgpu-None,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 RTX3070-SASS-accel-5ef8f93-gpgpu-deb5eb5,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 
 ----------------------------------------------------------------------------------------------------
 GPGPU-Sim-build
 ,l1_bw_32f/NO_ARGS--_Z5l1_bwPjS_PfS0_--0,l1_bw_64f/NO_ARGS--_Z5l1_bwPjS_PdS0_--0,l1_bw_128/NO_ARGS--_Z5l1_bwPjS_PfS0_--0,l1_lat/NO_ARGS--_Z6l1_latPjS_PmS0_--0,l1_lat/NO_ARGS--_Z6l1_latPjS_PmS0_--0,l2_bw_32f/NO_ARGS--_Z5l2_bwPjS_PfS0_--0,l2_bw_64f/NO_ARGS--_Z5l2_bwPjS_PdS0_--0,l2_lat/NO_ARGS--_Z6l2_latPjS_PmS0_--0,mem_bw/NO_ARGS--_Z6mem_bwPfS_S_S_S_S_PjS0_--0,mem_lat/NO_ARGS--_Z7mem_latPjS_PmS0_--0,shared_bw/NO_ARGS--_Z9shared_bwPjS_Pf--0,shared_lat/NO_ARGS--_Z10shared_latPjS_Pmj--0,MaxFlops/NO_ARGS--_Z9max_flopsIfEvPjS0_PT_S2_S2_--0,l1_shared_bw/NO_ARGS--_Z9shared_bwPjS_S_S_j--0,l1_bw_32f_unroll/NO_ARGS--_Z5l1_bwPjS_PfS0_--0,l1_bw_32f_unroll_large/NO_ARGS--_Z5l1_bwPjS_PfS0_--0,AV--VG
+RTX3070-SASS-accel-5ef8f93-gpgpu-deb5eb5-accel-None-gpgpu-None,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 RTX3070-SASS-accel-5ef8f93-gpgpu-deb5eb5,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 
 ----------------------------------------------------------------------------------------------------
 gpu_tot_sim_insn\s*=\s*(.*)
 ,l1_bw_32f/NO_ARGS--_Z5l1_bwPjS_PfS0_--0,l1_bw_64f/NO_ARGS--_Z5l1_bwPjS_PdS0_--0,l1_bw_128/NO_ARGS--_Z5l1_bwPjS_PfS0_--0,l1_lat/NO_ARGS--_Z6l1_latPjS_PmS0_--0,l1_lat/NO_ARGS--_Z6l1_latPjS_PmS0_--0,l2_bw_32f/NO_ARGS--_Z5l2_bwPjS_PfS0_--0,l2_bw_64f/NO_ARGS--_Z5l2_bwPjS_PdS0_--0,l2_lat/NO_ARGS--_Z6l2_latPjS_PmS0_--0,mem_bw/NO_ARGS--_Z6mem_bwPfS_S_S_S_S_PjS0_--0,mem_lat/NO_ARGS--_Z7mem_latPjS_PmS0_--0,shared_bw/NO_ARGS--_Z9shared_bwPjS_Pf--0,shared_lat/NO_ARGS--_Z10shared_latPjS_Pmj--0,MaxFlops/NO_ARGS--_Z9max_flopsIfEvPjS0_PT_S2_S2_--0,l1_shared_bw/NO_ARGS--_Z9shared_bwPjS_S_S_j--0,l1_bw_32f_unroll/NO_ARGS--_Z5l1_bwPjS_PfS0_--0,l1_bw_32f_unroll_large/NO_ARGS--_Z5l1_bwPjS_PfS0_--0,AV--VG
+RTX3070-SASS-accel-5ef8f93-gpgpu-deb5eb5-accel-None-gpgpu-None,3341312.0,2258944.0,39137280.0,116930.0,116930.0,731742208.0,731906048.0,58465.0,72155136.0,11049132.0,157376512.0,59844.0,4315136.0,48750592.0,6563840.0,9650176.0,113662405.3
 RTX3070-SASS-accel-5ef8f93-gpgpu-deb5eb5,3341312.0,2258944.0,39137280.0,116930.0,116930.0,731742208.0,731906048.0,58465.0,72155136.0,11049132.0,157376512.0,59844.0,4315136.0,48750592.0,6563840.0,9650176.0,113662405.3
 
 ----------------------------------------------------------------------------------------------------
 gpgpu_simulation_time\s*=.*\(([0-9]+) sec\).*
 ,l1_bw_32f/NO_ARGS--_Z5l1_bwPjS_PfS0_--0,l1_bw_64f/NO_ARGS--_Z5l1_bwPjS_PdS0_--0,l1_bw_128/NO_ARGS--_Z5l1_bwPjS_PfS0_--0,l1_lat/NO_ARGS--_Z6l1_latPjS_PmS0_--0,l1_lat/NO_ARGS--_Z6l1_latPjS_PmS0_--0,l2_bw_32f/NO_ARGS--_Z5l2_bwPjS_PfS0_--0,l2_bw_64f/NO_ARGS--_Z5l2_bwPjS_PdS0_--0,l2_lat/NO_ARGS--_Z6l2_latPjS_PmS0_--0,mem_bw/NO_ARGS--_Z6mem_bwPfS_S_S_S_S_PjS0_--0,mem_lat/NO_ARGS--_Z7mem_latPjS_PmS0_--0,shared_bw/NO_ARGS--_Z9shared_bwPjS_Pf--0,shared_lat/NO_ARGS--_Z10shared_latPjS_Pmj--0,MaxFlops/NO_ARGS--_Z9max_flopsIfEvPjS0_PT_S2_S2_--0,l1_shared_bw/NO_ARGS--_Z9shared_bwPjS_S_S_j--0,l1_bw_32f_unroll/NO_ARGS--_Z5l1_bwPjS_PfS0_--0,l1_bw_32f_unroll_large/NO_ARGS--_Z5l1_bwPjS_PfS0_--0,AV--VG
+RTX3070-SASS-accel-5ef8f93-gpgpu-deb5eb5-accel-None-gpgpu-None,36.0,35.0,408.0,1278.0,1278.0,4268.0,8747.0,3261.0,2222.0,1506.0,1783.0,49.0,31.0,503.0,54.0,104.0,1597.7
 RTX3070-SASS-accel-5ef8f93-gpgpu-deb5eb5,36.0,35.0,408.0,1278.0,1278.0,4268.0,8747.0,3261.0,2222.0,1506.0,1783.0,49.0,31.0,503.0,54.0,104.0,1597.7
 
 ----------------------------------------------------------------------------------------------------
 gpu_tot_sim_cycle\s*=\s*(.*)
 ,l1_bw_32f/NO_ARGS--_Z5l1_bwPjS_PfS0_--0,l1_bw_64f/NO_ARGS--_Z5l1_bwPjS_PdS0_--0,l1_bw_128/NO_ARGS--_Z5l1_bwPjS_PfS0_--0,l1_lat/NO_ARGS--_Z6l1_latPjS_PmS0_--0,l1_lat/NO_ARGS--_Z6l1_latPjS_PmS0_--0,l2_bw_32f/NO_ARGS--_Z5l2_bwPjS_PfS0_--0,l2_bw_64f/NO_ARGS--_Z5l2_bwPjS_PdS0_--0,l2_lat/NO_ARGS--_Z6l2_latPjS_PmS0_--0,mem_bw/NO_ARGS--_Z6mem_bwPfS_S_S_S_S_PjS0_--0,mem_lat/NO_ARGS--_Z7mem_latPjS_PmS0_--0,shared_bw/NO_ARGS--_Z9shared_bwPjS_Pf--0,shared_lat/NO_ARGS--_Z10shared_latPjS_Pmj--0,MaxFlops/NO_ARGS--_Z9max_flopsIfEvPjS0_PT_S2_S2_--0,l1_shared_bw/NO_ARGS--_Z9shared_bwPjS_S_S_j--0,l1_bw_32f_unroll/NO_ARGS--_Z5l1_bwPjS_PfS0_--0,l1_bw_32f_unroll_large/NO_ARGS--_Z5l1_bwPjS_PfS0_--0,AV--VG
+RTX3070-SASS-accel-5ef8f93-gpgpu-deb5eb5-accel-None-gpgpu-None,42559.0,42102.0,538895.0,2148398.0,2148398.0,2227862.0,4399258.0,5750979.0,702468.0,2506068.0,4744114.0,80560.0,77493.0,816684.0,81259.0,175676.0,1655173.3
 RTX3070-SASS-accel-5ef8f93-gpgpu-deb5eb5,42559.0,42102.0,538895.0,2148398.0,2148398.0,2227862.0,4399258.0,5750979.0,702468.0,2506068.0,4744114.0,80560.0,77493.0,816684.0,81259.0,175676.0,1655173.3
 
 ----------------------------------------------------------------------------------------------------
 \s+L2_cache_stats_breakdown\[GLOBAL_ACC_R\]\[HIT\]\s*=\s*(.*)
 ,l1_bw_32f/NO_ARGS--_Z5l1_bwPjS_PfS0_--0,l1_bw_64f/NO_ARGS--_Z5l1_bwPjS_PdS0_--0,l1_bw_128/NO_ARGS--_Z5l1_bwPjS_PfS0_--0,l1_lat/NO_ARGS--_Z6l1_latPjS_PmS0_--0,l1_lat/NO_ARGS--_Z6l1_latPjS_PmS0_--0,l2_bw_32f/NO_ARGS--_Z5l2_bwPjS_PfS0_--0,l2_bw_64f/NO_ARGS--_Z5l2_bwPjS_PdS0_--0,l2_lat/NO_ARGS--_Z6l2_latPjS_PmS0_--0,mem_bw/NO_ARGS--_Z6mem_bwPfS_S_S_S_S_PjS0_--0,mem_lat/NO_ARGS--_Z7mem_latPjS_PmS0_--0,shared_bw/NO_ARGS--_Z9shared_bwPjS_Pf--0,shared_lat/NO_ARGS--_Z10shared_latPjS_Pmj--0,MaxFlops/NO_ARGS--_Z9max_flopsIfEvPjS0_PT_S2_S2_--0,l1_shared_bw/NO_ARGS--_Z9shared_bwPjS_S_S_j--0,l1_bw_32f_unroll/NO_ARGS--_Z5l1_bwPjS_PfS0_--0,l1_bw_32f_unroll_large/NO_ARGS--_Z5l1_bwPjS_PfS0_--0,AV--VG
+RTX3070-SASS-accel-5ef8f93-gpgpu-deb5eb5-accel-None-gpgpu-None,0.0,0.0,0.0,0.0,0.0,41938340.0,83863989.0,31745.0,0.0,4.0,0.0,0.0,0.0,0.0,0.0,41300.0,7867211.1
 RTX3070-SASS-accel-5ef8f93-gpgpu-deb5eb5,0.0,0.0,0.0,0.0,0.0,41938340.0,83863989.0,31745.0,0.0,4.0,0.0,0.0,0.0,0.0,0.0,41300.0,7867211.1
 
 ----------------------------------------------------------------------------------------------------
 \s+L2_cache_stats_breakdown\[GLOBAL_ACC_R\]\[TOTAL_ACCESS\]\s*=\s*(.*)
 ,l1_bw_32f/NO_ARGS--_Z5l1_bwPjS_PfS0_--0,l1_bw_64f/NO_ARGS--_Z5l1_bwPjS_PdS0_--0,l1_bw_128/NO_ARGS--_Z5l1_bwPjS_PfS0_--0,l1_lat/NO_ARGS--_Z6l1_latPjS_PmS0_--0,l1_lat/NO_ARGS--_Z6l1_latPjS_PmS0_--0,l2_bw_32f/NO_ARGS--_Z5l2_bwPjS_PfS0_--0,l2_bw_64f/NO_ARGS--_Z5l2_bwPjS_PdS0_--0,l2_lat/NO_ARGS--_Z6l2_latPjS_PmS0_--0,mem_bw/NO_ARGS--_Z6mem_bwPfS_S_S_S_S_PjS0_--0,mem_lat/NO_ARGS--_Z7mem_latPjS_PmS0_--0,shared_bw/NO_ARGS--_Z9shared_bwPjS_Pf--0,shared_lat/NO_ARGS--_Z10shared_latPjS_Pmj--0,MaxFlops/NO_ARGS--_Z9max_flopsIfEvPjS0_PT_S2_S2_--0,l1_shared_bw/NO_ARGS--_Z9shared_bwPjS_S_S_j--0,l1_bw_32f_unroll/NO_ARGS--_Z5l1_bwPjS_PfS0_--0,l1_bw_32f_unroll_large/NO_ARGS--_Z5l1_bwPjS_PfS0_--0,AV--VG
+RTX3070-SASS-accel-5ef8f93-gpgpu-deb5eb5-accel-None-gpgpu-None,2060.0,2056.0,2048.0,2048.0,2048.0,41976412.0,83952375.0,32769.0,5242880.0,8192.0,NA,NA,256.0,257.0,2048.0,57812.0,9377375.8
 RTX3070-SASS-accel-5ef8f93-gpgpu-deb5eb5,2060.0,2056.0,2048.0,2048.0,2048.0,41976412.0,83952375.0,32769.0,5242880.0,8192.0,NA,NA,256.0,257.0,2048.0,57812.0,9377375.8
 
 ----------------------------------------------------------------------------------------------------
 \s+L2_cache_stats_breakdown\[GLOBAL_ACC_W\]\[HIT\]\s*=\s*(.*)
 ,l1_bw_32f/NO_ARGS--_Z5l1_bwPjS_PfS0_--0,l1_bw_64f/NO_ARGS--_Z5l1_bwPjS_PdS0_--0,l1_bw_128/NO_ARGS--_Z5l1_bwPjS_PfS0_--0,l1_lat/NO_ARGS--_Z6l1_latPjS_PmS0_--0,l1_lat/NO_ARGS--_Z6l1_latPjS_PmS0_--0,l2_bw_32f/NO_ARGS--_Z5l2_bwPjS_PfS0_--0,l2_bw_64f/NO_ARGS--_Z5l2_bwPjS_PdS0_--0,l2_lat/NO_ARGS--_Z6l2_latPjS_PmS0_--0,mem_bw/NO_ARGS--_Z6mem_bwPfS_S_S_S_S_PjS0_--0,mem_lat/NO_ARGS--_Z7mem_latPjS_PmS0_--0,shared_bw/NO_ARGS--_Z9shared_bwPjS_Pf--0,shared_lat/NO_ARGS--_Z10shared_latPjS_Pmj--0,MaxFlops/NO_ARGS--_Z9max_flopsIfEvPjS0_PT_S2_S2_--0,l1_shared_bw/NO_ARGS--_Z9shared_bwPjS_S_S_j--0,l1_bw_32f_unroll/NO_ARGS--_Z5l1_bwPjS_PfS0_--0,l1_bw_32f_unroll_large/NO_ARGS--_Z5l1_bwPjS_PfS0_--0,AV--VG
+RTX3070-SASS-accel-5ef8f93-gpgpu-deb5eb5-accel-None-gpgpu-None,12.0,8.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.2
 RTX3070-SASS-accel-5ef8f93-gpgpu-deb5eb5,12.0,8.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.2
 
 ----------------------------------------------------------------------------------------------------
 \s+L2_cache_stats_breakdown\[GLOBAL_ACC_W\]\[TOTAL_ACCESS\]\s*=\s*(.*)
 ,l1_bw_32f/NO_ARGS--_Z5l1_bwPjS_PfS0_--0,l1_bw_64f/NO_ARGS--_Z5l1_bwPjS_PdS0_--0,l1_bw_128/NO_ARGS--_Z5l1_bwPjS_PfS0_--0,l1_lat/NO_ARGS--_Z6l1_latPjS_PmS0_--0,l1_lat/NO_ARGS--_Z6l1_latPjS_PmS0_--0,l2_bw_32f/NO_ARGS--_Z5l2_bwPjS_PfS0_--0,l2_bw_64f/NO_ARGS--_Z5l2_bwPjS_PdS0_--0,l2_lat/NO_ARGS--_Z6l2_latPjS_PmS0_--0,mem_bw/NO_ARGS--_Z6mem_bwPfS_S_S_S_S_PjS0_--0,mem_lat/NO_ARGS--_Z7mem_latPjS_PmS0_--0,shared_bw/NO_ARGS--_Z9shared_bwPjS_Pf--0,shared_lat/NO_ARGS--_Z10shared_latPjS_Pmj--0,MaxFlops/NO_ARGS--_Z9max_flopsIfEvPjS0_PT_S2_S2_--0,l1_shared_bw/NO_ARGS--_Z9shared_bwPjS_S_S_j--0,l1_bw_32f_unroll/NO_ARGS--_Z5l1_bwPjS_PfS0_--0,l1_bw_32f_unroll_large/NO_ARGS--_Z5l1_bwPjS_PfS0_--0,AV--VG
+RTX3070-SASS-accel-5ef8f93-gpgpu-deb5eb5-accel-None-gpgpu-None,384.0,512.0,384.0,8198.0,8198.0,61440.0,81920.0,4099.0,1089536.0,229379.0,384.0,3.0,384.0,384.0,384.0,384.0,92873.3
 RTX3070-SASS-accel-5ef8f93-gpgpu-deb5eb5,384.0,512.0,384.0,8198.0,8198.0,61440.0,81920.0,4099.0,1089536.0,229379.0,384.0,3.0,384.0,384.0,384.0,384.0,92873.3
 
 ----------------------------------------------------------------------------------------------------
 \s+Total_core_cache_stats_breakdown\[GLOBAL_ACC_R\]\[TOTAL_ACCESS\]\s*=\s*(.*)
 ,l1_bw_32f/NO_ARGS--_Z5l1_bwPjS_PfS0_--0,l1_bw_64f/NO_ARGS--_Z5l1_bwPjS_PdS0_--0,l1_bw_128/NO_ARGS--_Z5l1_bwPjS_PfS0_--0,l1_lat/NO_ARGS--_Z6l1_latPjS_PmS0_--0,l1_lat/NO_ARGS--_Z6l1_latPjS_PmS0_--0,l2_bw_32f/NO_ARGS--_Z5l2_bwPjS_PfS0_--0,l2_bw_64f/NO_ARGS--_Z5l2_bwPjS_PdS0_--0,l2_lat/NO_ARGS--_Z6l2_latPjS_PmS0_--0,mem_bw/NO_ARGS--_Z6mem_bwPfS_S_S_S_S_PjS0_--0,mem_lat/NO_ARGS--_Z7mem_latPjS_PmS0_--0,shared_bw/NO_ARGS--_Z9shared_bwPjS_Pf--0,shared_lat/NO_ARGS--_Z10shared_latPjS_Pmj--0,MaxFlops/NO_ARGS--_Z9max_flopsIfEvPjS0_PT_S2_S2_--0,l1_shared_bw/NO_ARGS--_Z9shared_bwPjS_S_S_j--0,l1_bw_32f_unroll/NO_ARGS--_Z5l1_bwPjS_PfS0_--0,l1_bw_32f_unroll_large/NO_ARGS--_Z5l1_bwPjS_PfS0_--0,AV--VG
+RTX3070-SASS-accel-5ef8f93-gpgpu-deb5eb5-accel-None-gpgpu-None,133132.0,133120.0,2099200.0,65538.0,65538.0,NA,NA,NA,NA,8192.0,NA,NA,256.0,655615.0,133120.0,614930.0,390864.1
 RTX3070-SASS-accel-5ef8f93-gpgpu-deb5eb5,133132.0,133120.0,2099200.0,65538.0,65538.0,NA,NA,NA,NA,8192.0,NA,NA,256.0,655615.0,133120.0,614930.0,390864.1
 
 ----------------------------------------------------------------------------------------------------
 \s+Total_core_cache_stats_breakdown\[GLOBAL_ACC_R\]\[HIT\]\s*=\s*(.*)
 ,l1_bw_32f/NO_ARGS--_Z5l1_bwPjS_PfS0_--0,l1_bw_64f/NO_ARGS--_Z5l1_bwPjS_PdS0_--0,l1_bw_128/NO_ARGS--_Z5l1_bwPjS_PfS0_--0,l1_lat/NO_ARGS--_Z6l1_latPjS_PmS0_--0,l1_lat/NO_ARGS--_Z6l1_latPjS_PmS0_--0,l2_bw_32f/NO_ARGS--_Z5l2_bwPjS_PfS0_--0,l2_bw_64f/NO_ARGS--_Z5l2_bwPjS_PdS0_--0,l2_lat/NO_ARGS--_Z6l2_latPjS_PmS0_--0,mem_bw/NO_ARGS--_Z6mem_bwPfS_S_S_S_S_PjS0_--0,mem_lat/NO_ARGS--_Z7mem_latPjS_PmS0_--0,shared_bw/NO_ARGS--_Z9shared_bwPjS_Pf--0,shared_lat/NO_ARGS--_Z10shared_latPjS_Pmj--0,MaxFlops/NO_ARGS--_Z9max_flopsIfEvPjS0_PT_S2_S2_--0,l1_shared_bw/NO_ARGS--_Z9shared_bwPjS_S_S_j--0,l1_bw_32f_unroll/NO_ARGS--_Z5l1_bwPjS_PfS0_--0,l1_bw_32f_unroll_large/NO_ARGS--_Z5l1_bwPjS_PfS0_--0,AV--VG
+RTX3070-SASS-accel-5ef8f93-gpgpu-deb5eb5-accel-None-gpgpu-None,131048.0,131064.0,2097152.0,63490.0,63490.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,655296.0,131072.0,408858.0,230091.9
 RTX3070-SASS-accel-5ef8f93-gpgpu-deb5eb5,131048.0,131064.0,2097152.0,63490.0,63490.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,655296.0,131072.0,408858.0,230091.9
 
 ----------------------------------------------------------------------------------------------------
 \s+Total_core_cache_stats_breakdown\[GLOBAL_ACC_W\]\[HIT\]\s*=\s*(.*)
 ,l1_bw_32f/NO_ARGS--_Z5l1_bwPjS_PfS0_--0,l1_bw_64f/NO_ARGS--_Z5l1_bwPjS_PdS0_--0,l1_bw_128/NO_ARGS--_Z5l1_bwPjS_PfS0_--0,l1_lat/NO_ARGS--_Z6l1_latPjS_PmS0_--0,l1_lat/NO_ARGS--_Z6l1_latPjS_PmS0_--0,l2_bw_32f/NO_ARGS--_Z5l2_bwPjS_PfS0_--0,l2_bw_64f/NO_ARGS--_Z5l2_bwPjS_PdS0_--0,l2_lat/NO_ARGS--_Z6l2_latPjS_PmS0_--0,mem_bw/NO_ARGS--_Z6mem_bwPfS_S_S_S_S_PjS0_--0,mem_lat/NO_ARGS--_Z7mem_latPjS_PmS0_--0,shared_bw/NO_ARGS--_Z9shared_bwPjS_Pf--0,shared_lat/NO_ARGS--_Z10shared_latPjS_Pmj--0,MaxFlops/NO_ARGS--_Z9max_flopsIfEvPjS0_PT_S2_S2_--0,l1_shared_bw/NO_ARGS--_Z9shared_bwPjS_S_S_j--0,l1_bw_32f_unroll/NO_ARGS--_Z5l1_bwPjS_PfS0_--0,l1_bw_32f_unroll_large/NO_ARGS--_Z5l1_bwPjS_PfS0_--0,AV--VG
+RTX3070-SASS-accel-5ef8f93-gpgpu-deb5eb5-accel-None-gpgpu-None,12.0,8.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.2
 RTX3070-SASS-accel-5ef8f93-gpgpu-deb5eb5,12.0,8.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.2
 
 ----------------------------------------------------------------------------------------------------
 \s+Total_core_cache_stats_breakdown\[GLOBAL_ACC_W\]\[TOTAL_ACCESS\]\s*=\s*(.*)
 ,l1_bw_32f/NO_ARGS--_Z5l1_bwPjS_PfS0_--0,l1_bw_64f/NO_ARGS--_Z5l1_bwPjS_PdS0_--0,l1_bw_128/NO_ARGS--_Z5l1_bwPjS_PfS0_--0,l1_lat/NO_ARGS--_Z6l1_latPjS_PmS0_--0,l1_lat/NO_ARGS--_Z6l1_latPjS_PmS0_--0,l2_bw_32f/NO_ARGS--_Z5l2_bwPjS_PfS0_--0,l2_bw_64f/NO_ARGS--_Z5l2_bwPjS_PdS0_--0,l2_lat/NO_ARGS--_Z6l2_latPjS_PmS0_--0,mem_bw/NO_ARGS--_Z6mem_bwPfS_S_S_S_S_PjS0_--0,mem_lat/NO_ARGS--_Z7mem_latPjS_PmS0_--0,shared_bw/NO_ARGS--_Z9shared_bwPjS_Pf--0,shared_lat/NO_ARGS--_Z10shared_latPjS_Pmj--0,MaxFlops/NO_ARGS--_Z9max_flopsIfEvPjS0_PT_S2_S2_--0,l1_shared_bw/NO_ARGS--_Z9shared_bwPjS_S_S_j--0,l1_bw_32f_unroll/NO_ARGS--_Z5l1_bwPjS_PfS0_--0,l1_bw_32f_unroll_large/NO_ARGS--_Z5l1_bwPjS_PfS0_--0,AV--VG
+RTX3070-SASS-accel-5ef8f93-gpgpu-deb5eb5-accel-None-gpgpu-None,384.0,512.0,384.0,8198.0,8198.0,61440.0,81920.0,4099.0,1089536.0,229379.0,384.0,3.0,384.0,384.0,384.0,384.0,92873.3
 RTX3070-SASS-accel-5ef8f93-gpgpu-deb5eb5,384.0,512.0,384.0,8198.0,8198.0,61440.0,81920.0,4099.0,1089536.0,229379.0,384.0,3.0,384.0,384.0,384.0,384.0,92873.3
 
 ----------------------------------------------------------------------------------------------------
 \s+Total_core_cache_stats_breakdown\[GLOBAL_ACC_R\]\[MSHR_HIT\]\s*=\s*(.*)
 ,l1_bw_32f/NO_ARGS--_Z5l1_bwPjS_PfS0_--0,l1_bw_64f/NO_ARGS--_Z5l1_bwPjS_PdS0_--0,l1_bw_128/NO_ARGS--_Z5l1_bwPjS_PfS0_--0,l1_lat/NO_ARGS--_Z6l1_latPjS_PmS0_--0,l1_lat/NO_ARGS--_Z6l1_latPjS_PmS0_--0,l2_bw_32f/NO_ARGS--_Z5l2_bwPjS_PfS0_--0,l2_bw_64f/NO_ARGS--_Z5l2_bwPjS_PdS0_--0,l2_lat/NO_ARGS--_Z6l2_latPjS_PmS0_--0,mem_bw/NO_ARGS--_Z6mem_bwPfS_S_S_S_S_PjS0_--0,mem_lat/NO_ARGS--_Z7mem_latPjS_PmS0_--0,shared_bw/NO_ARGS--_Z9shared_bwPjS_Pf--0,shared_lat/NO_ARGS--_Z10shared_latPjS_Pmj--0,MaxFlops/NO_ARGS--_Z9max_flopsIfEvPjS0_PT_S2_S2_--0,l1_shared_bw/NO_ARGS--_Z9shared_bwPjS_S_S_j--0,l1_bw_32f_unroll/NO_ARGS--_Z5l1_bwPjS_PfS0_--0,l1_bw_32f_unroll_large/NO_ARGS--_Z5l1_bwPjS_PfS0_--0,AV--VG
+RTX3070-SASS-accel-5ef8f93-gpgpu-deb5eb5-accel-None-gpgpu-None,12.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,31.0,0.0,74130.0,4635.8
 RTX3070-SASS-accel-5ef8f93-gpgpu-deb5eb5,12.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,31.0,0.0,74130.0,4635.8
 
 ----------------------------------------------------------------------------------------------------
 gpgpu_n_tot_w_icount\s*=\s*(.*)
 ,l1_bw_32f/NO_ARGS--_Z5l1_bwPjS_PfS0_--0,l1_bw_64f/NO_ARGS--_Z5l1_bwPjS_PdS0_--0,l1_bw_128/NO_ARGS--_Z5l1_bwPjS_PfS0_--0,l1_lat/NO_ARGS--_Z6l1_latPjS_PmS0_--0,l1_lat/NO_ARGS--_Z6l1_latPjS_PmS0_--0,l2_bw_32f/NO_ARGS--_Z5l2_bwPjS_PfS0_--0,l2_bw_64f/NO_ARGS--_Z5l2_bwPjS_PdS0_--0,l2_lat/NO_ARGS--_Z6l2_latPjS_PmS0_--0,mem_bw/NO_ARGS--_Z6mem_bwPfS_S_S_S_S_PjS0_--0,mem_lat/NO_ARGS--_Z7mem_latPjS_PmS0_--0,shared_bw/NO_ARGS--_Z9shared_bwPjS_Pf--0,shared_lat/NO_ARGS--_Z10shared_latPjS_Pmj--0,MaxFlops/NO_ARGS--_Z9max_flopsIfEvPjS0_PT_S2_S2_--0,l1_shared_bw/NO_ARGS--_Z9shared_bwPjS_S_S_j--0,l1_bw_32f_unroll/NO_ARGS--_Z5l1_bwPjS_PfS0_--0,l1_bw_32f_unroll_large/NO_ARGS--_Z5l1_bwPjS_PfS0_--0,AV--VG
+RTX3070-SASS-accel-5ef8f93-gpgpu-deb5eb5-accel-None-gpgpu-None,104768.0,70944.0,1223488.0,116936.0,116936.0,22918144.0,22923264.0,58468.0,2265088.0,375366.0,5311328.0,5949.0,134880.0,1523584.0,205472.0,302336.0,3603559.4
 RTX3070-SASS-accel-5ef8f93-gpgpu-deb5eb5,104768.0,70944.0,1223488.0,116936.0,116936.0,22918144.0,22923264.0,58468.0,2265088.0,375366.0,5311328.0,5949.0,134880.0,1523584.0,205472.0,302336.0,3603559.4
 
 ----------------------------------------------------------------------------------------------------
 total dram reads\s*=\s*(.*)
 ,l1_bw_32f/NO_ARGS--_Z5l1_bwPjS_PfS0_--0,l1_bw_64f/NO_ARGS--_Z5l1_bwPjS_PdS0_--0,l1_bw_128/NO_ARGS--_Z5l1_bwPjS_PfS0_--0,l1_lat/NO_ARGS--_Z6l1_latPjS_PmS0_--0,l1_lat/NO_ARGS--_Z6l1_latPjS_PmS0_--0,l2_bw_32f/NO_ARGS--_Z5l2_bwPjS_PfS0_--0,l2_bw_64f/NO_ARGS--_Z5l2_bwPjS_PdS0_--0,l2_lat/NO_ARGS--_Z6l2_latPjS_PmS0_--0,mem_bw/NO_ARGS--_Z6mem_bwPfS_S_S_S_S_PjS0_--0,mem_lat/NO_ARGS--_Z7mem_latPjS_PmS0_--0,shared_bw/NO_ARGS--_Z9shared_bwPjS_Pf--0,shared_lat/NO_ARGS--_Z10shared_latPjS_Pmj--0,MaxFlops/NO_ARGS--_Z9max_flopsIfEvPjS0_PT_S2_S2_--0,l1_shared_bw/NO_ARGS--_Z9shared_bwPjS_S_S_j--0,l1_bw_32f_unroll/NO_ARGS--_Z5l1_bwPjS_PfS0_--0,l1_bw_32f_unroll_large/NO_ARGS--_Z5l1_bwPjS_PfS0_--0,AV--VG
+RTX3070-SASS-accel-5ef8f93-gpgpu-deb5eb5-accel-None-gpgpu-None,2060.0,2056.0,2048.0,2048.0,2048.0,28672.0,70484.0,1024.0,5242880.0,8188.0,0.0,0.0,256.0,257.0,2048.0,16512.0,336286.3
 RTX3070-SASS-accel-5ef8f93-gpgpu-deb5eb5,2060.0,2056.0,2048.0,2048.0,2048.0,28672.0,70484.0,1024.0,5242880.0,8188.0,0.0,0.0,256.0,257.0,2048.0,16512.0,336286.3
 
 ----------------------------------------------------------------------------------------------------
 total dram writes\s*=\s*(.*)
 ,l1_bw_32f/NO_ARGS--_Z5l1_bwPjS_PfS0_--0,l1_bw_64f/NO_ARGS--_Z5l1_bwPjS_PdS0_--0,l1_bw_128/NO_ARGS--_Z5l1_bwPjS_PfS0_--0,l1_lat/NO_ARGS--_Z6l1_latPjS_PmS0_--0,l1_lat/NO_ARGS--_Z6l1_latPjS_PmS0_--0,l2_bw_32f/NO_ARGS--_Z5l2_bwPjS_PfS0_--0,l2_bw_64f/NO_ARGS--_Z5l2_bwPjS_PdS0_--0,l2_lat/NO_ARGS--_Z6l2_latPjS_PmS0_--0,mem_bw/NO_ARGS--_Z6mem_bwPfS_S_S_S_S_PjS0_--0,mem_lat/NO_ARGS--_Z7mem_latPjS_PmS0_--0,shared_bw/NO_ARGS--_Z9shared_bwPjS_Pf--0,shared_lat/NO_ARGS--_Z10shared_latPjS_Pmj--0,MaxFlops/NO_ARGS--_Z9max_flopsIfEvPjS0_PT_S2_S2_--0,l1_shared_bw/NO_ARGS--_Z9shared_bwPjS_S_S_j--0,l1_bw_32f_unroll/NO_ARGS--_Z5l1_bwPjS_PfS0_--0,l1_bw_32f_unroll_large/NO_ARGS--_Z5l1_bwPjS_PfS0_--0,AV--VG
+RTX3070-SASS-accel-5ef8f93-gpgpu-deb5eb5-accel-None-gpgpu-None,0.0,0.0,0.0,0.0,0.0,0.0,23996.0,0.0,1063864.0,139269.0,0.0,0.0,0.0,0.0,0.0,0.0,76695.6
 RTX3070-SASS-accel-5ef8f93-gpgpu-deb5eb5,0.0,0.0,0.0,0.0,0.0,0.0,23996.0,0.0,1063864.0,139269.0,0.0,0.0,0.0,0.0,0.0,0.0,76695.6
 
 ----------------------------------------------------------------------------------------------------
 kernel_launch_uid\s*=\s*(.*)
 ,l1_bw_32f/NO_ARGS--_Z5l1_bwPjS_PfS0_--0,l1_bw_64f/NO_ARGS--_Z5l1_bwPjS_PdS0_--0,l1_bw_128/NO_ARGS--_Z5l1_bwPjS_PfS0_--0,l1_lat/NO_ARGS--_Z6l1_latPjS_PmS0_--0,l1_lat/NO_ARGS--_Z6l1_latPjS_PmS0_--0,l2_bw_32f/NO_ARGS--_Z5l2_bwPjS_PfS0_--0,l2_bw_64f/NO_ARGS--_Z5l2_bwPjS_PdS0_--0,l2_lat/NO_ARGS--_Z6l2_latPjS_PmS0_--0,mem_bw/NO_ARGS--_Z6mem_bwPfS_S_S_S_S_PjS0_--0,mem_lat/NO_ARGS--_Z7mem_latPjS_PmS0_--0,shared_bw/NO_ARGS--_Z9shared_bwPjS_Pf--0,shared_lat/NO_ARGS--_Z10shared_latPjS_Pmj--0,MaxFlops/NO_ARGS--_Z9max_flopsIfEvPjS0_PT_S2_S2_--0,l1_shared_bw/NO_ARGS--_Z9shared_bwPjS_S_S_j--0,l1_bw_32f_unroll/NO_ARGS--_Z5l1_bwPjS_PfS0_--0,l1_bw_32f_unroll_large/NO_ARGS--_Z5l1_bwPjS_PfS0_--0,AV--VG
+RTX3070-SASS-accel-5ef8f93-gpgpu-deb5eb5-accel-None-gpgpu-None,1.0,1.0,1.0,2.0,2.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.1
 RTX3070-SASS-accel-5ef8f93-gpgpu-deb5eb5,1.0,1.0,1.0,2.0,2.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.1
 
 ----------------------------------------------------------------------------------------------------
 gpu_ipc\s*=\s*(.*)
 ,l1_bw_32f/NO_ARGS--_Z5l1_bwPjS_PfS0_--0,l1_bw_64f/NO_ARGS--_Z5l1_bwPjS_PdS0_--0,l1_bw_128/NO_ARGS--_Z5l1_bwPjS_PfS0_--0,l1_lat/NO_ARGS--_Z6l1_latPjS_PmS0_--0,l1_lat/NO_ARGS--_Z6l1_latPjS_PmS0_--0,l2_bw_32f/NO_ARGS--_Z5l2_bwPjS_PfS0_--0,l2_bw_64f/NO_ARGS--_Z5l2_bwPjS_PdS0_--0,l2_lat/NO_ARGS--_Z6l2_latPjS_PmS0_--0,mem_bw/NO_ARGS--_Z6mem_bwPfS_S_S_S_S_PjS0_--0,mem_lat/NO_ARGS--_Z7mem_latPjS_PmS0_--0,shared_bw/NO_ARGS--_Z9shared_bwPjS_Pf--0,shared_lat/NO_ARGS--_Z10shared_latPjS_Pmj--0,MaxFlops/NO_ARGS--_Z9max_flopsIfEvPjS0_PT_S2_S2_--0,l1_shared_bw/NO_ARGS--_Z9shared_bwPjS_S_S_j--0,l1_bw_32f_unroll/NO_ARGS--_Z5l1_bwPjS_PfS0_--0,l1_bw_32f_unroll_large/NO_ARGS--_Z5l1_bwPjS_PfS0_--0,AV--VG
+RTX3070-SASS-accel-5ef8f93-gpgpu-deb5eb5-accel-None-gpgpu-None,78.5101,53.6541,72.6251,0.0544,0.0544,328.4504,166.3703,0.0102,102.7166,4.4090,33.1730,0.7429,55.6842,59.6933,80.7768,54.9317,68.2
 RTX3070-SASS-accel-5ef8f93-gpgpu-deb5eb5,78.5101,53.6541,72.6251,0.0544,0.0544,328.4504,166.3703,0.0102,102.7166,4.4090,33.1730,0.7429,55.6842,59.6933,80.7768,54.9317,68.2
 
 ----------------------------------------------------------------------------------------------------
 gpu_occupancy\s*=\s*(.*)%
 ,l1_bw_32f/NO_ARGS--_Z5l1_bwPjS_PfS0_--0,l1_bw_64f/NO_ARGS--_Z5l1_bwPjS_PdS0_--0,l1_bw_128/NO_ARGS--_Z5l1_bwPjS_PfS0_--0,l1_lat/NO_ARGS--_Z6l1_latPjS_PmS0_--0,l1_lat/NO_ARGS--_Z6l1_latPjS_PmS0_--0,l2_bw_32f/NO_ARGS--_Z5l2_bwPjS_PfS0_--0,l2_bw_64f/NO_ARGS--_Z5l2_bwPjS_PdS0_--0,l2_lat/NO_ARGS--_Z6l2_latPjS_PmS0_--0,mem_bw/NO_ARGS--_Z6mem_bwPfS_S_S_S_S_PjS0_--0,mem_lat/NO_ARGS--_Z7mem_latPjS_PmS0_--0,shared_bw/NO_ARGS--_Z9shared_bwPjS_Pf--0,shared_lat/NO_ARGS--_Z10shared_latPjS_Pmj--0,MaxFlops/NO_ARGS--_Z9max_flopsIfEvPjS0_PT_S2_S2_--0,l1_shared_bw/NO_ARGS--_Z9shared_bwPjS_S_S_j--0,l1_bw_32f_unroll/NO_ARGS--_Z5l1_bwPjS_PfS0_--0,l1_bw_32f_unroll_large/NO_ARGS--_Z5l1_bwPjS_PfS0_--0,AV--VG
+RTX3070-SASS-accel-5ef8f93-gpgpu-deb5eb5-accel-None-gpgpu-None,49.8277,49.7366,49.9879,1.5625,1.5625,49.9839,49.9883,1.5625,92.4303,13.5674,49.9985,1.5625,49.9129,49.9918,49.9161,49.9624,38.2
 RTX3070-SASS-accel-5ef8f93-gpgpu-deb5eb5,49.8277,49.7366,49.9879,1.5625,1.5625,49.9839,49.9883,1.5625,92.4303,13.5674,49.9985,1.5625,49.9129,49.9918,49.9161,49.9624,38.2
 
 ----------------------------------------------------------------------------------------------------
 L2_BW\s*=\s*(.*)+GB\/Sec
 ,l1_bw_32f/NO_ARGS--_Z5l1_bwPjS_PfS0_--0,l1_bw_64f/NO_ARGS--_Z5l1_bwPjS_PdS0_--0,l1_bw_128/NO_ARGS--_Z5l1_bwPjS_PfS0_--0,l1_lat/NO_ARGS--_Z6l1_latPjS_PmS0_--0,l1_lat/NO_ARGS--_Z6l1_latPjS_PmS0_--0,l2_bw_32f/NO_ARGS--_Z5l2_bwPjS_PfS0_--0,l2_bw_64f/NO_ARGS--_Z5l2_bwPjS_PdS0_--0,l2_lat/NO_ARGS--_Z6l2_latPjS_PmS0_--0,mem_bw/NO_ARGS--_Z6mem_bwPfS_S_S_S_S_PjS0_--0,mem_lat/NO_ARGS--_Z7mem_latPjS_PmS0_--0,shared_bw/NO_ARGS--_Z9shared_bwPjS_Pf--0,shared_lat/NO_ARGS--_Z10shared_latPjS_Pmj--0,MaxFlops/NO_ARGS--_Z9max_flopsIfEvPjS0_PT_S2_S2_--0,l1_shared_bw/NO_ARGS--_Z9shared_bwPjS_S_S_j--0,l1_bw_32f_unroll/NO_ARGS--_Z5l1_bwPjS_PfS0_--0,l1_bw_32f_unroll_large/NO_ARGS--_Z5l1_bwPjS_PfS0_--0,AV--VG
+RTX3070-SASS-accel-5ef8f93-gpgpu-deb5eb5-accel-None-gpgpu-None,,,,,,,,,,,,,,,,,NA
 RTX3070-SASS-accel-5ef8f93-gpgpu-deb5eb5,,,,,,,,,,,,,,,,,NA
 
 ----------------------------------------------------------------------------------------------------
 gpgpu_simulation_rate\s+=\s+(.*)\s+\(inst\/sec\)
 ,l1_bw_32f/NO_ARGS--_Z5l1_bwPjS_PfS0_--0,l1_bw_64f/NO_ARGS--_Z5l1_bwPjS_PdS0_--0,l1_bw_128/NO_ARGS--_Z5l1_bwPjS_PfS0_--0,l1_lat/NO_ARGS--_Z6l1_latPjS_PmS0_--0,l1_lat/NO_ARGS--_Z6l1_latPjS_PmS0_--0,l2_bw_32f/NO_ARGS--_Z5l2_bwPjS_PfS0_--0,l2_bw_64f/NO_ARGS--_Z5l2_bwPjS_PdS0_--0,l2_lat/NO_ARGS--_Z6l2_latPjS_PmS0_--0,mem_bw/NO_ARGS--_Z6mem_bwPfS_S_S_S_S_PjS0_--0,mem_lat/NO_ARGS--_Z7mem_latPjS_PmS0_--0,shared_bw/NO_ARGS--_Z9shared_bwPjS_Pf--0,shared_lat/NO_ARGS--_Z10shared_latPjS_Pmj--0,MaxFlops/NO_ARGS--_Z9max_flopsIfEvPjS0_PT_S2_S2_--0,l1_shared_bw/NO_ARGS--_Z9shared_bwPjS_S_S_j--0,l1_bw_32f_unroll/NO_ARGS--_Z5l1_bwPjS_PfS0_--0,l1_bw_32f_unroll_large/NO_ARGS--_Z5l1_bwPjS_PfS0_--0,AV--VG
+RTX3070-SASS-accel-5ef8f93-gpgpu-deb5eb5-accel-None-gpgpu-None,92814,64541,95924,91,91,171448,83675,17,32473,7336,88265,1221,139197,96919,121552,92790,68022.1
 RTX3070-SASS-accel-5ef8f93-gpgpu-deb5eb5,92814,64541,95924,91,91,171448,83675,17,32473,7336,88265,1221,139197,96919,121552,92790,68022.1
 
 ----------------------------------------------------------------------------------------------------
 gpgpu_simulation_rate\s+=\s+(.*)\s+\(cycle\/sec\)
 ,l1_bw_32f/NO_ARGS--_Z5l1_bwPjS_PfS0_--0,l1_bw_64f/NO_ARGS--_Z5l1_bwPjS_PdS0_--0,l1_bw_128/NO_ARGS--_Z5l1_bwPjS_PfS0_--0,l1_lat/NO_ARGS--_Z6l1_latPjS_PmS0_--0,l1_lat/NO_ARGS--_Z6l1_latPjS_PmS0_--0,l2_bw_32f/NO_ARGS--_Z5l2_bwPjS_PfS0_--0,l2_bw_64f/NO_ARGS--_Z5l2_bwPjS_PdS0_--0,l2_lat/NO_ARGS--_Z6l2_latPjS_PmS0_--0,mem_bw/NO_ARGS--_Z6mem_bwPfS_S_S_S_S_PjS0_--0,mem_lat/NO_ARGS--_Z7mem_latPjS_PmS0_--0,shared_bw/NO_ARGS--_Z9shared_bwPjS_Pf--0,shared_lat/NO_ARGS--_Z10shared_latPjS_Pmj--0,MaxFlops/NO_ARGS--_Z9max_flopsIfEvPjS0_PT_S2_S2_--0,l1_shared_bw/NO_ARGS--_Z9shared_bwPjS_S_S_j--0,l1_bw_32f_unroll/NO_ARGS--_Z5l1_bwPjS_PfS0_--0,l1_bw_32f_unroll_large/NO_ARGS--_Z5l1_bwPjS_PfS0_--0,AV--VG
+RTX3070-SASS-accel-5ef8f93-gpgpu-deb5eb5-accel-None-gpgpu-None,1182,1202,1320,1681,1681,521,502,1763,316,1664,2660,1644,2499,1623,1504,1689,1465.7
 RTX3070-SASS-accel-5ef8f93-gpgpu-deb5eb5,1182,1202,1320,1681,1681,521,502,1763,316,1664,2660,1644,2499,1623,1504,1689,1465.7
 
 ----------------------------------------------------------------------------------------------------
 gpgpu_silicon_slowdown\s*=\s*(.*)x
 ,l1_bw_32f/NO_ARGS--_Z5l1_bwPjS_PfS0_--0,l1_bw_64f/NO_ARGS--_Z5l1_bwPjS_PdS0_--0,l1_bw_128/NO_ARGS--_Z5l1_bwPjS_PfS0_--0,l1_lat/NO_ARGS--_Z6l1_latPjS_PmS0_--0,l1_lat/NO_ARGS--_Z6l1_latPjS_PmS0_--0,l2_bw_32f/NO_ARGS--_Z5l2_bwPjS_PfS0_--0,l2_bw_64f/NO_ARGS--_Z5l2_bwPjS_PdS0_--0,l2_lat/NO_ARGS--_Z6l2_latPjS_PmS0_--0,mem_bw/NO_ARGS--_Z6mem_bwPfS_S_S_S_S_PjS0_--0,mem_lat/NO_ARGS--_Z7mem_latPjS_PmS0_--0,shared_bw/NO_ARGS--_Z9shared_bwPjS_Pf--0,shared_lat/NO_ARGS--_Z10shared_latPjS_Pmj--0,MaxFlops/NO_ARGS--_Z9max_flopsIfEvPjS0_PT_S2_S2_--0,l1_shared_bw/NO_ARGS--_Z9shared_bwPjS_S_S_j--0,l1_bw_32f_unroll/NO_ARGS--_Z5l1_bwPjS_PfS0_--0,l1_bw_32f_unroll_large/NO_ARGS--_Z5l1_bwPjS_PfS0_--0,AV--VG
+RTX3070-SASS-accel-5ef8f93-gpgpu-deb5eb5-accel-None-gpgpu-None,1116751,1098169,1000000,785246,785246,2533589,2629482,748723,4177215,793269,496240,802919,528211,813308,877659,781527,1247972.1
 RTX3070-SASS-accel-5ef8f93-gpgpu-deb5eb5,1116751,1098169,1000000,785246,785246,2533589,2629482,748723,4177215,793269,496240,802919,528211,813308,877659,781527,1247972.1
 
 ----------------------------------------------------------------------------------------------------
 gpu_tot_ipc\s*=\s*(.*)
 ,l1_bw_32f/NO_ARGS--_Z5l1_bwPjS_PfS0_--0,l1_bw_64f/NO_ARGS--_Z5l1_bwPjS_PdS0_--0,l1_bw_128/NO_ARGS--_Z5l1_bwPjS_PfS0_--0,l1_lat/NO_ARGS--_Z6l1_latPjS_PmS0_--0,l1_lat/NO_ARGS--_Z6l1_latPjS_PmS0_--0,l2_bw_32f/NO_ARGS--_Z5l2_bwPjS_PfS0_--0,l2_bw_64f/NO_ARGS--_Z5l2_bwPjS_PdS0_--0,l2_lat/NO_ARGS--_Z6l2_latPjS_PmS0_--0,mem_bw/NO_ARGS--_Z6mem_bwPfS_S_S_S_S_PjS0_--0,mem_lat/NO_ARGS--_Z7mem_latPjS_PmS0_--0,shared_bw/NO_ARGS--_Z9shared_bwPjS_Pf--0,shared_lat/NO_ARGS--_Z10shared_latPjS_Pmj--0,MaxFlops/NO_ARGS--_Z9max_flopsIfEvPjS0_PT_S2_S2_--0,l1_shared_bw/NO_ARGS--_Z9shared_bwPjS_S_S_j--0,l1_bw_32f_unroll/NO_ARGS--_Z5l1_bwPjS_PfS0_--0,l1_bw_32f_unroll_large/NO_ARGS--_Z5l1_bwPjS_PfS0_--0,AV--VG
+RTX3070-SASS-accel-5ef8f93-gpgpu-deb5eb5-accel-None-gpgpu-None,78.5101,53.6541,72.6251,0.0544,0.0544,328.4504,166.3703,0.0102,102.7166,4.4090,33.1730,0.7429,55.6842,59.6933,80.7768,54.9317,68.2
 RTX3070-SASS-accel-5ef8f93-gpgpu-deb5eb5,78.5101,53.6541,72.6251,0.0544,0.0544,328.4504,166.3703,0.0102,102.7166,4.4090,33.1730,0.7429,55.6842,59.6933,80.7768,54.9317,68.2
 
