@@ -1,125 +1,150 @@
 ----------------------------------------------------------------------------------------------------,,,,,,,,,,,,,,,,
 Accel-Sim-build,,,,,,,,,,,,,,,,
 CFG,l1_bw_32f/NO_ARGS--_Z5l1_bwPjS_PfS0_--0,l1_bw_64f/NO_ARGS--_Z5l1_bwPjS_PdS0_--0,l1_bw_128/NO_ARGS--_Z5l1_bwPjS_PfS0_--0,l1_lat/NO_ARGS--_Z6l1_latPjS_PmS0_--0,l1_lat/NO_ARGS--_Z6l1_latPjS_PmS0_--0,l2_bw_32f/NO_ARGS--_Z5l2_bwPjS_PfS0_--0,l2_bw_64f/NO_ARGS--_Z5l2_bwPjS_PdS0_--0,l2_lat/NO_ARGS--_Z6l2_latPjS_PmS0_--0,mem_bw/NO_ARGS--_Z6mem_bwPfS_S_S_S_S_PjS0_--0,mem_lat/NO_ARGS--_Z7mem_latPjS_PmS0_--0,shared_bw/NO_ARGS--_Z9shared_bwPjS_Pf--0,shared_lat/NO_ARGS--_Z10shared_latPjS_Pmj--0,MaxFlops/NO_ARGS--_Z9max_flopsIfEvPjS0_PT_S2_S2_--0,l1_shared_bw/NO_ARGS--_Z9shared_bwPjS_S_S_j--0,l1_bw_32f_unroll/NO_ARGS--_Z5l1_bwPjS_PfS0_--0,l1_bw_32f_unroll_large/NO_ARGS--_Z5l1_bwPjS_PfS0_--0,AV--VG
+RTX2060-SASS-accel-5ef8f93-gpgpu-deb5eb5-accel-None-gpgpu-None,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 RTX2060-SASS-accel-5ef8f93-gpgpu-deb5eb5,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 
 ----------------------------------------------------------------------------------------------------,,,,,,,,,,,,,,,,
 GPGPU-Sim-build,,,,,,,,,,,,,,,,
 CFG,l1_bw_32f/NO_ARGS--_Z5l1_bwPjS_PfS0_--0,l1_bw_64f/NO_ARGS--_Z5l1_bwPjS_PdS0_--0,l1_bw_128/NO_ARGS--_Z5l1_bwPjS_PfS0_--0,l1_lat/NO_ARGS--_Z6l1_latPjS_PmS0_--0,l1_lat/NO_ARGS--_Z6l1_latPjS_PmS0_--0,l2_bw_32f/NO_ARGS--_Z5l2_bwPjS_PfS0_--0,l2_bw_64f/NO_ARGS--_Z5l2_bwPjS_PdS0_--0,l2_lat/NO_ARGS--_Z6l2_latPjS_PmS0_--0,mem_bw/NO_ARGS--_Z6mem_bwPfS_S_S_S_S_PjS0_--0,mem_lat/NO_ARGS--_Z7mem_latPjS_PmS0_--0,shared_bw/NO_ARGS--_Z9shared_bwPjS_Pf--0,shared_lat/NO_ARGS--_Z10shared_latPjS_Pmj--0,MaxFlops/NO_ARGS--_Z9max_flopsIfEvPjS0_PT_S2_S2_--0,l1_shared_bw/NO_ARGS--_Z9shared_bwPjS_S_S_j--0,l1_bw_32f_unroll/NO_ARGS--_Z5l1_bwPjS_PfS0_--0,l1_bw_32f_unroll_large/NO_ARGS--_Z5l1_bwPjS_PfS0_--0,AV--VG
+RTX2060-SASS-accel-5ef8f93-gpgpu-deb5eb5-accel-None-gpgpu-None,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 RTX2060-SASS-accel-5ef8f93-gpgpu-deb5eb5,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 
 ----------------------------------------------------------------------------------------------------,,,,,,,,,,,,,,,,
 gpu_tot_sim_insn\s*=\s*(.*),,,,,,,,,,,,,,,,
 CFG,l1_bw_32f/NO_ARGS--_Z5l1_bwPjS_PfS0_--0,l1_bw_64f/NO_ARGS--_Z5l1_bwPjS_PdS0_--0,l1_bw_128/NO_ARGS--_Z5l1_bwPjS_PfS0_--0,l1_lat/NO_ARGS--_Z6l1_latPjS_PmS0_--0,l1_lat/NO_ARGS--_Z6l1_latPjS_PmS0_--0,l2_bw_32f/NO_ARGS--_Z5l2_bwPjS_PfS0_--0,l2_bw_64f/NO_ARGS--_Z5l2_bwPjS_PdS0_--0,l2_lat/NO_ARGS--_Z6l2_latPjS_PmS0_--0,mem_bw/NO_ARGS--_Z6mem_bwPfS_S_S_S_S_PjS0_--0,mem_lat/NO_ARGS--_Z7mem_latPjS_PmS0_--0,shared_bw/NO_ARGS--_Z9shared_bwPjS_Pf--0,shared_lat/NO_ARGS--_Z10shared_latPjS_Pmj--0,MaxFlops/NO_ARGS--_Z9max_flopsIfEvPjS0_PT_S2_S2_--0,l1_shared_bw/NO_ARGS--_Z9shared_bwPjS_S_S_j--0,l1_bw_32f_unroll/NO_ARGS--_Z5l1_bwPjS_PfS0_--0,l1_bw_32f_unroll_large/NO_ARGS--_Z5l1_bwPjS_PfS0_--0,AV--VG
+RTX2060-SASS-accel-5ef8f93-gpgpu-deb5eb5-accel-None-gpgpu-None,3586048.0,2405376.0,41493504.0,94050.0,94050.0,705855488.0,706019328.0,47025.0,72482816.0,10557644.0,185699328.0,65970.0,4267008.0,53352448.0,7578624.0,9262080.0,112678799.2
 RTX2060-SASS-accel-5ef8f93-gpgpu-deb5eb5,3586048.0,2405376.0,41493504.0,94050.0,94050.0,705855488.0,706019328.0,47025.0,72482816.0,10557644.0,185699328.0,65970.0,4267008.0,53352448.0,7578624.0,9262080.0,112678799.2
 
 ----------------------------------------------------------------------------------------------------,,,,,,,,,,,,,,,,
 gpgpu_simulation_time\s*=.*\(([0-9]+) sec\).*,,,,,,,,,,,,,,,,
 CFG,l1_bw_32f/NO_ARGS--_Z5l1_bwPjS_PfS0_--0,l1_bw_64f/NO_ARGS--_Z5l1_bwPjS_PdS0_--0,l1_bw_128/NO_ARGS--_Z5l1_bwPjS_PfS0_--0,l1_lat/NO_ARGS--_Z6l1_latPjS_PmS0_--0,l1_lat/NO_ARGS--_Z6l1_latPjS_PmS0_--0,l2_bw_32f/NO_ARGS--_Z5l2_bwPjS_PfS0_--0,l2_bw_64f/NO_ARGS--_Z5l2_bwPjS_PdS0_--0,l2_lat/NO_ARGS--_Z6l2_latPjS_PmS0_--0,mem_bw/NO_ARGS--_Z6mem_bwPfS_S_S_S_S_PjS0_--0,mem_lat/NO_ARGS--_Z7mem_latPjS_PmS0_--0,shared_bw/NO_ARGS--_Z9shared_bwPjS_Pf--0,shared_lat/NO_ARGS--_Z10shared_latPjS_Pmj--0,MaxFlops/NO_ARGS--_Z9max_flopsIfEvPjS0_PT_S2_S2_--0,l1_shared_bw/NO_ARGS--_Z9shared_bwPjS_S_S_j--0,l1_bw_32f_unroll/NO_ARGS--_Z5l1_bwPjS_PfS0_--0,l1_bw_32f_unroll_large/NO_ARGS--_Z5l1_bwPjS_PfS0_--0,AV--VG
+RTX2060-SASS-accel-5ef8f93-gpgpu-deb5eb5-accel-None-gpgpu-None,20.0,23.0,200.0,812.0,812.0,3352.0,6773.0,2191.0,1354.0,1004.0,1249.0,33.0,36.0,291.0,46.0,85.0,1142.6
 RTX2060-SASS-accel-5ef8f93-gpgpu-deb5eb5,20.0,23.0,200.0,812.0,812.0,3352.0,6773.0,2191.0,1354.0,1004.0,1249.0,33.0,36.0,291.0,46.0,85.0,1142.6
 
 ----------------------------------------------------------------------------------------------------,,,,,,,,,,,,,,,,
 gpu_tot_sim_cycle\s*=\s*(.*),,,,,,,,,,,,,,,,
 CFG,l1_bw_32f/NO_ARGS--_Z5l1_bwPjS_PfS0_--0,l1_bw_64f/NO_ARGS--_Z5l1_bwPjS_PdS0_--0,l1_bw_128/NO_ARGS--_Z5l1_bwPjS_PfS0_--0,l1_lat/NO_ARGS--_Z6l1_latPjS_PmS0_--0,l1_lat/NO_ARGS--_Z6l1_latPjS_PmS0_--0,l2_bw_32f/NO_ARGS--_Z5l2_bwPjS_PfS0_--0,l2_bw_64f/NO_ARGS--_Z5l2_bwPjS_PdS0_--0,l2_lat/NO_ARGS--_Z6l2_latPjS_PmS0_--0,mem_bw/NO_ARGS--_Z6mem_bwPfS_S_S_S_S_PjS0_--0,mem_lat/NO_ARGS--_Z7mem_latPjS_PmS0_--0,shared_bw/NO_ARGS--_Z9shared_bwPjS_Pf--0,shared_lat/NO_ARGS--_Z10shared_latPjS_Pmj--0,MaxFlops/NO_ARGS--_Z9max_flopsIfEvPjS0_PT_S2_S2_--0,l1_shared_bw/NO_ARGS--_Z9shared_bwPjS_S_S_j--0,l1_bw_32f_unroll/NO_ARGS--_Z5l1_bwPjS_PfS0_--0,l1_bw_32f_unroll_large/NO_ARGS--_Z5l1_bwPjS_PfS0_--0,AV--VG
+RTX2060-SASS-accel-5ef8f93-gpgpu-deb5eb5-accel-None-gpgpu-None,44149.0,43923.0,550820.0,2126864.0,2126864.0,3096447.0,6160755.0,5740317.0,904484.0,2508371.0,4770144.0,78998.0,76699.0,818780.0,95683.0,225255.0,1835534.6
 RTX2060-SASS-accel-5ef8f93-gpgpu-deb5eb5,44149.0,43923.0,550820.0,2126864.0,2126864.0,3096447.0,6160755.0,5740317.0,904484.0,2508371.0,4770144.0,78998.0,76699.0,818780.0,95683.0,225255.0,1835534.6
 
 ----------------------------------------------------------------------------------------------------,,,,,,,,,,,,,,,,
 \s+L2_cache_stats_breakdown\[GLOBAL_ACC_R\]\[HIT\]\s*=\s*(.*),,,,,,,,,,,,,,,,
 CFG,l1_bw_32f/NO_ARGS--_Z5l1_bwPjS_PfS0_--0,l1_bw_64f/NO_ARGS--_Z5l1_bwPjS_PdS0_--0,l1_bw_128/NO_ARGS--_Z5l1_bwPjS_PfS0_--0,l1_lat/NO_ARGS--_Z6l1_latPjS_PmS0_--0,l1_lat/NO_ARGS--_Z6l1_latPjS_PmS0_--0,l2_bw_32f/NO_ARGS--_Z5l2_bwPjS_PfS0_--0,l2_bw_64f/NO_ARGS--_Z5l2_bwPjS_PdS0_--0,l2_lat/NO_ARGS--_Z6l2_latPjS_PmS0_--0,mem_bw/NO_ARGS--_Z6mem_bwPfS_S_S_S_S_PjS0_--0,mem_lat/NO_ARGS--_Z7mem_latPjS_PmS0_--0,shared_bw/NO_ARGS--_Z9shared_bwPjS_Pf--0,shared_lat/NO_ARGS--_Z10shared_latPjS_Pmj--0,MaxFlops/NO_ARGS--_Z9max_flopsIfEvPjS0_PT_S2_S2_--0,l1_shared_bw/NO_ARGS--_Z9shared_bwPjS_S_S_j--0,l1_bw_32f_unroll/NO_ARGS--_Z5l1_bwPjS_PfS0_--0,l1_bw_32f_unroll_large/NO_ARGS--_Z5l1_bwPjS_PfS0_--0,AV--VG
+RTX2060-SASS-accel-5ef8f93-gpgpu-deb5eb5-accel-None-gpgpu-None,1240.0,916.0,0.0,0.0,0.0,41936383.0,83861558.0,31745.0,0.0,16.0,0.0,0.0,0.0,0.0,0.0,74220.0,7869129.9
 RTX2060-SASS-accel-5ef8f93-gpgpu-deb5eb5,1240.0,916.0,0.0,0.0,0.0,41936383.0,83861558.0,31745.0,0.0,16.0,0.0,0.0,0.0,0.0,0.0,74220.0,7869129.9
 
 ----------------------------------------------------------------------------------------------------,,,,,,,,,,,,,,,,
 \s+L2_cache_stats_breakdown\[GLOBAL_ACC_R\]\[TOTAL_ACCESS\]\s*=\s*(.*),,,,,,,,,,,,,,,,
 CFG,l1_bw_32f/NO_ARGS--_Z5l1_bwPjS_PfS0_--0,l1_bw_64f/NO_ARGS--_Z5l1_bwPjS_PdS0_--0,l1_bw_128/NO_ARGS--_Z5l1_bwPjS_PfS0_--0,l1_lat/NO_ARGS--_Z6l1_latPjS_PmS0_--0,l1_lat/NO_ARGS--_Z6l1_latPjS_PmS0_--0,l2_bw_32f/NO_ARGS--_Z5l2_bwPjS_PfS0_--0,l2_bw_64f/NO_ARGS--_Z5l2_bwPjS_PdS0_--0,l2_lat/NO_ARGS--_Z6l2_latPjS_PmS0_--0,mem_bw/NO_ARGS--_Z6mem_bwPfS_S_S_S_S_PjS0_--0,mem_lat/NO_ARGS--_Z7mem_latPjS_PmS0_--0,shared_bw/NO_ARGS--_Z9shared_bwPjS_Pf--0,shared_lat/NO_ARGS--_Z10shared_latPjS_Pmj--0,MaxFlops/NO_ARGS--_Z9max_flopsIfEvPjS0_PT_S2_S2_--0,l1_shared_bw/NO_ARGS--_Z9shared_bwPjS_S_S_j--0,l1_bw_32f_unroll/NO_ARGS--_Z5l1_bwPjS_PfS0_--0,l1_bw_32f_unroll_large/NO_ARGS--_Z5l1_bwPjS_PfS0_--0,AV--VG
+RTX2060-SASS-accel-5ef8f93-gpgpu-deb5eb5-accel-None-gpgpu-None,3300.0,2972.0,2048.0,2048.0,2048.0,41978369.0,83957078.0,32769.0,5242880.0,8192.0,NA,NA,256.0,257.0,2048.0,90732.0,9380356.9
 RTX2060-SASS-accel-5ef8f93-gpgpu-deb5eb5,3300.0,2972.0,2048.0,2048.0,2048.0,41978369.0,83957078.0,32769.0,5242880.0,8192.0,NA,NA,256.0,257.0,2048.0,90732.0,9380356.9
 
 ----------------------------------------------------------------------------------------------------,,,,,,,,,,,,,,,,
 \s+L2_cache_stats_breakdown\[GLOBAL_ACC_W\]\[HIT\]\s*=\s*(.*),,,,,,,,,,,,,,,,
 CFG,l1_bw_32f/NO_ARGS--_Z5l1_bwPjS_PfS0_--0,l1_bw_64f/NO_ARGS--_Z5l1_bwPjS_PdS0_--0,l1_bw_128/NO_ARGS--_Z5l1_bwPjS_PfS0_--0,l1_lat/NO_ARGS--_Z6l1_latPjS_PmS0_--0,l1_lat/NO_ARGS--_Z6l1_latPjS_PmS0_--0,l2_bw_32f/NO_ARGS--_Z5l2_bwPjS_PfS0_--0,l2_bw_64f/NO_ARGS--_Z5l2_bwPjS_PdS0_--0,l2_lat/NO_ARGS--_Z6l2_latPjS_PmS0_--0,mem_bw/NO_ARGS--_Z6mem_bwPfS_S_S_S_S_PjS0_--0,mem_lat/NO_ARGS--_Z7mem_latPjS_PmS0_--0,shared_bw/NO_ARGS--_Z9shared_bwPjS_Pf--0,shared_lat/NO_ARGS--_Z10shared_latPjS_Pmj--0,MaxFlops/NO_ARGS--_Z9max_flopsIfEvPjS0_PT_S2_S2_--0,l1_shared_bw/NO_ARGS--_Z9shared_bwPjS_S_S_j--0,l1_bw_32f_unroll/NO_ARGS--_Z5l1_bwPjS_PfS0_--0,l1_bw_32f_unroll_large/NO_ARGS--_Z5l1_bwPjS_PfS0_--0,AV--VG
+RTX2060-SASS-accel-5ef8f93-gpgpu-deb5eb5-accel-None-gpgpu-None,12.0,8.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.2
 RTX2060-SASS-accel-5ef8f93-gpgpu-deb5eb5,12.0,8.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.2
 
 ----------------------------------------------------------------------------------------------------,,,,,,,,,,,,,,,,
 \s+L2_cache_stats_breakdown\[GLOBAL_ACC_W\]\[TOTAL_ACCESS\]\s*=\s*(.*),,,,,,,,,,,,,,,,
 CFG,l1_bw_32f/NO_ARGS--_Z5l1_bwPjS_PfS0_--0,l1_bw_64f/NO_ARGS--_Z5l1_bwPjS_PdS0_--0,l1_bw_128/NO_ARGS--_Z5l1_bwPjS_PfS0_--0,l1_lat/NO_ARGS--_Z6l1_latPjS_PmS0_--0,l1_lat/NO_ARGS--_Z6l1_latPjS_PmS0_--0,l2_bw_32f/NO_ARGS--_Z5l2_bwPjS_PfS0_--0,l2_bw_64f/NO_ARGS--_Z5l2_bwPjS_PdS0_--0,l2_lat/NO_ARGS--_Z6l2_latPjS_PmS0_--0,mem_bw/NO_ARGS--_Z6mem_bwPfS_S_S_S_S_PjS0_--0,mem_lat/NO_ARGS--_Z7mem_latPjS_PmS0_--0,shared_bw/NO_ARGS--_Z9shared_bwPjS_Pf--0,shared_lat/NO_ARGS--_Z10shared_latPjS_Pmj--0,MaxFlops/NO_ARGS--_Z9max_flopsIfEvPjS0_PT_S2_S2_--0,l1_shared_bw/NO_ARGS--_Z9shared_bwPjS_S_S_j--0,l1_bw_32f_unroll/NO_ARGS--_Z5l1_bwPjS_PfS0_--0,l1_bw_32f_unroll_large/NO_ARGS--_Z5l1_bwPjS_PfS0_--0,AV--VG
+RTX2060-SASS-accel-5ef8f93-gpgpu-deb5eb5-accel-None-gpgpu-None,384.0,512.0,384.0,8198.0,8198.0,61440.0,81920.0,4099.0,1089536.0,229379.0,384.0,3.0,384.0,384.0,384.0,384.0,92873.3
 RTX2060-SASS-accel-5ef8f93-gpgpu-deb5eb5,384.0,512.0,384.0,8198.0,8198.0,61440.0,81920.0,4099.0,1089536.0,229379.0,384.0,3.0,384.0,384.0,384.0,384.0,92873.3
 
 ----------------------------------------------------------------------------------------------------,,,,,,,,,,,,,,,,
 \s+Total_core_cache_stats_breakdown\[GLOBAL_ACC_R\]\[TOTAL_ACCESS\]\s*=\s*(.*),,,,,,,,,,,,,,,,
 CFG,l1_bw_32f/NO_ARGS--_Z5l1_bwPjS_PfS0_--0,l1_bw_64f/NO_ARGS--_Z5l1_bwPjS_PdS0_--0,l1_bw_128/NO_ARGS--_Z5l1_bwPjS_PfS0_--0,l1_lat/NO_ARGS--_Z6l1_latPjS_PmS0_--0,l1_lat/NO_ARGS--_Z6l1_latPjS_PmS0_--0,l2_bw_32f/NO_ARGS--_Z5l2_bwPjS_PfS0_--0,l2_bw_64f/NO_ARGS--_Z5l2_bwPjS_PdS0_--0,l2_lat/NO_ARGS--_Z6l2_latPjS_PmS0_--0,mem_bw/NO_ARGS--_Z6mem_bwPfS_S_S_S_S_PjS0_--0,mem_lat/NO_ARGS--_Z7mem_latPjS_PmS0_--0,shared_bw/NO_ARGS--_Z9shared_bwPjS_Pf--0,shared_lat/NO_ARGS--_Z10shared_latPjS_Pmj--0,MaxFlops/NO_ARGS--_Z9max_flopsIfEvPjS0_PT_S2_S2_--0,l1_shared_bw/NO_ARGS--_Z9shared_bwPjS_S_S_j--0,l1_bw_32f_unroll/NO_ARGS--_Z5l1_bwPjS_PfS0_--0,l1_bw_32f_unroll_large/NO_ARGS--_Z5l1_bwPjS_PfS0_--0,AV--VG
+RTX2060-SASS-accel-5ef8f93-gpgpu-deb5eb5-accel-None-gpgpu-None,136613.0,136373.0,2099200.0,65538.0,65538.0,NA,NA,NA,NA,8192.0,NA,NA,256.0,655614.0,133120.0,643405.0,394384.9
 RTX2060-SASS-accel-5ef8f93-gpgpu-deb5eb5,136613.0,136373.0,2099200.0,65538.0,65538.0,NA,NA,NA,NA,8192.0,NA,NA,256.0,655614.0,133120.0,643405.0,394384.9
 
 ----------------------------------------------------------------------------------------------------,,,,,,,,,,,,,,,,
 \s+Total_core_cache_stats_breakdown\[GLOBAL_ACC_R\]\[HIT\]\s*=\s*(.*),,,,,,,,,,,,,,,,
 CFG,l1_bw_32f/NO_ARGS--_Z5l1_bwPjS_PfS0_--0,l1_bw_64f/NO_ARGS--_Z5l1_bwPjS_PdS0_--0,l1_bw_128/NO_ARGS--_Z5l1_bwPjS_PfS0_--0,l1_lat/NO_ARGS--_Z6l1_latPjS_PmS0_--0,l1_lat/NO_ARGS--_Z6l1_latPjS_PmS0_--0,l2_bw_32f/NO_ARGS--_Z5l2_bwPjS_PfS0_--0,l2_bw_64f/NO_ARGS--_Z5l2_bwPjS_PdS0_--0,l2_lat/NO_ARGS--_Z6l2_latPjS_PmS0_--0,mem_bw/NO_ARGS--_Z6mem_bwPfS_S_S_S_S_PjS0_--0,mem_lat/NO_ARGS--_Z7mem_latPjS_PmS0_--0,shared_bw/NO_ARGS--_Z9shared_bwPjS_Pf--0,shared_lat/NO_ARGS--_Z10shared_latPjS_Pmj--0,MaxFlops/NO_ARGS--_Z9max_flopsIfEvPjS0_PT_S2_S2_--0,l1_shared_bw/NO_ARGS--_Z9shared_bwPjS_S_S_j--0,l1_bw_32f_unroll/NO_ARGS--_Z5l1_bwPjS_PfS0_--0,l1_bw_32f_unroll_large/NO_ARGS--_Z5l1_bwPjS_PfS0_--0,AV--VG
+RTX2060-SASS-accel-5ef8f93-gpgpu-deb5eb5-accel-None-gpgpu-None,126327.0,126895.0,2097152.0,63490.0,63490.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,655297.0,131072.0,347463.0,225699.1
 RTX2060-SASS-accel-5ef8f93-gpgpu-deb5eb5,126327.0,126895.0,2097152.0,63490.0,63490.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,655297.0,131072.0,347463.0,225699.1
 
 ----------------------------------------------------------------------------------------------------,,,,,,,,,,,,,,,,
 \s+Total_core_cache_stats_breakdown\[GLOBAL_ACC_W\]\[HIT\]\s*=\s*(.*),,,,,,,,,,,,,,,,
 CFG,l1_bw_32f/NO_ARGS--_Z5l1_bwPjS_PfS0_--0,l1_bw_64f/NO_ARGS--_Z5l1_bwPjS_PdS0_--0,l1_bw_128/NO_ARGS--_Z5l1_bwPjS_PfS0_--0,l1_lat/NO_ARGS--_Z6l1_latPjS_PmS0_--0,l1_lat/NO_ARGS--_Z6l1_latPjS_PmS0_--0,l2_bw_32f/NO_ARGS--_Z5l2_bwPjS_PfS0_--0,l2_bw_64f/NO_ARGS--_Z5l2_bwPjS_PdS0_--0,l2_lat/NO_ARGS--_Z6l2_latPjS_PmS0_--0,mem_bw/NO_ARGS--_Z6mem_bwPfS_S_S_S_S_PjS0_--0,mem_lat/NO_ARGS--_Z7mem_latPjS_PmS0_--0,shared_bw/NO_ARGS--_Z9shared_bwPjS_Pf--0,shared_lat/NO_ARGS--_Z10shared_latPjS_Pmj--0,MaxFlops/NO_ARGS--_Z9max_flopsIfEvPjS0_PT_S2_S2_--0,l1_shared_bw/NO_ARGS--_Z9shared_bwPjS_S_S_j--0,l1_bw_32f_unroll/NO_ARGS--_Z5l1_bwPjS_PfS0_--0,l1_bw_32f_unroll_large/NO_ARGS--_Z5l1_bwPjS_PfS0_--0,AV--VG
+RTX2060-SASS-accel-5ef8f93-gpgpu-deb5eb5-accel-None-gpgpu-None,12.0,8.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.2
 RTX2060-SASS-accel-5ef8f93-gpgpu-deb5eb5,12.0,8.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.2
 
 ----------------------------------------------------------------------------------------------------,,,,,,,,,,,,,,,,
 \s+Total_core_cache_stats_breakdown\[GLOBAL_ACC_W\]\[TOTAL_ACCESS\]\s*=\s*(.*),,,,,,,,,,,,,,,,
 CFG,l1_bw_32f/NO_ARGS--_Z5l1_bwPjS_PfS0_--0,l1_bw_64f/NO_ARGS--_Z5l1_bwPjS_PdS0_--0,l1_bw_128/NO_ARGS--_Z5l1_bwPjS_PfS0_--0,l1_lat/NO_ARGS--_Z6l1_latPjS_PmS0_--0,l1_lat/NO_ARGS--_Z6l1_latPjS_PmS0_--0,l2_bw_32f/NO_ARGS--_Z5l2_bwPjS_PfS0_--0,l2_bw_64f/NO_ARGS--_Z5l2_bwPjS_PdS0_--0,l2_lat/NO_ARGS--_Z6l2_latPjS_PmS0_--0,mem_bw/NO_ARGS--_Z6mem_bwPfS_S_S_S_S_PjS0_--0,mem_lat/NO_ARGS--_Z7mem_latPjS_PmS0_--0,shared_bw/NO_ARGS--_Z9shared_bwPjS_Pf--0,shared_lat/NO_ARGS--_Z10shared_latPjS_Pmj--0,MaxFlops/NO_ARGS--_Z9max_flopsIfEvPjS0_PT_S2_S2_--0,l1_shared_bw/NO_ARGS--_Z9shared_bwPjS_S_S_j--0,l1_bw_32f_unroll/NO_ARGS--_Z5l1_bwPjS_PfS0_--0,l1_bw_32f_unroll_large/NO_ARGS--_Z5l1_bwPjS_PfS0_--0,AV--VG
+RTX2060-SASS-accel-5ef8f93-gpgpu-deb5eb5-accel-None-gpgpu-None,384.0,512.0,384.0,8198.0,8198.0,61440.0,81920.0,4099.0,1089536.0,229379.0,384.0,3.0,384.0,384.0,384.0,384.0,92873.3
 RTX2060-SASS-accel-5ef8f93-gpgpu-deb5eb5,384.0,512.0,384.0,8198.0,8198.0,61440.0,81920.0,4099.0,1089536.0,229379.0,384.0,3.0,384.0,384.0,384.0,384.0,92873.3
 
 ----------------------------------------------------------------------------------------------------,,,,,,,,,,,,,,,,
 \s+Total_core_cache_stats_breakdown\[GLOBAL_ACC_R\]\[MSHR_HIT\]\s*=\s*(.*),,,,,,,,,,,,,,,,
 CFG,l1_bw_32f/NO_ARGS--_Z5l1_bwPjS_PfS0_--0,l1_bw_64f/NO_ARGS--_Z5l1_bwPjS_PdS0_--0,l1_bw_128/NO_ARGS--_Z5l1_bwPjS_PfS0_--0,l1_lat/NO_ARGS--_Z6l1_latPjS_PmS0_--0,l1_lat/NO_ARGS--_Z6l1_latPjS_PmS0_--0,l2_bw_32f/NO_ARGS--_Z5l2_bwPjS_PfS0_--0,l2_bw_64f/NO_ARGS--_Z5l2_bwPjS_PdS0_--0,l2_lat/NO_ARGS--_Z6l2_latPjS_PmS0_--0,mem_bw/NO_ARGS--_Z6mem_bwPfS_S_S_S_S_PjS0_--0,mem_lat/NO_ARGS--_Z7mem_latPjS_PmS0_--0,shared_bw/NO_ARGS--_Z9shared_bwPjS_Pf--0,shared_lat/NO_ARGS--_Z10shared_latPjS_Pmj--0,MaxFlops/NO_ARGS--_Z9max_flopsIfEvPjS0_PT_S2_S2_--0,l1_shared_bw/NO_ARGS--_Z9shared_bwPjS_S_S_j--0,l1_bw_32f_unroll/NO_ARGS--_Z5l1_bwPjS_PfS0_--0,l1_bw_32f_unroll_large/NO_ARGS--_Z5l1_bwPjS_PfS0_--0,AV--VG
+RTX2060-SASS-accel-5ef8f93-gpgpu-deb5eb5-accel-None-gpgpu-None,3493.0,3253.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,30.0,0.0,102605.0,6836.3
 RTX2060-SASS-accel-5ef8f93-gpgpu-deb5eb5,3493.0,3253.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,30.0,0.0,102605.0,6836.3
 
 ----------------------------------------------------------------------------------------------------,,,,,,,,,,,,,,,,
 gpgpu_n_tot_w_icount\s*=\s*(.*),,,,,,,,,,,,,,,,
 CFG,l1_bw_32f/NO_ARGS--_Z5l1_bwPjS_PfS0_--0,l1_bw_64f/NO_ARGS--_Z5l1_bwPjS_PdS0_--0,l1_bw_128/NO_ARGS--_Z5l1_bwPjS_PfS0_--0,l1_lat/NO_ARGS--_Z6l1_latPjS_PmS0_--0,l1_lat/NO_ARGS--_Z6l1_latPjS_PmS0_--0,l2_bw_32f/NO_ARGS--_Z5l2_bwPjS_PfS0_--0,l2_bw_64f/NO_ARGS--_Z5l2_bwPjS_PdS0_--0,l2_lat/NO_ARGS--_Z6l2_latPjS_PmS0_--0,mem_bw/NO_ARGS--_Z6mem_bwPfS_S_S_S_S_PjS0_--0,mem_lat/NO_ARGS--_Z7mem_latPjS_PmS0_--0,shared_bw/NO_ARGS--_Z9shared_bwPjS_Pf--0,shared_lat/NO_ARGS--_Z10shared_latPjS_Pmj--0,MaxFlops/NO_ARGS--_Z9max_flopsIfEvPjS0_PT_S2_S2_--0,l1_shared_bw/NO_ARGS--_Z9shared_bwPjS_S_S_j--0,l1_bw_32f_unroll/NO_ARGS--_Z5l1_bwPjS_PfS0_--0,l1_bw_32f_unroll_large/NO_ARGS--_Z5l1_bwPjS_PfS0_--0,AV--VG
+RTX2060-SASS-accel-5ef8f93-gpgpu-deb5eb5-accel-None-gpgpu-None,112224.0,75328.0,1296832.0,94058.0,94058.0,22078464.0,22083584.0,47029.0,2280448.0,365130.0,6393056.0,6094.0,133920.0,1667424.0,236992.0,289664.0,3578394.1
 RTX2060-SASS-accel-5ef8f93-gpgpu-deb5eb5,112224.0,75328.0,1296832.0,94058.0,94058.0,22078464.0,22083584.0,47029.0,2280448.0,365130.0,6393056.0,6094.0,133920.0,1667424.0,236992.0,289664.0,3578394.1
 
 ----------------------------------------------------------------------------------------------------,,,,,,,,,,,,,,,,
 total dram reads\s*=\s*(.*),,,,,,,,,,,,,,,,
 CFG,l1_bw_32f/NO_ARGS--_Z5l1_bwPjS_PfS0_--0,l1_bw_64f/NO_ARGS--_Z5l1_bwPjS_PdS0_--0,l1_bw_128/NO_ARGS--_Z5l1_bwPjS_PfS0_--0,l1_lat/NO_ARGS--_Z6l1_latPjS_PmS0_--0,l1_lat/NO_ARGS--_Z6l1_latPjS_PmS0_--0,l2_bw_32f/NO_ARGS--_Z5l2_bwPjS_PfS0_--0,l2_bw_64f/NO_ARGS--_Z5l2_bwPjS_PdS0_--0,l2_lat/NO_ARGS--_Z6l2_latPjS_PmS0_--0,mem_bw/NO_ARGS--_Z6mem_bwPfS_S_S_S_S_PjS0_--0,mem_lat/NO_ARGS--_Z7mem_latPjS_PmS0_--0,shared_bw/NO_ARGS--_Z9shared_bwPjS_Pf--0,shared_lat/NO_ARGS--_Z10shared_latPjS_Pmj--0,MaxFlops/NO_ARGS--_Z9max_flopsIfEvPjS0_PT_S2_S2_--0,l1_shared_bw/NO_ARGS--_Z9shared_bwPjS_S_S_j--0,l1_bw_32f_unroll/NO_ARGS--_Z5l1_bwPjS_PfS0_--0,l1_bw_32f_unroll_large/NO_ARGS--_Z5l1_bwPjS_PfS0_--0,AV--VG
+RTX2060-SASS-accel-5ef8f93-gpgpu-deb5eb5-accel-None-gpgpu-None,2060.0,2056.0,2048.0,2048.0,2048.0,28672.0,68212.0,1024.0,5242880.0,8176.0,0.0,0.0,256.0,257.0,2048.0,16512.0,336143.6
 RTX2060-SASS-accel-5ef8f93-gpgpu-deb5eb5,2060.0,2056.0,2048.0,2048.0,2048.0,28672.0,68212.0,1024.0,5242880.0,8176.0,0.0,0.0,256.0,257.0,2048.0,16512.0,336143.6
 
 ----------------------------------------------------------------------------------------------------,,,,,,,,,,,,,,,,
 total dram writes\s*=\s*(.*),,,,,,,,,,,,,,,,
 CFG,l1_bw_32f/NO_ARGS--_Z5l1_bwPjS_PfS0_--0,l1_bw_64f/NO_ARGS--_Z5l1_bwPjS_PdS0_--0,l1_bw_128/NO_ARGS--_Z5l1_bwPjS_PfS0_--0,l1_lat/NO_ARGS--_Z6l1_latPjS_PmS0_--0,l1_lat/NO_ARGS--_Z6l1_latPjS_PmS0_--0,l2_bw_32f/NO_ARGS--_Z5l2_bwPjS_PfS0_--0,l2_bw_64f/NO_ARGS--_Z5l2_bwPjS_PdS0_--0,l2_lat/NO_ARGS--_Z6l2_latPjS_PmS0_--0,mem_bw/NO_ARGS--_Z6mem_bwPfS_S_S_S_S_PjS0_--0,mem_lat/NO_ARGS--_Z7mem_latPjS_PmS0_--0,shared_bw/NO_ARGS--_Z9shared_bwPjS_Pf--0,shared_lat/NO_ARGS--_Z10shared_latPjS_Pmj--0,MaxFlops/NO_ARGS--_Z9max_flopsIfEvPjS0_PT_S2_S2_--0,l1_shared_bw/NO_ARGS--_Z9shared_bwPjS_S_S_j--0,l1_bw_32f_unroll/NO_ARGS--_Z5l1_bwPjS_PfS0_--0,l1_bw_32f_unroll_large/NO_ARGS--_Z5l1_bwPjS_PfS0_--0,AV--VG
+RTX2060-SASS-accel-5ef8f93-gpgpu-deb5eb5-accel-None-gpgpu-None,0.0,0.0,0.0,0.0,0.0,0.0,25384.0,0.0,1066960.0,139257.0,0.0,0.0,0.0,0.0,0.0,0.0,76975.1
 RTX2060-SASS-accel-5ef8f93-gpgpu-deb5eb5,0.0,0.0,0.0,0.0,0.0,0.0,25384.0,0.0,1066960.0,139257.0,0.0,0.0,0.0,0.0,0.0,0.0,76975.1
 
 ----------------------------------------------------------------------------------------------------,,,,,,,,,,,,,,,,
 kernel_launch_uid\s*=\s*(.*),,,,,,,,,,,,,,,,
 CFG,l1_bw_32f/NO_ARGS--_Z5l1_bwPjS_PfS0_--0,l1_bw_64f/NO_ARGS--_Z5l1_bwPjS_PdS0_--0,l1_bw_128/NO_ARGS--_Z5l1_bwPjS_PfS0_--0,l1_lat/NO_ARGS--_Z6l1_latPjS_PmS0_--0,l1_lat/NO_ARGS--_Z6l1_latPjS_PmS0_--0,l2_bw_32f/NO_ARGS--_Z5l2_bwPjS_PfS0_--0,l2_bw_64f/NO_ARGS--_Z5l2_bwPjS_PdS0_--0,l2_lat/NO_ARGS--_Z6l2_latPjS_PmS0_--0,mem_bw/NO_ARGS--_Z6mem_bwPfS_S_S_S_S_PjS0_--0,mem_lat/NO_ARGS--_Z7mem_latPjS_PmS0_--0,shared_bw/NO_ARGS--_Z9shared_bwPjS_Pf--0,shared_lat/NO_ARGS--_Z10shared_latPjS_Pmj--0,MaxFlops/NO_ARGS--_Z9max_flopsIfEvPjS0_PT_S2_S2_--0,l1_shared_bw/NO_ARGS--_Z9shared_bwPjS_S_S_j--0,l1_bw_32f_unroll/NO_ARGS--_Z5l1_bwPjS_PfS0_--0,l1_bw_32f_unroll_large/NO_ARGS--_Z5l1_bwPjS_PfS0_--0,AV--VG
+RTX2060-SASS-accel-5ef8f93-gpgpu-deb5eb5-accel-None-gpgpu-None,1.0,1.0,1.0,2.0,2.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.1
 RTX2060-SASS-accel-5ef8f93-gpgpu-deb5eb5,1.0,1.0,1.0,2.0,2.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.1
 
 ----------------------------------------------------------------------------------------------------,,,,,,,,,,,,,,,,
 gpu_ipc\s*=\s*(.*),,,,,,,,,,,,,,,,
 CFG,l1_bw_32f/NO_ARGS--_Z5l1_bwPjS_PfS0_--0,l1_bw_64f/NO_ARGS--_Z5l1_bwPjS_PdS0_--0,l1_bw_128/NO_ARGS--_Z5l1_bwPjS_PfS0_--0,l1_lat/NO_ARGS--_Z6l1_latPjS_PmS0_--0,l1_lat/NO_ARGS--_Z6l1_latPjS_PmS0_--0,l2_bw_32f/NO_ARGS--_Z5l2_bwPjS_PfS0_--0,l2_bw_64f/NO_ARGS--_Z5l2_bwPjS_PdS0_--0,l2_lat/NO_ARGS--_Z6l2_latPjS_PmS0_--0,mem_bw/NO_ARGS--_Z6mem_bwPfS_S_S_S_S_PjS0_--0,mem_lat/NO_ARGS--_Z7mem_latPjS_PmS0_--0,shared_bw/NO_ARGS--_Z9shared_bwPjS_Pf--0,shared_lat/NO_ARGS--_Z10shared_latPjS_Pmj--0,MaxFlops/NO_ARGS--_Z9max_flopsIfEvPjS0_PT_S2_S2_--0,l1_shared_bw/NO_ARGS--_Z9shared_bwPjS_S_S_j--0,l1_bw_32f_unroll/NO_ARGS--_Z5l1_bwPjS_PfS0_--0,l1_bw_32f_unroll_large/NO_ARGS--_Z5l1_bwPjS_PfS0_--0,AV--VG
+RTX2060-SASS-accel-5ef8f93-gpgpu-deb5eb5-accel-None-gpgpu-None,81.2260,54.7635,75.3304,0.0442,0.0442,227.9566,114.5995,0.0082,80.1372,4.2090,38.9295,0.8351,55.6332,65.1609,79.2055,41.1182,57.5
 RTX2060-SASS-accel-5ef8f93-gpgpu-deb5eb5,81.2260,54.7635,75.3304,0.0442,0.0442,227.9566,114.5995,0.0082,80.1372,4.2090,38.9295,0.8351,55.6332,65.1609,79.2055,41.1182,57.5
 
 ----------------------------------------------------------------------------------------------------,,,,,,,,,,,,,,,,
 gpu_occupancy\s*=\s*(.*)%,,,,,,,,,,,,,,,,
 CFG,l1_bw_32f/NO_ARGS--_Z5l1_bwPjS_PfS0_--0,l1_bw_64f/NO_ARGS--_Z5l1_bwPjS_PdS0_--0,l1_bw_128/NO_ARGS--_Z5l1_bwPjS_PfS0_--0,l1_lat/NO_ARGS--_Z6l1_latPjS_PmS0_--0,l1_lat/NO_ARGS--_Z6l1_latPjS_PmS0_--0,l2_bw_32f/NO_ARGS--_Z5l2_bwPjS_PfS0_--0,l2_bw_64f/NO_ARGS--_Z5l2_bwPjS_PdS0_--0,l2_lat/NO_ARGS--_Z6l2_latPjS_PmS0_--0,mem_bw/NO_ARGS--_Z6mem_bwPfS_S_S_S_S_PjS0_--0,mem_lat/NO_ARGS--_Z7mem_latPjS_PmS0_--0,shared_bw/NO_ARGS--_Z9shared_bwPjS_Pf--0,shared_lat/NO_ARGS--_Z10shared_latPjS_Pmj--0,MaxFlops/NO_ARGS--_Z9max_flopsIfEvPjS0_PT_S2_S2_--0,l1_shared_bw/NO_ARGS--_Z9shared_bwPjS_S_S_j--0,l1_bw_32f_unroll/NO_ARGS--_Z5l1_bwPjS_PfS0_--0,l1_bw_32f_unroll_large/NO_ARGS--_Z5l1_bwPjS_PfS0_--0,AV--VG
+RTX2060-SASS-accel-5ef8f93-gpgpu-deb5eb5-accel-None-gpgpu-None,99.6815,99.4481,99.9758,3.1250,3.1250,99.9630,99.9754,3.1250,99.4509,16.9240,99.9970,3.1250,99.7900,99.9818,99.8508,99.9331,70.5
 RTX2060-SASS-accel-5ef8f93-gpgpu-deb5eb5,99.6815,99.4481,99.9758,3.1250,3.1250,99.9630,99.9754,3.1250,99.4509,16.9240,99.9970,3.1250,99.7900,99.9818,99.8508,99.9331,70.5
 
 ----------------------------------------------------------------------------------------------------,,,,,,,,,,,,,,,,
 L2_BW\s*=\s*(.*)+GB\/Sec,,,,,,,,,,,,,,,,
 CFG,l1_bw_32f/NO_ARGS--_Z5l1_bwPjS_PfS0_--0,l1_bw_64f/NO_ARGS--_Z5l1_bwPjS_PdS0_--0,l1_bw_128/NO_ARGS--_Z5l1_bwPjS_PfS0_--0,l1_lat/NO_ARGS--_Z6l1_latPjS_PmS0_--0,l1_lat/NO_ARGS--_Z6l1_latPjS_PmS0_--0,l2_bw_32f/NO_ARGS--_Z5l2_bwPjS_PfS0_--0,l2_bw_64f/NO_ARGS--_Z5l2_bwPjS_PdS0_--0,l2_lat/NO_ARGS--_Z6l2_latPjS_PmS0_--0,mem_bw/NO_ARGS--_Z6mem_bwPfS_S_S_S_S_PjS0_--0,mem_lat/NO_ARGS--_Z7mem_latPjS_PmS0_--0,shared_bw/NO_ARGS--_Z9shared_bwPjS_Pf--0,shared_lat/NO_ARGS--_Z10shared_latPjS_Pmj--0,MaxFlops/NO_ARGS--_Z9max_flopsIfEvPjS0_PT_S2_S2_--0,l1_shared_bw/NO_ARGS--_Z9shared_bwPjS_S_S_j--0,l1_bw_32f_unroll/NO_ARGS--_Z5l1_bwPjS_PfS0_--0,l1_bw_32f_unroll_large/NO_ARGS--_Z5l1_bwPjS_PfS0_--0,AV--VG
+RTX2060-SASS-accel-5ef8f93-gpgpu-deb5eb5-accel-None-gpgpu-None,,,,,,,,,,,,,,,,,NA
 RTX2060-SASS-accel-5ef8f93-gpgpu-deb5eb5,,,,,,,,,,,,,,,,,NA
 
 ----------------------------------------------------------------------------------------------------,,,,,,,,,,,,,,,,
 gpgpu_simulation_rate\s+=\s+(.*)\s+\(inst\/sec\),,,,,,,,,,,,,,,,
 CFG,l1_bw_32f/NO_ARGS--_Z5l1_bwPjS_PfS0_--0,l1_bw_64f/NO_ARGS--_Z5l1_bwPjS_PdS0_--0,l1_bw_128/NO_ARGS--_Z5l1_bwPjS_PfS0_--0,l1_lat/NO_ARGS--_Z6l1_latPjS_PmS0_--0,l1_lat/NO_ARGS--_Z6l1_latPjS_PmS0_--0,l2_bw_32f/NO_ARGS--_Z5l2_bwPjS_PfS0_--0,l2_bw_64f/NO_ARGS--_Z5l2_bwPjS_PdS0_--0,l2_lat/NO_ARGS--_Z6l2_latPjS_PmS0_--0,mem_bw/NO_ARGS--_Z6mem_bwPfS_S_S_S_S_PjS0_--0,mem_lat/NO_ARGS--_Z7mem_latPjS_PmS0_--0,shared_bw/NO_ARGS--_Z9shared_bwPjS_Pf--0,shared_lat/NO_ARGS--_Z10shared_latPjS_Pmj--0,MaxFlops/NO_ARGS--_Z9max_flopsIfEvPjS0_PT_S2_S2_--0,l1_shared_bw/NO_ARGS--_Z9shared_bwPjS_S_S_j--0,l1_bw_32f_unroll/NO_ARGS--_Z5l1_bwPjS_PfS0_--0,l1_bw_32f_unroll_large/NO_ARGS--_Z5l1_bwPjS_PfS0_--0,AV--VG
+RTX2060-SASS-accel-5ef8f93-gpgpu-deb5eb5-accel-None-gpgpu-None,179302,104581,207467,115,115,210577,104240,21,53532,10515,148678,1999,118528,183341,164752,108965,99795.5
 RTX2060-SASS-accel-5ef8f93-gpgpu-deb5eb5,179302,104581,207467,115,115,210577,104240,21,53532,10515,148678,1999,118528,183341,164752,108965,99795.5
 
 ----------------------------------------------------------------------------------------------------,,,,,,,,,,,,,,,,
 gpgpu_simulation_rate\s+=\s+(.*)\s+\(cycle\/sec\),,,,,,,,,,,,,,,,
 CFG,l1_bw_32f/NO_ARGS--_Z5l1_bwPjS_PfS0_--0,l1_bw_64f/NO_ARGS--_Z5l1_bwPjS_PdS0_--0,l1_bw_128/NO_ARGS--_Z5l1_bwPjS_PfS0_--0,l1_lat/NO_ARGS--_Z6l1_latPjS_PmS0_--0,l1_lat/NO_ARGS--_Z6l1_latPjS_PmS0_--0,l2_bw_32f/NO_ARGS--_Z5l2_bwPjS_PfS0_--0,l2_bw_64f/NO_ARGS--_Z5l2_bwPjS_PdS0_--0,l2_lat/NO_ARGS--_Z6l2_latPjS_PmS0_--0,mem_bw/NO_ARGS--_Z6mem_bwPfS_S_S_S_S_PjS0_--0,mem_lat/NO_ARGS--_Z7mem_latPjS_PmS0_--0,shared_bw/NO_ARGS--_Z9shared_bwPjS_Pf--0,shared_lat/NO_ARGS--_Z10shared_latPjS_Pmj--0,MaxFlops/NO_ARGS--_Z9max_flopsIfEvPjS0_PT_S2_S2_--0,l1_shared_bw/NO_ARGS--_Z9shared_bwPjS_S_S_j--0,l1_bw_32f_unroll/NO_ARGS--_Z5l1_bwPjS_PfS0_--0,l1_bw_32f_unroll_large/NO_ARGS--_Z5l1_bwPjS_PfS0_--0,AV--VG
+RTX2060-SASS-accel-5ef8f93-gpgpu-deb5eb5-accel-None-gpgpu-None,2207,1909,2754,2619,2619,923,909,2619,668,2498,3819,2393,2130,2813,2080,2650,2225.6
 RTX2060-SASS-accel-5ef8f93-gpgpu-deb5eb5,2207,1909,2754,2619,2619,923,909,2619,668,2498,3819,2393,2130,2813,2080,2650,2225.6
 
 ----------------------------------------------------------------------------------------------------,,,,,,,,,,,,,,,,
 gpgpu_silicon_slowdown\s*=\s*(.*)x,,,,,,,,,,,,,,,,
 CFG,l1_bw_32f/NO_ARGS--_Z5l1_bwPjS_PfS0_--0,l1_bw_64f/NO_ARGS--_Z5l1_bwPjS_PdS0_--0,l1_bw_128/NO_ARGS--_Z5l1_bwPjS_PfS0_--0,l1_lat/NO_ARGS--_Z6l1_latPjS_PmS0_--0,l1_lat/NO_ARGS--_Z6l1_latPjS_PmS0_--0,l2_bw_32f/NO_ARGS--_Z5l2_bwPjS_PfS0_--0,l2_bw_64f/NO_ARGS--_Z5l2_bwPjS_PdS0_--0,l2_lat/NO_ARGS--_Z6l2_latPjS_PmS0_--0,mem_bw/NO_ARGS--_Z6mem_bwPfS_S_S_S_S_PjS0_--0,mem_lat/NO_ARGS--_Z7mem_latPjS_PmS0_--0,shared_bw/NO_ARGS--_Z9shared_bwPjS_Pf--0,shared_lat/NO_ARGS--_Z10shared_latPjS_Pmj--0,MaxFlops/NO_ARGS--_Z9max_flopsIfEvPjS0_PT_S2_S2_--0,l1_shared_bw/NO_ARGS--_Z9shared_bwPjS_S_S_j--0,l1_bw_32f_unroll/NO_ARGS--_Z5l1_bwPjS_PfS0_--0,l1_bw_32f_unroll_large/NO_ARGS--_Z5l1_bwPjS_PfS0_--0,AV--VG
+RTX2060-SASS-accel-5ef8f93-gpgpu-deb5eb5-accel-None-gpgpu-None,618486,715034,495642,521191,521191,1478873,1501650,521191,2043413,546437,357423,570413,640845,485247,656250,515094,761773.8
 RTX2060-SASS-accel-5ef8f93-gpgpu-deb5eb5,618486,715034,495642,521191,521191,1478873,1501650,521191,2043413,546437,357423,570413,640845,485247,656250,515094,761773.8
 
 ----------------------------------------------------------------------------------------------------,,,,,,,,,,,,,,,,
 gpu_tot_ipc\s*=\s*(.*),,,,,,,,,,,,,,,,
 CFG,l1_bw_32f/NO_ARGS--_Z5l1_bwPjS_PfS0_--0,l1_bw_64f/NO_ARGS--_Z5l1_bwPjS_PdS0_--0,l1_bw_128/NO_ARGS--_Z5l1_bwPjS_PfS0_--0,l1_lat/NO_ARGS--_Z6l1_latPjS_PmS0_--0,l1_lat/NO_ARGS--_Z6l1_latPjS_PmS0_--0,l2_bw_32f/NO_ARGS--_Z5l2_bwPjS_PfS0_--0,l2_bw_64f/NO_ARGS--_Z5l2_bwPjS_PdS0_--0,l2_lat/NO_ARGS--_Z6l2_latPjS_PmS0_--0,mem_bw/NO_ARGS--_Z6mem_bwPfS_S_S_S_S_PjS0_--0,mem_lat/NO_ARGS--_Z7mem_latPjS_PmS0_--0,shared_bw/NO_ARGS--_Z9shared_bwPjS_Pf--0,shared_lat/NO_ARGS--_Z10shared_latPjS_Pmj--0,MaxFlops/NO_ARGS--_Z9max_flopsIfEvPjS0_PT_S2_S2_--0,l1_shared_bw/NO_ARGS--_Z9shared_bwPjS_S_S_j--0,l1_bw_32f_unroll/NO_ARGS--_Z5l1_bwPjS_PfS0_--0,l1_bw_32f_unroll_large/NO_ARGS--_Z5l1_bwPjS_PfS0_--0,AV--VG
+RTX2060-SASS-accel-5ef8f93-gpgpu-deb5eb5-accel-None-gpgpu-None,81.2260,54.7635,75.3304,0.0442,0.0442,227.9566,114.5995,0.0082,80.1372,4.2090,38.9295,0.8351,55.6332,65.1609,79.2055,41.1182,57.5
 RTX2060-SASS-accel-5ef8f93-gpgpu-deb5eb5,81.2260,54.7635,75.3304,0.0442,0.0442,227.9566,114.5995,0.0082,80.1372,4.2090,38.9295,0.8351,55.6332,65.1609,79.2055,41.1182,57.5
 
