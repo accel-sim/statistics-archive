@@ -20,7 +20,7 @@ RTX2060-SASS-accel-c366657-gpgpu-deb5eb5,3586048.0,2405376.0,41493504.0,94050.0,
 gpgpu_simulation_time\s*=.*\(([0-9]+) sec\).*,,,,,,,,,,,,,,,,
 CFG,l1_bw_32f/NO_ARGS--_Z5l1_bwPjS_PfS0_--0,l1_bw_64f/NO_ARGS--_Z5l1_bwPjS_PdS0_--0,l1_bw_128/NO_ARGS--_Z5l1_bwPjS_PfS0_--0,l1_lat/NO_ARGS--_Z6l1_latPjS_PmS0_--0,l1_lat/NO_ARGS--_Z6l1_latPjS_PmS0_--0,l2_bw_32f/NO_ARGS--_Z5l2_bwPjS_PfS0_--0,l2_bw_64f/NO_ARGS--_Z5l2_bwPjS_PdS0_--0,l2_lat/NO_ARGS--_Z6l2_latPjS_PmS0_--0,mem_bw/NO_ARGS--_Z6mem_bwPfS_S_S_S_S_PjS0_--0,mem_lat/NO_ARGS--_Z7mem_latPjS_PmS0_--0,shared_bw/NO_ARGS--_Z9shared_bwPjS_Pf--0,shared_lat/NO_ARGS--_Z10shared_latPjS_Pmj--0,MaxFlops/NO_ARGS--_Z9max_flopsIfEvPjS0_PT_S2_S2_--0,l1_shared_bw/NO_ARGS--_Z9shared_bwPjS_S_S_j--0,l1_bw_32f_unroll/NO_ARGS--_Z5l1_bwPjS_PfS0_--0,l1_bw_32f_unroll_large/NO_ARGS--_Z5l1_bwPjS_PfS0_--0,AV--VG
 RTX2060-SASS-accel-f677b74-gpgpu-deb5eb5,27.0,27.0,270.0,830.0,830.0,3230.0,6643.0,2145.0,1352.0,1026.0,1226.0,32.0,38.0,363.0,49.0,87.0,1135.9
-RTX2060-SASS-accel-c366657-gpgpu-deb5eb5,25.0,29.0,203.0,858.0,858.0,5341.0,8346.0,1995.0,1760.0,1049.0,1607.0,33.0,34.0,356.0,47.0,92.0,1414.6
+RTX2060-SASS-accel-c366657-gpgpu-deb5eb5,24.0,23.0,240.0,822.0,822.0,3335.0,6783.0,2179.0,1375.0,1000.0,1253.0,33.0,37.0,277.0,49.0,87.0,1146.2
 
 ----------------------------------------------------------------------------------------------------,,,,,,,,,,,,,,,,
 gpu_tot_sim_cycle\s*=\s*(.*),,,,,,,,,,,,,,,,
@@ -128,19 +128,19 @@ RTX2060-SASS-accel-c366657-gpgpu-deb5eb5,,,,,,,,,,,,,,,,,NA
 gpgpu_simulation_rate\s+=\s+(.*)\s+\(inst\/sec\),,,,,,,,,,,,,,,,
 CFG,l1_bw_32f/NO_ARGS--_Z5l1_bwPjS_PfS0_--0,l1_bw_64f/NO_ARGS--_Z5l1_bwPjS_PdS0_--0,l1_bw_128/NO_ARGS--_Z5l1_bwPjS_PfS0_--0,l1_lat/NO_ARGS--_Z6l1_latPjS_PmS0_--0,l1_lat/NO_ARGS--_Z6l1_latPjS_PmS0_--0,l2_bw_32f/NO_ARGS--_Z5l2_bwPjS_PfS0_--0,l2_bw_64f/NO_ARGS--_Z5l2_bwPjS_PdS0_--0,l2_lat/NO_ARGS--_Z6l2_latPjS_PmS0_--0,mem_bw/NO_ARGS--_Z6mem_bwPfS_S_S_S_S_PjS0_--0,mem_lat/NO_ARGS--_Z7mem_latPjS_PmS0_--0,shared_bw/NO_ARGS--_Z9shared_bwPjS_Pf--0,shared_lat/NO_ARGS--_Z10shared_latPjS_Pmj--0,MaxFlops/NO_ARGS--_Z9max_flopsIfEvPjS0_PT_S2_S2_--0,l1_shared_bw/NO_ARGS--_Z9shared_bwPjS_S_S_j--0,l1_bw_32f_unroll/NO_ARGS--_Z5l1_bwPjS_PfS0_--0,l1_bw_32f_unroll_large/NO_ARGS--_Z5l1_bwPjS_PfS0_--0,AV--VG
 RTX2060-SASS-accel-f677b74-gpgpu-deb5eb5,132816,89088,153679,113,113,218531,106280,21,53611,10290,151467,2061,112289,146976,154665,106460,89903.8
-RTX2060-SASS-accel-c366657-gpgpu-deb5eb5,143441,82944,204401,109,109,132157,84593,23,41183,10064,115556,1999,125500,149866,161247,100674,84616.6
+RTX2060-SASS-accel-c366657-gpgpu-deb5eb5,149418,104581,172889,114,114,211650,104086,21,52714,10557,148203,1999,115324,192608,154665,106460,95337.7
 
 ----------------------------------------------------------------------------------------------------,,,,,,,,,,,,,,,,
 gpgpu_simulation_rate\s+=\s+(.*)\s+\(cycle\/sec\),,,,,,,,,,,,,,,,
 CFG,l1_bw_32f/NO_ARGS--_Z5l1_bwPjS_PfS0_--0,l1_bw_64f/NO_ARGS--_Z5l1_bwPjS_PdS0_--0,l1_bw_128/NO_ARGS--_Z5l1_bwPjS_PfS0_--0,l1_lat/NO_ARGS--_Z6l1_latPjS_PmS0_--0,l1_lat/NO_ARGS--_Z6l1_latPjS_PmS0_--0,l2_bw_32f/NO_ARGS--_Z5l2_bwPjS_PfS0_--0,l2_bw_64f/NO_ARGS--_Z5l2_bwPjS_PdS0_--0,l2_lat/NO_ARGS--_Z6l2_latPjS_PmS0_--0,mem_bw/NO_ARGS--_Z6mem_bwPfS_S_S_S_S_PjS0_--0,mem_lat/NO_ARGS--_Z7mem_latPjS_PmS0_--0,shared_bw/NO_ARGS--_Z9shared_bwPjS_Pf--0,shared_lat/NO_ARGS--_Z10shared_latPjS_Pmj--0,MaxFlops/NO_ARGS--_Z9max_flopsIfEvPjS0_PT_S2_S2_--0,l1_shared_bw/NO_ARGS--_Z9shared_bwPjS_S_S_j--0,l1_bw_32f_unroll/NO_ARGS--_Z5l1_bwPjS_PfS0_--0,l1_bw_32f_unroll_large/NO_ARGS--_Z5l1_bwPjS_PfS0_--0,AV--VG
 RTX2060-SASS-accel-f677b74-gpgpu-deb5eb5,1635,1626,2040,2562,2562,958,927,2676,668,2444,3890,2468,2018,2255,1952,2589,2079.4
-RTX2060-SASS-accel-c366657-gpgpu-deb5eb5,1765,1514,2713,2478,2478,579,738,2877,513,2391,2968,2393,2255,2299,2035,2448,2027.8
+RTX2060-SASS-accel-c366657-gpgpu-deb5eb5,1839,1909,2295,2587,2587,928,908,2634,657,2508,3806,2393,2072,2955,1952,2589,2163.7
 
 ----------------------------------------------------------------------------------------------------,,,,,,,,,,,,,,,,
 gpgpu_silicon_slowdown\s*=\s*(.*)x,,,,,,,,,,,,,,,,
 CFG,l1_bw_32f/NO_ARGS--_Z5l1_bwPjS_PfS0_--0,l1_bw_64f/NO_ARGS--_Z5l1_bwPjS_PdS0_--0,l1_bw_128/NO_ARGS--_Z5l1_bwPjS_PfS0_--0,l1_lat/NO_ARGS--_Z6l1_latPjS_PmS0_--0,l1_lat/NO_ARGS--_Z6l1_latPjS_PmS0_--0,l2_bw_32f/NO_ARGS--_Z5l2_bwPjS_PfS0_--0,l2_bw_64f/NO_ARGS--_Z5l2_bwPjS_PdS0_--0,l2_lat/NO_ARGS--_Z6l2_latPjS_PmS0_--0,mem_bw/NO_ARGS--_Z6mem_bwPfS_S_S_S_S_PjS0_--0,mem_lat/NO_ARGS--_Z7mem_latPjS_PmS0_--0,shared_bw/NO_ARGS--_Z9shared_bwPjS_Pf--0,shared_lat/NO_ARGS--_Z10shared_latPjS_Pmj--0,MaxFlops/NO_ARGS--_Z9max_flopsIfEvPjS0_PT_S2_S2_--0,l1_shared_bw/NO_ARGS--_Z9shared_bwPjS_S_S_j--0,l1_bw_32f_unroll/NO_ARGS--_Z5l1_bwPjS_PfS0_--0,l1_bw_32f_unroll_large/NO_ARGS--_Z5l1_bwPjS_PfS0_--0,AV--VG
 RTX2060-SASS-accel-f677b74-gpgpu-deb5eb5,834862,839483,669117,532786,532786,1424843,1472491,510089,2043413,558510,350899,553079,676412,605321,699282,527230,801912.7
-RTX2060-SASS-accel-c366657-gpgpu-deb5eb5,773371,901585,503133,550847,550847,2357512,1849593,474452,2660818,570890,459905,570413,605321,593736,670761,557598,915673.9
+RTX2060-SASS-accel-c366657-gpgpu-deb5eb5,742251,715034,594771,527638,527638,1470905,1503303,518223,2077625,544258,358644,570413,658783,461928,699282,527230,781120.4
 
 ----------------------------------------------------------------------------------------------------,,,,,,,,,,,,,,,,
 gpu_tot_ipc\s*=\s*(.*),,,,,,,,,,,,,,,,
