@@ -2,124 +2,149 @@
 Accel-Sim-build,,,,,,,,,,,,,,,,
 CFG,l1_bw_32f/NO_ARGS--_Z5l1_bwPjS_PfS0_--0,l1_bw_64f/NO_ARGS--_Z5l1_bwPjS_PdS0_--0,l1_bw_128/NO_ARGS--_Z5l1_bwPjS_PfS0_--0,l1_lat/NO_ARGS--_Z6l1_latPjS_PmS0_--0,l1_lat/NO_ARGS--_Z6l1_latPjS_PmS0_--0,l2_bw_32f/NO_ARGS--_Z5l2_bwPjS_PfS0_--0,l2_bw_64f/NO_ARGS--_Z5l2_bwPjS_PdS0_--0,l2_lat/NO_ARGS--_Z6l2_latPjS_PmS0_--0,mem_bw/NO_ARGS--_Z6mem_bwPfS_S_S_S_S_PjS0_--0,mem_lat/NO_ARGS--_Z7mem_latPjS_PmS0_--0,shared_bw/NO_ARGS--_Z9shared_bwPjS_Pf--0,shared_lat/NO_ARGS--_Z10shared_latPjS_Pmj--0,MaxFlops/NO_ARGS--_Z9max_flopsIfEvPjS0_PT_S2_S2_--0,l1_shared_bw/NO_ARGS--_Z9shared_bwPjS_S_S_j--0,l1_bw_32f_unroll/NO_ARGS--_Z5l1_bwPjS_PfS0_--0,l1_bw_32f_unroll_large/NO_ARGS--_Z5l1_bwPjS_PfS0_--0,AV--VG
 QV100-SASS-accel-a02269e-gpgpu-1ee03f0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+QV100-SASS-accel-cf988e0-gpgpu-1ee03f0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 
 ----------------------------------------------------------------------------------------------------,,,,,,,,,,,,,,,,
 GPGPU-Sim-build,,,,,,,,,,,,,,,,
 CFG,l1_bw_32f/NO_ARGS--_Z5l1_bwPjS_PfS0_--0,l1_bw_64f/NO_ARGS--_Z5l1_bwPjS_PdS0_--0,l1_bw_128/NO_ARGS--_Z5l1_bwPjS_PfS0_--0,l1_lat/NO_ARGS--_Z6l1_latPjS_PmS0_--0,l1_lat/NO_ARGS--_Z6l1_latPjS_PmS0_--0,l2_bw_32f/NO_ARGS--_Z5l2_bwPjS_PfS0_--0,l2_bw_64f/NO_ARGS--_Z5l2_bwPjS_PdS0_--0,l2_lat/NO_ARGS--_Z6l2_latPjS_PmS0_--0,mem_bw/NO_ARGS--_Z6mem_bwPfS_S_S_S_S_PjS0_--0,mem_lat/NO_ARGS--_Z7mem_latPjS_PmS0_--0,shared_bw/NO_ARGS--_Z9shared_bwPjS_Pf--0,shared_lat/NO_ARGS--_Z10shared_latPjS_Pmj--0,MaxFlops/NO_ARGS--_Z9max_flopsIfEvPjS0_PT_S2_S2_--0,l1_shared_bw/NO_ARGS--_Z9shared_bwPjS_S_S_j--0,l1_bw_32f_unroll/NO_ARGS--_Z5l1_bwPjS_PfS0_--0,l1_bw_32f_unroll_large/NO_ARGS--_Z5l1_bwPjS_PfS0_--0,AV--VG
 QV100-SASS-accel-a02269e-gpgpu-1ee03f0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+QV100-SASS-accel-cf988e0-gpgpu-1ee03f0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 
 ----------------------------------------------------------------------------------------------------,,,,,,,,,,,,,,,,
 gpu_tot_sim_insn\s*=\s*(.*),,,,,,,,,,,,,,,,
 CFG,l1_bw_32f/NO_ARGS--_Z5l1_bwPjS_PfS0_--0,l1_bw_64f/NO_ARGS--_Z5l1_bwPjS_PdS0_--0,l1_bw_128/NO_ARGS--_Z5l1_bwPjS_PfS0_--0,l1_lat/NO_ARGS--_Z6l1_latPjS_PmS0_--0,l1_lat/NO_ARGS--_Z6l1_latPjS_PmS0_--0,l2_bw_32f/NO_ARGS--_Z5l2_bwPjS_PfS0_--0,l2_bw_64f/NO_ARGS--_Z5l2_bwPjS_PdS0_--0,l2_lat/NO_ARGS--_Z6l2_latPjS_PmS0_--0,mem_bw/NO_ARGS--_Z6mem_bwPfS_S_S_S_S_PjS0_--0,mem_lat/NO_ARGS--_Z7mem_latPjS_PmS0_--0,shared_bw/NO_ARGS--_Z9shared_bwPjS_Pf--0,shared_lat/NO_ARGS--_Z10shared_latPjS_Pmj--0,MaxFlops/NO_ARGS--_Z9max_flopsIfEvPjS0_PT_S2_S2_--0,l1_shared_bw/NO_ARGS--_Z9shared_bwPjS_S_S_j--0,l1_bw_32f_unroll/NO_ARGS--_Z5l1_bwPjS_PfS0_--0,l1_bw_32f_unroll_large/NO_ARGS--_Z5l1_bwPjS_PfS0_--0,AV--VG
 QV100-SASS-accel-a02269e-gpgpu-1ee03f0,3345408.0,2258944.0,39141376.0,100424.0,100424.0,191987712.0,189530112.0,50212.0,72482816.0,11212992.0,173120512.0,66018.0,4316160.0,52959232.0,6567936.0,9655296.0,47305973.4
+QV100-SASS-accel-cf988e0-gpgpu-1ee03f0,3345408.0,2258944.0,39141376.0,100424.0,100424.0,191987712.0,189530112.0,50212.0,72482816.0,11212992.0,173120512.0,66018.0,4316160.0,52959232.0,6567936.0,9655296.0,47305973.4
 
 ----------------------------------------------------------------------------------------------------,,,,,,,,,,,,,,,,
 gpgpu_simulation_time\s*=.*\(([0-9]+) sec\).*,,,,,,,,,,,,,,,,
 CFG,l1_bw_32f/NO_ARGS--_Z5l1_bwPjS_PfS0_--0,l1_bw_64f/NO_ARGS--_Z5l1_bwPjS_PdS0_--0,l1_bw_128/NO_ARGS--_Z5l1_bwPjS_PfS0_--0,l1_lat/NO_ARGS--_Z6l1_latPjS_PmS0_--0,l1_lat/NO_ARGS--_Z6l1_latPjS_PmS0_--0,l2_bw_32f/NO_ARGS--_Z5l2_bwPjS_PfS0_--0,l2_bw_64f/NO_ARGS--_Z5l2_bwPjS_PdS0_--0,l2_lat/NO_ARGS--_Z6l2_latPjS_PmS0_--0,mem_bw/NO_ARGS--_Z6mem_bwPfS_S_S_S_S_PjS0_--0,mem_lat/NO_ARGS--_Z7mem_latPjS_PmS0_--0,shared_bw/NO_ARGS--_Z9shared_bwPjS_Pf--0,shared_lat/NO_ARGS--_Z10shared_latPjS_Pmj--0,MaxFlops/NO_ARGS--_Z9max_flopsIfEvPjS0_PT_S2_S2_--0,l1_shared_bw/NO_ARGS--_Z9shared_bwPjS_S_S_j--0,l1_bw_32f_unroll/NO_ARGS--_Z5l1_bwPjS_PfS0_--0,l1_bw_32f_unroll_large/NO_ARGS--_Z5l1_bwPjS_PfS0_--0,AV--VG
 QV100-SASS-accel-a02269e-gpgpu-1ee03f0,65.0,63.0,748.0,2304.0,2304.0,1946.0,3796.0,4984.0,2912.0,2041.0,3380.0,98.0,90.0,649.0,106.0,224.0,1606.9
+QV100-SASS-accel-cf988e0-gpgpu-1ee03f0,67.0,67.0,742.0,2294.0,2294.0,2398.0,5286.0,5463.0,3891.0,2065.0,3055.0,102.0,108.0,620.0,111.0,195.0,1797.4
 
 ----------------------------------------------------------------------------------------------------,,,,,,,,,,,,,,,,
 gpu_tot_sim_cycle\s*=\s*(.*),,,,,,,,,,,,,,,,
 CFG,l1_bw_32f/NO_ARGS--_Z5l1_bwPjS_PfS0_--0,l1_bw_64f/NO_ARGS--_Z5l1_bwPjS_PdS0_--0,l1_bw_128/NO_ARGS--_Z5l1_bwPjS_PfS0_--0,l1_lat/NO_ARGS--_Z6l1_latPjS_PmS0_--0,l1_lat/NO_ARGS--_Z6l1_latPjS_PmS0_--0,l2_bw_32f/NO_ARGS--_Z5l2_bwPjS_PfS0_--0,l2_bw_64f/NO_ARGS--_Z5l2_bwPjS_PdS0_--0,l2_lat/NO_ARGS--_Z6l2_latPjS_PmS0_--0,mem_bw/NO_ARGS--_Z6mem_bwPfS_S_S_S_S_PjS0_--0,mem_lat/NO_ARGS--_Z7mem_latPjS_PmS0_--0,shared_bw/NO_ARGS--_Z9shared_bwPjS_Pf--0,shared_lat/NO_ARGS--_Z10shared_latPjS_Pmj--0,MaxFlops/NO_ARGS--_Z9max_flopsIfEvPjS0_PT_S2_S2_--0,l1_shared_bw/NO_ARGS--_Z9shared_bwPjS_S_S_j--0,l1_bw_32f_unroll/NO_ARGS--_Z5l1_bwPjS_PfS0_--0,l1_bw_32f_unroll_large/NO_ARGS--_Z5l1_bwPjS_PfS0_--0,AV--VG
 QV100-SASS-accel-a02269e-gpgpu-1ee03f0,42501.0,42106.0,543165.0,2164090.0,2164090.0,290829.0,587247.0,5759139.0,504555.0,1969595.0,4755340.0,79030.0,79801.0,819662.0,79447.0,187830.0,1254276.7
+QV100-SASS-accel-cf988e0-gpgpu-1ee03f0,42501.0,42106.0,543165.0,2164090.0,2164090.0,290829.0,587247.0,5759139.0,504555.0,1969595.0,4755340.0,79030.0,79801.0,819662.0,79447.0,187830.0,1254276.7
 
 ----------------------------------------------------------------------------------------------------,,,,,,,,,,,,,,,,
 \s+L2_cache_stats_breakdown\[GLOBAL_ACC_R\]\[HIT\]\s*=\s*(.*),,,,,,,,,,,,,,,,
 CFG,l1_bw_32f/NO_ARGS--_Z5l1_bwPjS_PfS0_--0,l1_bw_64f/NO_ARGS--_Z5l1_bwPjS_PdS0_--0,l1_bw_128/NO_ARGS--_Z5l1_bwPjS_PfS0_--0,l1_lat/NO_ARGS--_Z6l1_latPjS_PmS0_--0,l1_lat/NO_ARGS--_Z6l1_latPjS_PmS0_--0,l2_bw_32f/NO_ARGS--_Z5l2_bwPjS_PfS0_--0,l2_bw_64f/NO_ARGS--_Z5l2_bwPjS_PdS0_--0,l2_lat/NO_ARGS--_Z6l2_latPjS_PmS0_--0,mem_bw/NO_ARGS--_Z6mem_bwPfS_S_S_S_S_PjS0_--0,mem_lat/NO_ARGS--_Z7mem_latPjS_PmS0_--0,shared_bw/NO_ARGS--_Z9shared_bwPjS_Pf--0,shared_lat/NO_ARGS--_Z10shared_latPjS_Pmj--0,MaxFlops/NO_ARGS--_Z9max_flopsIfEvPjS0_PT_S2_S2_--0,l1_shared_bw/NO_ARGS--_Z9shared_bwPjS_S_S_j--0,l1_bw_32f_unroll/NO_ARGS--_Z5l1_bwPjS_PfS0_--0,l1_bw_32f_unroll_large/NO_ARGS--_Z5l1_bwPjS_PfS0_--0,AV--VG
 QV100-SASS-accel-a02269e-gpgpu-1ee03f0,0.0,0.0,0.0,0.0,0.0,10485760.0,20971520.0,31745.0,0.0,5092.0,0.0,0.0,0.0,0.0,0.0,38028.0,1970759.1
+QV100-SASS-accel-cf988e0-gpgpu-1ee03f0,0.0,0.0,0.0,0.0,0.0,10485760.0,20971520.0,31745.0,0.0,5092.0,0.0,0.0,0.0,0.0,0.0,38028.0,1970759.1
 
 ----------------------------------------------------------------------------------------------------,,,,,,,,,,,,,,,,
 \s+L2_cache_stats_breakdown\[GLOBAL_ACC_R\]\[TOTAL_ACCESS\]\s*=\s*(.*),,,,,,,,,,,,,,,,
 CFG,l1_bw_32f/NO_ARGS--_Z5l1_bwPjS_PfS0_--0,l1_bw_64f/NO_ARGS--_Z5l1_bwPjS_PdS0_--0,l1_bw_128/NO_ARGS--_Z5l1_bwPjS_PfS0_--0,l1_lat/NO_ARGS--_Z6l1_latPjS_PmS0_--0,l1_lat/NO_ARGS--_Z6l1_latPjS_PmS0_--0,l2_bw_32f/NO_ARGS--_Z5l2_bwPjS_PfS0_--0,l2_bw_64f/NO_ARGS--_Z5l2_bwPjS_PdS0_--0,l2_lat/NO_ARGS--_Z6l2_latPjS_PmS0_--0,mem_bw/NO_ARGS--_Z6mem_bwPfS_S_S_S_S_PjS0_--0,mem_lat/NO_ARGS--_Z7mem_latPjS_PmS0_--0,shared_bw/NO_ARGS--_Z9shared_bwPjS_Pf--0,shared_lat/NO_ARGS--_Z10shared_latPjS_Pmj--0,MaxFlops/NO_ARGS--_Z9max_flopsIfEvPjS0_PT_S2_S2_--0,l1_shared_bw/NO_ARGS--_Z9shared_bwPjS_S_S_j--0,l1_bw_32f_unroll/NO_ARGS--_Z5l1_bwPjS_PfS0_--0,l1_bw_32f_unroll_large/NO_ARGS--_Z5l1_bwPjS_PfS0_--0,AV--VG
 QV100-SASS-accel-a02269e-gpgpu-1ee03f0,2060.0,2056.0,2048.0,2048.0,2048.0,10508288.0,21016576.0,32769.0,5242880.0,8192.0,NA,NA,256.0,257.0,2048.0,54540.0,2634004.7
+QV100-SASS-accel-cf988e0-gpgpu-1ee03f0,2060.0,2056.0,2048.0,2048.0,2048.0,10508288.0,21016576.0,32769.0,5242880.0,8192.0,NA,NA,256.0,257.0,2048.0,54540.0,2634004.7
 
 ----------------------------------------------------------------------------------------------------,,,,,,,,,,,,,,,,
 \s+L2_cache_stats_breakdown\[GLOBAL_ACC_W\]\[HIT\]\s*=\s*(.*),,,,,,,,,,,,,,,,
 CFG,l1_bw_32f/NO_ARGS--_Z5l1_bwPjS_PfS0_--0,l1_bw_64f/NO_ARGS--_Z5l1_bwPjS_PdS0_--0,l1_bw_128/NO_ARGS--_Z5l1_bwPjS_PfS0_--0,l1_lat/NO_ARGS--_Z6l1_latPjS_PmS0_--0,l1_lat/NO_ARGS--_Z6l1_latPjS_PmS0_--0,l2_bw_32f/NO_ARGS--_Z5l2_bwPjS_PfS0_--0,l2_bw_64f/NO_ARGS--_Z5l2_bwPjS_PdS0_--0,l2_lat/NO_ARGS--_Z6l2_latPjS_PmS0_--0,mem_bw/NO_ARGS--_Z6mem_bwPfS_S_S_S_S_PjS0_--0,mem_lat/NO_ARGS--_Z7mem_latPjS_PmS0_--0,shared_bw/NO_ARGS--_Z9shared_bwPjS_Pf--0,shared_lat/NO_ARGS--_Z10shared_latPjS_Pmj--0,MaxFlops/NO_ARGS--_Z9max_flopsIfEvPjS0_PT_S2_S2_--0,l1_shared_bw/NO_ARGS--_Z9shared_bwPjS_S_S_j--0,l1_bw_32f_unroll/NO_ARGS--_Z5l1_bwPjS_PfS0_--0,l1_bw_32f_unroll_large/NO_ARGS--_Z5l1_bwPjS_PfS0_--0,AV--VG
 QV100-SASS-accel-a02269e-gpgpu-1ee03f0,12.0,8.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.2
+QV100-SASS-accel-cf988e0-gpgpu-1ee03f0,12.0,8.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.2
 
 ----------------------------------------------------------------------------------------------------,,,,,,,,,,,,,,,,
 \s+L2_cache_stats_breakdown\[GLOBAL_ACC_W\]\[TOTAL_ACCESS\]\s*=\s*(.*),,,,,,,,,,,,,,,,
 CFG,l1_bw_32f/NO_ARGS--_Z5l1_bwPjS_PfS0_--0,l1_bw_64f/NO_ARGS--_Z5l1_bwPjS_PdS0_--0,l1_bw_128/NO_ARGS--_Z5l1_bwPjS_PfS0_--0,l1_lat/NO_ARGS--_Z6l1_latPjS_PmS0_--0,l1_lat/NO_ARGS--_Z6l1_latPjS_PmS0_--0,l2_bw_32f/NO_ARGS--_Z5l2_bwPjS_PfS0_--0,l2_bw_64f/NO_ARGS--_Z5l2_bwPjS_PdS0_--0,l2_lat/NO_ARGS--_Z6l2_latPjS_PmS0_--0,mem_bw/NO_ARGS--_Z6mem_bwPfS_S_S_S_S_PjS0_--0,mem_lat/NO_ARGS--_Z7mem_latPjS_PmS0_--0,shared_bw/NO_ARGS--_Z9shared_bwPjS_Pf--0,shared_lat/NO_ARGS--_Z10shared_latPjS_Pmj--0,MaxFlops/NO_ARGS--_Z9max_flopsIfEvPjS0_PT_S2_S2_--0,l1_shared_bw/NO_ARGS--_Z9shared_bwPjS_S_S_j--0,l1_bw_32f_unroll/NO_ARGS--_Z5l1_bwPjS_PfS0_--0,l1_bw_32f_unroll_large/NO_ARGS--_Z5l1_bwPjS_PfS0_--0,AV--VG
 QV100-SASS-accel-a02269e-gpgpu-1ee03f0,384.0,512.0,384.0,8198.0,8198.0,61440.0,81920.0,4099.0,1089536.0,229379.0,384.0,3.0,384.0,384.0,384.0,384.0,92873.3
+QV100-SASS-accel-cf988e0-gpgpu-1ee03f0,384.0,512.0,384.0,8198.0,8198.0,61440.0,81920.0,4099.0,1089536.0,229379.0,384.0,3.0,384.0,384.0,384.0,384.0,92873.3
 
 ----------------------------------------------------------------------------------------------------,,,,,,,,,,,,,,,,
 \s+Total_core_cache_stats_breakdown\[GLOBAL_ACC_R\]\[TOTAL_ACCESS\]\s*=\s*(.*),,,,,,,,,,,,,,,,
 CFG,l1_bw_32f/NO_ARGS--_Z5l1_bwPjS_PfS0_--0,l1_bw_64f/NO_ARGS--_Z5l1_bwPjS_PdS0_--0,l1_bw_128/NO_ARGS--_Z5l1_bwPjS_PfS0_--0,l1_lat/NO_ARGS--_Z6l1_latPjS_PmS0_--0,l1_lat/NO_ARGS--_Z6l1_latPjS_PmS0_--0,l2_bw_32f/NO_ARGS--_Z5l2_bwPjS_PfS0_--0,l2_bw_64f/NO_ARGS--_Z5l2_bwPjS_PdS0_--0,l2_lat/NO_ARGS--_Z6l2_latPjS_PmS0_--0,mem_bw/NO_ARGS--_Z6mem_bwPfS_S_S_S_S_PjS0_--0,mem_lat/NO_ARGS--_Z7mem_latPjS_PmS0_--0,shared_bw/NO_ARGS--_Z9shared_bwPjS_Pf--0,shared_lat/NO_ARGS--_Z10shared_latPjS_Pmj--0,MaxFlops/NO_ARGS--_Z9max_flopsIfEvPjS0_PT_S2_S2_--0,l1_shared_bw/NO_ARGS--_Z9shared_bwPjS_S_S_j--0,l1_bw_32f_unroll/NO_ARGS--_Z5l1_bwPjS_PfS0_--0,l1_bw_32f_unroll_large/NO_ARGS--_Z5l1_bwPjS_PfS0_--0,AV--VG
 QV100-SASS-accel-a02269e-gpgpu-1ee03f0,133128.0,133128.0,2099200.0,65538.0,65538.0,NA,NA,NA,NA,8192.0,NA,NA,256.0,655614.0,133120.0,643384.0,393709.8
+QV100-SASS-accel-cf988e0-gpgpu-1ee03f0,133128.0,133128.0,2099200.0,65538.0,65538.0,NA,NA,NA,NA,8192.0,NA,NA,256.0,655614.0,133120.0,643384.0,393709.8
 
 ----------------------------------------------------------------------------------------------------,,,,,,,,,,,,,,,,
 \s+Total_core_cache_stats_breakdown\[GLOBAL_ACC_R\]\[HIT\]\s*=\s*(.*),,,,,,,,,,,,,,,,
 CFG,l1_bw_32f/NO_ARGS--_Z5l1_bwPjS_PfS0_--0,l1_bw_64f/NO_ARGS--_Z5l1_bwPjS_PdS0_--0,l1_bw_128/NO_ARGS--_Z5l1_bwPjS_PfS0_--0,l1_lat/NO_ARGS--_Z6l1_latPjS_PmS0_--0,l1_lat/NO_ARGS--_Z6l1_latPjS_PmS0_--0,l2_bw_32f/NO_ARGS--_Z5l2_bwPjS_PfS0_--0,l2_bw_64f/NO_ARGS--_Z5l2_bwPjS_PdS0_--0,l2_lat/NO_ARGS--_Z6l2_latPjS_PmS0_--0,mem_bw/NO_ARGS--_Z6mem_bwPfS_S_S_S_S_PjS0_--0,mem_lat/NO_ARGS--_Z7mem_latPjS_PmS0_--0,shared_bw/NO_ARGS--_Z9shared_bwPjS_Pf--0,shared_lat/NO_ARGS--_Z10shared_latPjS_Pmj--0,MaxFlops/NO_ARGS--_Z9max_flopsIfEvPjS0_PT_S2_S2_--0,l1_shared_bw/NO_ARGS--_Z9shared_bwPjS_S_S_j--0,l1_bw_32f_unroll/NO_ARGS--_Z5l1_bwPjS_PfS0_--0,l1_bw_32f_unroll_large/NO_ARGS--_Z5l1_bwPjS_PfS0_--0,AV--VG
 QV100-SASS-accel-a02269e-gpgpu-1ee03f0,131052.0,131056.0,2097152.0,63490.0,63490.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,655297.0,131072.0,383676.0,228517.8
+QV100-SASS-accel-cf988e0-gpgpu-1ee03f0,131052.0,131056.0,2097152.0,63490.0,63490.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,655297.0,131072.0,383676.0,228517.8
 
 ----------------------------------------------------------------------------------------------------,,,,,,,,,,,,,,,,
 \s+Total_core_cache_stats_breakdown\[GLOBAL_ACC_W\]\[HIT\]\s*=\s*(.*),,,,,,,,,,,,,,,,
 CFG,l1_bw_32f/NO_ARGS--_Z5l1_bwPjS_PfS0_--0,l1_bw_64f/NO_ARGS--_Z5l1_bwPjS_PdS0_--0,l1_bw_128/NO_ARGS--_Z5l1_bwPjS_PfS0_--0,l1_lat/NO_ARGS--_Z6l1_latPjS_PmS0_--0,l1_lat/NO_ARGS--_Z6l1_latPjS_PmS0_--0,l2_bw_32f/NO_ARGS--_Z5l2_bwPjS_PfS0_--0,l2_bw_64f/NO_ARGS--_Z5l2_bwPjS_PdS0_--0,l2_lat/NO_ARGS--_Z6l2_latPjS_PmS0_--0,mem_bw/NO_ARGS--_Z6mem_bwPfS_S_S_S_S_PjS0_--0,mem_lat/NO_ARGS--_Z7mem_latPjS_PmS0_--0,shared_bw/NO_ARGS--_Z9shared_bwPjS_Pf--0,shared_lat/NO_ARGS--_Z10shared_latPjS_Pmj--0,MaxFlops/NO_ARGS--_Z9max_flopsIfEvPjS0_PT_S2_S2_--0,l1_shared_bw/NO_ARGS--_Z9shared_bwPjS_S_S_j--0,l1_bw_32f_unroll/NO_ARGS--_Z5l1_bwPjS_PfS0_--0,l1_bw_32f_unroll_large/NO_ARGS--_Z5l1_bwPjS_PfS0_--0,AV--VG
 QV100-SASS-accel-a02269e-gpgpu-1ee03f0,12.0,8.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.2
+QV100-SASS-accel-cf988e0-gpgpu-1ee03f0,12.0,8.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.2
 
 ----------------------------------------------------------------------------------------------------,,,,,,,,,,,,,,,,
 \s+Total_core_cache_stats_breakdown\[GLOBAL_ACC_W\]\[TOTAL_ACCESS\]\s*=\s*(.*),,,,,,,,,,,,,,,,
 CFG,l1_bw_32f/NO_ARGS--_Z5l1_bwPjS_PfS0_--0,l1_bw_64f/NO_ARGS--_Z5l1_bwPjS_PdS0_--0,l1_bw_128/NO_ARGS--_Z5l1_bwPjS_PfS0_--0,l1_lat/NO_ARGS--_Z6l1_latPjS_PmS0_--0,l1_lat/NO_ARGS--_Z6l1_latPjS_PmS0_--0,l2_bw_32f/NO_ARGS--_Z5l2_bwPjS_PfS0_--0,l2_bw_64f/NO_ARGS--_Z5l2_bwPjS_PdS0_--0,l2_lat/NO_ARGS--_Z6l2_latPjS_PmS0_--0,mem_bw/NO_ARGS--_Z6mem_bwPfS_S_S_S_S_PjS0_--0,mem_lat/NO_ARGS--_Z7mem_latPjS_PmS0_--0,shared_bw/NO_ARGS--_Z9shared_bwPjS_Pf--0,shared_lat/NO_ARGS--_Z10shared_latPjS_Pmj--0,MaxFlops/NO_ARGS--_Z9max_flopsIfEvPjS0_PT_S2_S2_--0,l1_shared_bw/NO_ARGS--_Z9shared_bwPjS_S_S_j--0,l1_bw_32f_unroll/NO_ARGS--_Z5l1_bwPjS_PfS0_--0,l1_bw_32f_unroll_large/NO_ARGS--_Z5l1_bwPjS_PfS0_--0,AV--VG
 QV100-SASS-accel-a02269e-gpgpu-1ee03f0,384.0,512.0,384.0,8198.0,8198.0,61440.0,81920.0,4099.0,1089536.0,229379.0,384.0,3.0,384.0,384.0,384.0,384.0,92873.3
+QV100-SASS-accel-cf988e0-gpgpu-1ee03f0,384.0,512.0,384.0,8198.0,8198.0,61440.0,81920.0,4099.0,1089536.0,229379.0,384.0,3.0,384.0,384.0,384.0,384.0,92873.3
 
 ----------------------------------------------------------------------------------------------------,,,,,,,,,,,,,,,,
 \s+Total_core_cache_stats_breakdown\[GLOBAL_ACC_R\]\[MSHR_HIT\]\s*=\s*(.*),,,,,,,,,,,,,,,,
 CFG,l1_bw_32f/NO_ARGS--_Z5l1_bwPjS_PfS0_--0,l1_bw_64f/NO_ARGS--_Z5l1_bwPjS_PdS0_--0,l1_bw_128/NO_ARGS--_Z5l1_bwPjS_PfS0_--0,l1_lat/NO_ARGS--_Z6l1_latPjS_PmS0_--0,l1_lat/NO_ARGS--_Z6l1_latPjS_PmS0_--0,l2_bw_32f/NO_ARGS--_Z5l2_bwPjS_PfS0_--0,l2_bw_64f/NO_ARGS--_Z5l2_bwPjS_PdS0_--0,l2_lat/NO_ARGS--_Z6l2_latPjS_PmS0_--0,mem_bw/NO_ARGS--_Z6mem_bwPfS_S_S_S_S_PjS0_--0,mem_lat/NO_ARGS--_Z7mem_latPjS_PmS0_--0,shared_bw/NO_ARGS--_Z9shared_bwPjS_Pf--0,shared_lat/NO_ARGS--_Z10shared_latPjS_Pmj--0,MaxFlops/NO_ARGS--_Z9max_flopsIfEvPjS0_PT_S2_S2_--0,l1_shared_bw/NO_ARGS--_Z9shared_bwPjS_S_S_j--0,l1_bw_32f_unroll/NO_ARGS--_Z5l1_bwPjS_PfS0_--0,l1_bw_32f_unroll_large/NO_ARGS--_Z5l1_bwPjS_PfS0_--0,AV--VG
 QV100-SASS-accel-a02269e-gpgpu-1ee03f0,8.0,8.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,30.0,0.0,102584.0,6414.4
+QV100-SASS-accel-cf988e0-gpgpu-1ee03f0,8.0,8.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,30.0,0.0,102584.0,6414.4
 
 ----------------------------------------------------------------------------------------------------,,,,,,,,,,,,,,,,
 gpgpu_n_tot_w_icount\s*=\s*(.*),,,,,,,,,,,,,,,,
 CFG,l1_bw_32f/NO_ARGS--_Z5l1_bwPjS_PfS0_--0,l1_bw_64f/NO_ARGS--_Z5l1_bwPjS_PdS0_--0,l1_bw_128/NO_ARGS--_Z5l1_bwPjS_PfS0_--0,l1_lat/NO_ARGS--_Z6l1_latPjS_PmS0_--0,l1_lat/NO_ARGS--_Z6l1_latPjS_PmS0_--0,l2_bw_32f/NO_ARGS--_Z5l2_bwPjS_PfS0_--0,l2_bw_64f/NO_ARGS--_Z5l2_bwPjS_PdS0_--0,l2_lat/NO_ARGS--_Z6l2_latPjS_PmS0_--0,mem_bw/NO_ARGS--_Z6mem_bwPfS_S_S_S_S_PjS0_--0,mem_lat/NO_ARGS--_Z7mem_latPjS_PmS0_--0,shared_bw/NO_ARGS--_Z9shared_bwPjS_Pf--0,shared_lat/NO_ARGS--_Z10shared_latPjS_Pmj--0,MaxFlops/NO_ARGS--_Z9max_flopsIfEvPjS0_PT_S2_S2_--0,l1_shared_bw/NO_ARGS--_Z9shared_bwPjS_S_S_j--0,l1_bw_32f_unroll/NO_ARGS--_Z5l1_bwPjS_PfS0_--0,l1_bw_32f_unroll_large/NO_ARGS--_Z5l1_bwPjS_PfS0_--0,AV--VG
 QV100-SASS-accel-a02269e-gpgpu-1ee03f0,104928.0,70912.0,1223584.0,100432.0,100432.0,6055936.0,5979136.0,50216.0,2280448.0,385611.0,5999968.0,6142.0,135968.0,1655136.0,205632.0,302528.0,1541063.1
+QV100-SASS-accel-cf988e0-gpgpu-1ee03f0,104928.0,70912.0,1223584.0,100432.0,100432.0,6055936.0,5979136.0,50216.0,2280448.0,385611.0,5999968.0,6142.0,135968.0,1655136.0,205632.0,302528.0,1541063.1
 
 ----------------------------------------------------------------------------------------------------,,,,,,,,,,,,,,,,
 total dram reads\s*=\s*(.*),,,,,,,,,,,,,,,,
 CFG,l1_bw_32f/NO_ARGS--_Z5l1_bwPjS_PfS0_--0,l1_bw_64f/NO_ARGS--_Z5l1_bwPjS_PdS0_--0,l1_bw_128/NO_ARGS--_Z5l1_bwPjS_PfS0_--0,l1_lat/NO_ARGS--_Z6l1_latPjS_PmS0_--0,l1_lat/NO_ARGS--_Z6l1_latPjS_PmS0_--0,l2_bw_32f/NO_ARGS--_Z5l2_bwPjS_PfS0_--0,l2_bw_64f/NO_ARGS--_Z5l2_bwPjS_PdS0_--0,l2_lat/NO_ARGS--_Z6l2_latPjS_PmS0_--0,mem_bw/NO_ARGS--_Z6mem_bwPfS_S_S_S_S_PjS0_--0,mem_lat/NO_ARGS--_Z7mem_latPjS_PmS0_--0,shared_bw/NO_ARGS--_Z9shared_bwPjS_Pf--0,shared_lat/NO_ARGS--_Z10shared_latPjS_Pmj--0,MaxFlops/NO_ARGS--_Z9max_flopsIfEvPjS0_PT_S2_S2_--0,l1_shared_bw/NO_ARGS--_Z9shared_bwPjS_S_S_j--0,l1_bw_32f_unroll/NO_ARGS--_Z5l1_bwPjS_PfS0_--0,l1_bw_32f_unroll_large/NO_ARGS--_Z5l1_bwPjS_PfS0_--0,AV--VG
 QV100-SASS-accel-a02269e-gpgpu-1ee03f0,2060.0,2056.0,2048.0,2048.0,2048.0,22528.0,45056.0,1024.0,5242880.0,3100.0,0.0,0.0,256.0,257.0,2048.0,16512.0,333995.1
+QV100-SASS-accel-cf988e0-gpgpu-1ee03f0,2060.0,2056.0,2048.0,2048.0,2048.0,22528.0,45056.0,1024.0,5242880.0,3100.0,0.0,0.0,256.0,257.0,2048.0,16512.0,333995.1
 
 ----------------------------------------------------------------------------------------------------,,,,,,,,,,,,,,,,
 total dram writes\s*=\s*(.*),,,,,,,,,,,,,,,,
 CFG,l1_bw_32f/NO_ARGS--_Z5l1_bwPjS_PfS0_--0,l1_bw_64f/NO_ARGS--_Z5l1_bwPjS_PdS0_--0,l1_bw_128/NO_ARGS--_Z5l1_bwPjS_PfS0_--0,l1_lat/NO_ARGS--_Z6l1_latPjS_PmS0_--0,l1_lat/NO_ARGS--_Z6l1_latPjS_PmS0_--0,l2_bw_32f/NO_ARGS--_Z5l2_bwPjS_PfS0_--0,l2_bw_64f/NO_ARGS--_Z5l2_bwPjS_PdS0_--0,l2_lat/NO_ARGS--_Z6l2_latPjS_PmS0_--0,mem_bw/NO_ARGS--_Z6mem_bwPfS_S_S_S_S_PjS0_--0,mem_lat/NO_ARGS--_Z7mem_latPjS_PmS0_--0,shared_bw/NO_ARGS--_Z9shared_bwPjS_Pf--0,shared_lat/NO_ARGS--_Z10shared_latPjS_Pmj--0,MaxFlops/NO_ARGS--_Z9max_flopsIfEvPjS0_PT_S2_S2_--0,l1_shared_bw/NO_ARGS--_Z9shared_bwPjS_S_S_j--0,l1_bw_32f_unroll/NO_ARGS--_Z5l1_bwPjS_PfS0_--0,l1_bw_32f_unroll_large/NO_ARGS--_Z5l1_bwPjS_PfS0_--0,AV--VG
 QV100-SASS-accel-a02269e-gpgpu-1ee03f0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1034172.0,35876.0,0.0,0.0,0.0,0.0,0.0,0.0,66878.0
+QV100-SASS-accel-cf988e0-gpgpu-1ee03f0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1034172.0,35876.0,0.0,0.0,0.0,0.0,0.0,0.0,66878.0
 
 ----------------------------------------------------------------------------------------------------,,,,,,,,,,,,,,,,
 kernel_launch_uid\s*=\s*(.*),,,,,,,,,,,,,,,,
 CFG,l1_bw_32f/NO_ARGS--_Z5l1_bwPjS_PfS0_--0,l1_bw_64f/NO_ARGS--_Z5l1_bwPjS_PdS0_--0,l1_bw_128/NO_ARGS--_Z5l1_bwPjS_PfS0_--0,l1_lat/NO_ARGS--_Z6l1_latPjS_PmS0_--0,l1_lat/NO_ARGS--_Z6l1_latPjS_PmS0_--0,l2_bw_32f/NO_ARGS--_Z5l2_bwPjS_PfS0_--0,l2_bw_64f/NO_ARGS--_Z5l2_bwPjS_PdS0_--0,l2_lat/NO_ARGS--_Z6l2_latPjS_PmS0_--0,mem_bw/NO_ARGS--_Z6mem_bwPfS_S_S_S_S_PjS0_--0,mem_lat/NO_ARGS--_Z7mem_latPjS_PmS0_--0,shared_bw/NO_ARGS--_Z9shared_bwPjS_Pf--0,shared_lat/NO_ARGS--_Z10shared_latPjS_Pmj--0,MaxFlops/NO_ARGS--_Z9max_flopsIfEvPjS0_PT_S2_S2_--0,l1_shared_bw/NO_ARGS--_Z9shared_bwPjS_S_S_j--0,l1_bw_32f_unroll/NO_ARGS--_Z5l1_bwPjS_PfS0_--0,l1_bw_32f_unroll_large/NO_ARGS--_Z5l1_bwPjS_PfS0_--0,AV--VG
 QV100-SASS-accel-a02269e-gpgpu-1ee03f0,1.0,1.0,1.0,2.0,2.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.1
+QV100-SASS-accel-cf988e0-gpgpu-1ee03f0,1.0,1.0,1.0,2.0,2.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.1
 
 ----------------------------------------------------------------------------------------------------,,,,,,,,,,,,,,,,
 gpu_ipc\s*=\s*(.*),,,,,,,,,,,,,,,,
 CFG,l1_bw_32f/NO_ARGS--_Z5l1_bwPjS_PfS0_--0,l1_bw_64f/NO_ARGS--_Z5l1_bwPjS_PdS0_--0,l1_bw_128/NO_ARGS--_Z5l1_bwPjS_PfS0_--0,l1_lat/NO_ARGS--_Z6l1_latPjS_PmS0_--0,l1_lat/NO_ARGS--_Z6l1_latPjS_PmS0_--0,l2_bw_32f/NO_ARGS--_Z5l2_bwPjS_PfS0_--0,l2_bw_64f/NO_ARGS--_Z5l2_bwPjS_PdS0_--0,l2_lat/NO_ARGS--_Z6l2_latPjS_PmS0_--0,mem_bw/NO_ARGS--_Z6mem_bwPfS_S_S_S_S_PjS0_--0,mem_lat/NO_ARGS--_Z7mem_latPjS_PmS0_--0,shared_bw/NO_ARGS--_Z9shared_bwPjS_Pf--0,shared_lat/NO_ARGS--_Z10shared_latPjS_Pmj--0,MaxFlops/NO_ARGS--_Z9max_flopsIfEvPjS0_PT_S2_S2_--0,l1_shared_bw/NO_ARGS--_Z9shared_bwPjS_S_S_j--0,l1_bw_32f_unroll/NO_ARGS--_Z5l1_bwPjS_PfS0_--0,l1_bw_32f_unroll_large/NO_ARGS--_Z5l1_bwPjS_PfS0_--0,AV--VG
 QV100-SASS-accel-a02269e-gpgpu-1ee03f0,78.7136,53.6490,72.0617,0.0464,0.0464,660.1395,322.7434,0.0087,143.6569,5.6930,36.4055,0.8354,54.0865,64.6111,82.6707,51.4044,101.7
+QV100-SASS-accel-cf988e0-gpgpu-1ee03f0,78.7136,53.6490,72.0617,0.0464,0.0464,660.1395,322.7434,0.0087,143.6569,5.6930,36.4055,0.8354,54.0865,64.6111,82.6707,51.4044,101.7
 
 ----------------------------------------------------------------------------------------------------,,,,,,,,,,,,,,,,
 gpu_occupancy\s*=\s*(.*)%,,,,,,,,,,,,,,,,
 CFG,l1_bw_32f/NO_ARGS--_Z5l1_bwPjS_PfS0_--0,l1_bw_64f/NO_ARGS--_Z5l1_bwPjS_PdS0_--0,l1_bw_128/NO_ARGS--_Z5l1_bwPjS_PfS0_--0,l1_lat/NO_ARGS--_Z6l1_latPjS_PmS0_--0,l1_lat/NO_ARGS--_Z6l1_latPjS_PmS0_--0,l2_bw_32f/NO_ARGS--_Z5l2_bwPjS_PfS0_--0,l2_bw_64f/NO_ARGS--_Z5l2_bwPjS_PdS0_--0,l2_lat/NO_ARGS--_Z6l2_latPjS_PmS0_--0,mem_bw/NO_ARGS--_Z6mem_bwPfS_S_S_S_S_PjS0_--0,mem_lat/NO_ARGS--_Z7mem_latPjS_PmS0_--0,shared_bw/NO_ARGS--_Z9shared_bwPjS_Pf--0,shared_lat/NO_ARGS--_Z10shared_latPjS_Pmj--0,MaxFlops/NO_ARGS--_Z9max_flopsIfEvPjS0_PT_S2_S2_--0,l1_shared_bw/NO_ARGS--_Z9shared_bwPjS_S_S_j--0,l1_bw_32f_unroll/NO_ARGS--_Z5l1_bwPjS_PfS0_--0,l1_bw_32f_unroll_large/NO_ARGS--_Z5l1_bwPjS_PfS0_--0,AV--VG
 QV100-SASS-accel-a02269e-gpgpu-1ee03f0,49.8338,49.7131,49.9888,1.5625,1.5625,86.9473,84.0099,1.5625,85.0112,13.1320,49.9986,1.5625,49.9006,49.9906,49.8973,49.9583,42.2
+QV100-SASS-accel-cf988e0-gpgpu-1ee03f0,49.8338,49.7131,49.9888,1.5625,1.5625,86.9473,84.0099,1.5625,85.0112,13.1320,49.9986,1.5625,49.9006,49.9906,49.8973,49.9583,42.2
 
 ----------------------------------------------------------------------------------------------------,,,,,,,,,,,,,,,,
 L2_BW\s*=\s*(.*)+GB\/Sec,,,,,,,,,,,,,,,,
 CFG,l1_bw_32f/NO_ARGS--_Z5l1_bwPjS_PfS0_--0,l1_bw_64f/NO_ARGS--_Z5l1_bwPjS_PdS0_--0,l1_bw_128/NO_ARGS--_Z5l1_bwPjS_PfS0_--0,l1_lat/NO_ARGS--_Z6l1_latPjS_PmS0_--0,l1_lat/NO_ARGS--_Z6l1_latPjS_PmS0_--0,l2_bw_32f/NO_ARGS--_Z5l2_bwPjS_PfS0_--0,l2_bw_64f/NO_ARGS--_Z5l2_bwPjS_PdS0_--0,l2_lat/NO_ARGS--_Z6l2_latPjS_PmS0_--0,mem_bw/NO_ARGS--_Z6mem_bwPfS_S_S_S_S_PjS0_--0,mem_lat/NO_ARGS--_Z7mem_latPjS_PmS0_--0,shared_bw/NO_ARGS--_Z9shared_bwPjS_Pf--0,shared_lat/NO_ARGS--_Z10shared_latPjS_Pmj--0,MaxFlops/NO_ARGS--_Z9max_flopsIfEvPjS0_PT_S2_S2_--0,l1_shared_bw/NO_ARGS--_Z9shared_bwPjS_S_S_j--0,l1_bw_32f_unroll/NO_ARGS--_Z5l1_bwPjS_PfS0_--0,l1_bw_32f_unroll_large/NO_ARGS--_Z5l1_bwPjS_PfS0_--0,AV--VG
 QV100-SASS-accel-a02269e-gpgpu-1ee03f0,,,,,,,,,,,,,,,,,NA
+QV100-SASS-accel-cf988e0-gpgpu-1ee03f0,,,,,,,,,,,,,,,,,NA
 
 ----------------------------------------------------------------------------------------------------,,,,,,,,,,,,,,,,
 gpgpu_simulation_rate\s+=\s+(.*)\s+\(inst\/sec\),,,,,,,,,,,,,,,,
 CFG,l1_bw_32f/NO_ARGS--_Z5l1_bwPjS_PfS0_--0,l1_bw_64f/NO_ARGS--_Z5l1_bwPjS_PdS0_--0,l1_bw_128/NO_ARGS--_Z5l1_bwPjS_PfS0_--0,l1_lat/NO_ARGS--_Z6l1_latPjS_PmS0_--0,l1_lat/NO_ARGS--_Z6l1_latPjS_PmS0_--0,l2_bw_32f/NO_ARGS--_Z5l2_bwPjS_PfS0_--0,l2_bw_64f/NO_ARGS--_Z5l2_bwPjS_PdS0_--0,l2_lat/NO_ARGS--_Z6l2_latPjS_PmS0_--0,mem_bw/NO_ARGS--_Z6mem_bwPfS_S_S_S_S_PjS0_--0,mem_lat/NO_ARGS--_Z7mem_latPjS_PmS0_--0,shared_bw/NO_ARGS--_Z9shared_bwPjS_Pf--0,shared_lat/NO_ARGS--_Z10shared_latPjS_Pmj--0,MaxFlops/NO_ARGS--_Z9max_flopsIfEvPjS0_PT_S2_S2_--0,l1_shared_bw/NO_ARGS--_Z9shared_bwPjS_S_S_j--0,l1_bw_32f_unroll/NO_ARGS--_Z5l1_bwPjS_PfS0_--0,l1_bw_32f_unroll_large/NO_ARGS--_Z5l1_bwPjS_PfS0_--0,AV--VG
 QV100-SASS-accel-a02269e-gpgpu-1ee03f0,51467,35856,52328,43,43,98657,49928,10,24891,5493,51219,673,47957,81601,61961,43104,37826.9
+QV100-SASS-accel-cf988e0-gpgpu-1ee03f0,49931,33715,52751,43,43,80061,35855,9,18628,5430,56667,647,39964,85418,59170,49514,35490.4
 
 ----------------------------------------------------------------------------------------------------,,,,,,,,,,,,,,,,
 gpgpu_simulation_rate\s+=\s+(.*)\s+\(cycle\/sec\),,,,,,,,,,,,,,,,
 CFG,l1_bw_32f/NO_ARGS--_Z5l1_bwPjS_PfS0_--0,l1_bw_64f/NO_ARGS--_Z5l1_bwPjS_PdS0_--0,l1_bw_128/NO_ARGS--_Z5l1_bwPjS_PfS0_--0,l1_lat/NO_ARGS--_Z6l1_latPjS_PmS0_--0,l1_lat/NO_ARGS--_Z6l1_latPjS_PmS0_--0,l2_bw_32f/NO_ARGS--_Z5l2_bwPjS_PfS0_--0,l2_bw_64f/NO_ARGS--_Z5l2_bwPjS_PdS0_--0,l2_lat/NO_ARGS--_Z6l2_latPjS_PmS0_--0,mem_bw/NO_ARGS--_Z6mem_bwPfS_S_S_S_S_PjS0_--0,mem_lat/NO_ARGS--_Z7mem_latPjS_PmS0_--0,shared_bw/NO_ARGS--_Z9shared_bwPjS_Pf--0,shared_lat/NO_ARGS--_Z10shared_latPjS_Pmj--0,MaxFlops/NO_ARGS--_Z9max_flopsIfEvPjS0_PT_S2_S2_--0,l1_shared_bw/NO_ARGS--_Z9shared_bwPjS_S_S_j--0,l1_bw_32f_unroll/NO_ARGS--_Z5l1_bwPjS_PfS0_--0,l1_bw_32f_unroll_large/NO_ARGS--_Z5l1_bwPjS_PfS0_--0,AV--VG
 QV100-SASS-accel-a02269e-gpgpu-1ee03f0,653,668,726,939,939,149,154,1155,173,965,1406,806,886,1262,749,838,779.2
+QV100-SASS-accel-cf988e0-gpgpu-1ee03f0,634,628,732,943,943,121,111,1054,129,953,1556,774,738,1322,715,963,769.8
 
 ----------------------------------------------------------------------------------------------------,,,,,,,,,,,,,,,,
 gpgpu_silicon_slowdown\s*=\s*(.*)x,,,,,,,,,,,,,,,,
 CFG,l1_bw_32f/NO_ARGS--_Z5l1_bwPjS_PfS0_--0,l1_bw_64f/NO_ARGS--_Z5l1_bwPjS_PdS0_--0,l1_bw_128/NO_ARGS--_Z5l1_bwPjS_PfS0_--0,l1_lat/NO_ARGS--_Z6l1_latPjS_PmS0_--0,l1_lat/NO_ARGS--_Z6l1_latPjS_PmS0_--0,l2_bw_32f/NO_ARGS--_Z5l2_bwPjS_PfS0_--0,l2_bw_64f/NO_ARGS--_Z5l2_bwPjS_PdS0_--0,l2_lat/NO_ARGS--_Z6l2_latPjS_PmS0_--0,mem_bw/NO_ARGS--_Z6mem_bwPfS_S_S_S_S_PjS0_--0,mem_lat/NO_ARGS--_Z7mem_latPjS_PmS0_--0,shared_bw/NO_ARGS--_Z9shared_bwPjS_Pf--0,shared_lat/NO_ARGS--_Z10shared_latPjS_Pmj--0,MaxFlops/NO_ARGS--_Z9max_flopsIfEvPjS0_PT_S2_S2_--0,l1_shared_bw/NO_ARGS--_Z9shared_bwPjS_S_S_j--0,l1_bw_32f_unroll/NO_ARGS--_Z5l1_bwPjS_PfS0_--0,l1_bw_32f_unroll_large/NO_ARGS--_Z5l1_bwPjS_PfS0_--0,AV--VG
 QV100-SASS-accel-a02269e-gpgpu-1ee03f0,1733537,1694610,1559228,1205537,1205537,7597315,7350649,980086,6543352,1173056,805120,1404466,1277652,896988,1511348,1350835,2393082.2
+QV100-SASS-accel-cf988e0-gpgpu-1ee03f0,1785488,1802547,1546448,1200424,1200424,9355371,10198198,1074003,8775193,1187827,727506,1462532,1533875,856278,1583216,1175493,2841551.4
 
 ----------------------------------------------------------------------------------------------------,,,,,,,,,,,,,,,,
 gpu_tot_ipc\s*=\s*(.*),,,,,,,,,,,,,,,,
 CFG,l1_bw_32f/NO_ARGS--_Z5l1_bwPjS_PfS0_--0,l1_bw_64f/NO_ARGS--_Z5l1_bwPjS_PdS0_--0,l1_bw_128/NO_ARGS--_Z5l1_bwPjS_PfS0_--0,l1_lat/NO_ARGS--_Z6l1_latPjS_PmS0_--0,l1_lat/NO_ARGS--_Z6l1_latPjS_PmS0_--0,l2_bw_32f/NO_ARGS--_Z5l2_bwPjS_PfS0_--0,l2_bw_64f/NO_ARGS--_Z5l2_bwPjS_PdS0_--0,l2_lat/NO_ARGS--_Z6l2_latPjS_PmS0_--0,mem_bw/NO_ARGS--_Z6mem_bwPfS_S_S_S_S_PjS0_--0,mem_lat/NO_ARGS--_Z7mem_latPjS_PmS0_--0,shared_bw/NO_ARGS--_Z9shared_bwPjS_Pf--0,shared_lat/NO_ARGS--_Z10shared_latPjS_Pmj--0,MaxFlops/NO_ARGS--_Z9max_flopsIfEvPjS0_PT_S2_S2_--0,l1_shared_bw/NO_ARGS--_Z9shared_bwPjS_S_S_j--0,l1_bw_32f_unroll/NO_ARGS--_Z5l1_bwPjS_PfS0_--0,l1_bw_32f_unroll_large/NO_ARGS--_Z5l1_bwPjS_PfS0_--0,AV--VG
 QV100-SASS-accel-a02269e-gpgpu-1ee03f0,78.7136,53.6490,72.0617,0.0464,0.0464,660.1395,322.7434,0.0087,143.6569,5.6930,36.4055,0.8354,54.0865,64.6111,82.6707,51.4044,101.7
+QV100-SASS-accel-cf988e0-gpgpu-1ee03f0,78.7136,53.6490,72.0617,0.0464,0.0464,660.1395,322.7434,0.0087,143.6569,5.6930,36.4055,0.8354,54.0865,64.6111,82.6707,51.4044,101.7
 
