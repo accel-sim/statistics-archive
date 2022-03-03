@@ -1,150 +1,175 @@
-----------------------------------------------------------------------------------------------------,,,,,,
-Accel-Sim-build,,,,,,
-CFG,l1_bw_32f/NO_ARGS--_Z5l1_bwPjS_PfS0_--0,l1_bw_64f/NO_ARGS--_Z5l1_bwPjS_PdS0_--0,mem_bw/NO_ARGS--_Z6mem_bwPfS_S_S_S_S_PjS0_--0,mem_lat/NO_ARGS--_Z7mem_latPjS_PmS0_--0,MaxFlops/NO_ARGS--_Z9max_flopsIfEvPjS0_PT_S2_S2_--0,AV--VG
-RTX3070-SASS-accel-49c6ed2-gpgpu-d38b300,NA,NA,NA,NA,NA,NA
-RTX3070-SASS-accel-29d77db-gpgpu-d38b300,NA,NA,NA,NA,NA,NA
+----------------------------------------------------------------------------------------------------,,,,,,,,,,,,,,,,
+Accel-Sim-build,,,,,,,,,,,,,,,,
+CFG,l1_bw_32f/NO_ARGS--_Z5l1_bwPjS_PfS0_--0,l1_bw_64f/NO_ARGS--_Z5l1_bwPjS_PdS0_--0,l1_bw_128/NO_ARGS--_Z5l1_bwPjS_PfS0_--0,l1_lat/NO_ARGS--_Z6l1_latPjS_PmS0_--0,l1_lat/NO_ARGS--_Z6l1_latPjS_PmS0_--0,l2_bw_32f/NO_ARGS--_Z5l2_bwPjS_PfS0_--0,l2_bw_64f/NO_ARGS--_Z5l2_bwPjS_PdS0_--0,l2_lat/NO_ARGS--_Z6l2_latPjS_PmS0_--0,mem_bw/NO_ARGS--_Z6mem_bwPfS_S_S_S_S_PjS0_--0,mem_lat/NO_ARGS--_Z7mem_latPjS_PmS0_--0,shared_bw/NO_ARGS--_Z9shared_bwPjS_Pf--0,shared_lat/NO_ARGS--_Z10shared_latPjS_Pmj--0,MaxFlops/NO_ARGS--_Z9max_flopsIfEvPjS0_PT_S2_S2_--0,l1_shared_bw/NO_ARGS--_Z9shared_bwPjS_S_S_j--0,l1_bw_32f_unroll/NO_ARGS--_Z5l1_bwPjS_PfS0_--0,l1_bw_32f_unroll_large/NO_ARGS--_Z5l1_bwPjS_PfS0_--0,AV--VG
+RTX3070-SASS-accel-49c6ed2-gpgpu-d38b300,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+RTX3070-SASS-accel-29d77db-gpgpu-d38b300,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+RTX3070-SASS-accel-29d2325-gpgpu-d38b300,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 
-----------------------------------------------------------------------------------------------------,,,,,,
-GPGPU-Sim-build,,,,,,
-CFG,l1_bw_32f/NO_ARGS--_Z5l1_bwPjS_PfS0_--0,l1_bw_64f/NO_ARGS--_Z5l1_bwPjS_PdS0_--0,mem_bw/NO_ARGS--_Z6mem_bwPfS_S_S_S_S_PjS0_--0,mem_lat/NO_ARGS--_Z7mem_latPjS_PmS0_--0,MaxFlops/NO_ARGS--_Z9max_flopsIfEvPjS0_PT_S2_S2_--0,AV--VG
-RTX3070-SASS-accel-49c6ed2-gpgpu-d38b300,NA,NA,NA,NA,NA,NA
-RTX3070-SASS-accel-29d77db-gpgpu-d38b300,NA,NA,NA,NA,NA,NA
+----------------------------------------------------------------------------------------------------,,,,,,,,,,,,,,,,
+GPGPU-Sim-build,,,,,,,,,,,,,,,,
+CFG,l1_bw_32f/NO_ARGS--_Z5l1_bwPjS_PfS0_--0,l1_bw_64f/NO_ARGS--_Z5l1_bwPjS_PdS0_--0,l1_bw_128/NO_ARGS--_Z5l1_bwPjS_PfS0_--0,l1_lat/NO_ARGS--_Z6l1_latPjS_PmS0_--0,l1_lat/NO_ARGS--_Z6l1_latPjS_PmS0_--0,l2_bw_32f/NO_ARGS--_Z5l2_bwPjS_PfS0_--0,l2_bw_64f/NO_ARGS--_Z5l2_bwPjS_PdS0_--0,l2_lat/NO_ARGS--_Z6l2_latPjS_PmS0_--0,mem_bw/NO_ARGS--_Z6mem_bwPfS_S_S_S_S_PjS0_--0,mem_lat/NO_ARGS--_Z7mem_latPjS_PmS0_--0,shared_bw/NO_ARGS--_Z9shared_bwPjS_Pf--0,shared_lat/NO_ARGS--_Z10shared_latPjS_Pmj--0,MaxFlops/NO_ARGS--_Z9max_flopsIfEvPjS0_PT_S2_S2_--0,l1_shared_bw/NO_ARGS--_Z9shared_bwPjS_S_S_j--0,l1_bw_32f_unroll/NO_ARGS--_Z5l1_bwPjS_PfS0_--0,l1_bw_32f_unroll_large/NO_ARGS--_Z5l1_bwPjS_PfS0_--0,AV--VG
+RTX3070-SASS-accel-49c6ed2-gpgpu-d38b300,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+RTX3070-SASS-accel-29d77db-gpgpu-d38b300,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+RTX3070-SASS-accel-29d2325-gpgpu-d38b300,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 
-----------------------------------------------------------------------------------------------------,,,,,,
-gpu_tot_sim_insn\s*=\s*(.*),,,,,,
-CFG,l1_bw_32f/NO_ARGS--_Z5l1_bwPjS_PfS0_--0,l1_bw_64f/NO_ARGS--_Z5l1_bwPjS_PdS0_--0,mem_bw/NO_ARGS--_Z6mem_bwPfS_S_S_S_S_PjS0_--0,mem_lat/NO_ARGS--_Z7mem_latPjS_PmS0_--0,MaxFlops/NO_ARGS--_Z9max_flopsIfEvPjS0_PT_S2_S2_--0,AV--VG
-RTX3070-SASS-accel-49c6ed2-gpgpu-d38b300,3341312.0,2258944.0,72155136.0,11049132.0,4315136.0,45783493.3
-RTX3070-SASS-accel-29d77db-gpgpu-d38b300,3341312.0,2258944.0,72155136.0,11049132.0,4315136.0,18623932.0
+----------------------------------------------------------------------------------------------------,,,,,,,,,,,,,,,,
+gpu_tot_sim_insn\s*=\s*(.*),,,,,,,,,,,,,,,,
+CFG,l1_bw_32f/NO_ARGS--_Z5l1_bwPjS_PfS0_--0,l1_bw_64f/NO_ARGS--_Z5l1_bwPjS_PdS0_--0,l1_bw_128/NO_ARGS--_Z5l1_bwPjS_PfS0_--0,l1_lat/NO_ARGS--_Z6l1_latPjS_PmS0_--0,l1_lat/NO_ARGS--_Z6l1_latPjS_PmS0_--0,l2_bw_32f/NO_ARGS--_Z5l2_bwPjS_PfS0_--0,l2_bw_64f/NO_ARGS--_Z5l2_bwPjS_PdS0_--0,l2_lat/NO_ARGS--_Z6l2_latPjS_PmS0_--0,mem_bw/NO_ARGS--_Z6mem_bwPfS_S_S_S_S_PjS0_--0,mem_lat/NO_ARGS--_Z7mem_latPjS_PmS0_--0,shared_bw/NO_ARGS--_Z9shared_bwPjS_Pf--0,shared_lat/NO_ARGS--_Z10shared_latPjS_Pmj--0,MaxFlops/NO_ARGS--_Z9max_flopsIfEvPjS0_PT_S2_S2_--0,l1_shared_bw/NO_ARGS--_Z9shared_bwPjS_S_S_j--0,l1_bw_32f_unroll/NO_ARGS--_Z5l1_bwPjS_PfS0_--0,l1_bw_32f_unroll_large/NO_ARGS--_Z5l1_bwPjS_PfS0_--0,AV--VG
+RTX3070-SASS-accel-49c6ed2-gpgpu-d38b300,3341312.0,2258944.0,NA,NA,NA,NA,NA,NA,72155136.0,11049132.0,NA,NA,4315136.0,NA,NA,NA,45783493.3
+RTX3070-SASS-accel-29d77db-gpgpu-d38b300,3341312.0,2258944.0,NA,NA,NA,NA,NA,NA,72155136.0,11049132.0,NA,NA,4315136.0,NA,NA,NA,18623932.0
+RTX3070-SASS-accel-29d2325-gpgpu-d38b300,3341312.0,2258944.0,39137280.0,116930.0,116930.0,188710912.0,188874752.0,58465.0,72155136.0,11049132.0,157376512.0,59844.0,4315136.0,48750592.0,6563840.0,9650176.0,45783493.3
 
-----------------------------------------------------------------------------------------------------,,,,,,
-gpgpu_simulation_time\s*=.*\(([0-9]+) sec\).*,,,,,,
-CFG,l1_bw_32f/NO_ARGS--_Z5l1_bwPjS_PfS0_--0,l1_bw_64f/NO_ARGS--_Z5l1_bwPjS_PdS0_--0,mem_bw/NO_ARGS--_Z6mem_bwPfS_S_S_S_S_PjS0_--0,mem_lat/NO_ARGS--_Z7mem_latPjS_PmS0_--0,MaxFlops/NO_ARGS--_Z9max_flopsIfEvPjS0_PT_S2_S2_--0,AV--VG
-RTX3070-SASS-accel-49c6ed2-gpgpu-d38b300,35.0,272.0,2936.0,2693.0,39.0,1437.4
-RTX3070-SASS-accel-29d77db-gpgpu-d38b300,33.0,252.0,2400.0,2413.0,37.0,1027.0
+----------------------------------------------------------------------------------------------------,,,,,,,,,,,,,,,,
+gpgpu_simulation_time\s*=.*\(([0-9]+) sec\).*,,,,,,,,,,,,,,,,
+CFG,l1_bw_32f/NO_ARGS--_Z5l1_bwPjS_PfS0_--0,l1_bw_64f/NO_ARGS--_Z5l1_bwPjS_PdS0_--0,l1_bw_128/NO_ARGS--_Z5l1_bwPjS_PfS0_--0,l1_lat/NO_ARGS--_Z6l1_latPjS_PmS0_--0,l1_lat/NO_ARGS--_Z6l1_latPjS_PmS0_--0,l2_bw_32f/NO_ARGS--_Z5l2_bwPjS_PfS0_--0,l2_bw_64f/NO_ARGS--_Z5l2_bwPjS_PdS0_--0,l2_lat/NO_ARGS--_Z6l2_latPjS_PmS0_--0,mem_bw/NO_ARGS--_Z6mem_bwPfS_S_S_S_S_PjS0_--0,mem_lat/NO_ARGS--_Z7mem_latPjS_PmS0_--0,shared_bw/NO_ARGS--_Z9shared_bwPjS_Pf--0,shared_lat/NO_ARGS--_Z10shared_latPjS_Pmj--0,MaxFlops/NO_ARGS--_Z9max_flopsIfEvPjS0_PT_S2_S2_--0,l1_shared_bw/NO_ARGS--_Z9shared_bwPjS_S_S_j--0,l1_bw_32f_unroll/NO_ARGS--_Z5l1_bwPjS_PfS0_--0,l1_bw_32f_unroll_large/NO_ARGS--_Z5l1_bwPjS_PfS0_--0,AV--VG
+RTX3070-SASS-accel-49c6ed2-gpgpu-d38b300,35.0,272.0,NA,NA,NA,NA,NA,NA,2936.0,2693.0,NA,NA,39.0,NA,NA,NA,1437.4
+RTX3070-SASS-accel-29d77db-gpgpu-d38b300,33.0,252.0,NA,NA,NA,NA,NA,NA,2400.0,2413.0,NA,NA,37.0,NA,NA,NA,1027.0
+RTX3070-SASS-accel-29d2325-gpgpu-d38b300,38.0,262.0,400.0,1802.0,1802.0,1694.0,3473.0,3836.0,2087.0,1752.0,2040.0,71.0,45.0,818.0,60.0,128.0,1269.2
 
-----------------------------------------------------------------------------------------------------,,,,,,
-gpu_tot_sim_cycle\s*=\s*(.*),,,,,,
-CFG,l1_bw_32f/NO_ARGS--_Z5l1_bwPjS_PfS0_--0,l1_bw_64f/NO_ARGS--_Z5l1_bwPjS_PdS0_--0,mem_bw/NO_ARGS--_Z6mem_bwPfS_S_S_S_S_PjS0_--0,mem_lat/NO_ARGS--_Z7mem_latPjS_PmS0_--0,MaxFlops/NO_ARGS--_Z9max_flopsIfEvPjS0_PT_S2_S2_--0,AV--VG
-RTX3070-SASS-accel-49c6ed2-gpgpu-d38b300,45410.0,412879.0,615433.0,4028372.0,55911.0,1623884.1
-RTX3070-SASS-accel-29d77db-gpgpu-d38b300,45453.0,400130.0,615187.0,4028349.0,55883.0,1029000.4
+----------------------------------------------------------------------------------------------------,,,,,,,,,,,,,,,,
+gpu_tot_sim_cycle\s*=\s*(.*),,,,,,,,,,,,,,,,
+CFG,l1_bw_32f/NO_ARGS--_Z5l1_bwPjS_PfS0_--0,l1_bw_64f/NO_ARGS--_Z5l1_bwPjS_PdS0_--0,l1_bw_128/NO_ARGS--_Z5l1_bwPjS_PfS0_--0,l1_lat/NO_ARGS--_Z6l1_latPjS_PmS0_--0,l1_lat/NO_ARGS--_Z6l1_latPjS_PmS0_--0,l2_bw_32f/NO_ARGS--_Z5l2_bwPjS_PfS0_--0,l2_bw_64f/NO_ARGS--_Z5l2_bwPjS_PdS0_--0,l2_lat/NO_ARGS--_Z6l2_latPjS_PmS0_--0,mem_bw/NO_ARGS--_Z6mem_bwPfS_S_S_S_S_PjS0_--0,mem_lat/NO_ARGS--_Z7mem_latPjS_PmS0_--0,shared_bw/NO_ARGS--_Z9shared_bwPjS_Pf--0,shared_lat/NO_ARGS--_Z10shared_latPjS_Pmj--0,MaxFlops/NO_ARGS--_Z9max_flopsIfEvPjS0_PT_S2_S2_--0,l1_shared_bw/NO_ARGS--_Z9shared_bwPjS_S_S_j--0,l1_bw_32f_unroll/NO_ARGS--_Z5l1_bwPjS_PfS0_--0,l1_bw_32f_unroll_large/NO_ARGS--_Z5l1_bwPjS_PfS0_--0,AV--VG
+RTX3070-SASS-accel-49c6ed2-gpgpu-d38b300,45410.0,412879.0,NA,NA,NA,NA,NA,NA,615433.0,4028372.0,NA,NA,55911.0,NA,NA,NA,1623884.1
+RTX3070-SASS-accel-29d77db-gpgpu-d38b300,45453.0,400130.0,NA,NA,NA,NA,NA,NA,615187.0,4028349.0,NA,NA,55883.0,NA,NA,NA,1029000.4
+RTX3070-SASS-accel-29d2325-gpgpu-d38b300,45460.0,404443.0,535675.0,2882710.0,2882710.0,568125.0,1203788.0,6553320.0,614403.0,4029273.0,4734235.0,95675.0,55883.0,1137777.0,78540.0,159182.0,1623824.9
 
-----------------------------------------------------------------------------------------------------,,,,,,
-\s+L2_cache_stats_breakdown\[GLOBAL_ACC_R\]\[HIT\]\s*=\s*(.*),,,,,,
-CFG,l1_bw_32f/NO_ARGS--_Z5l1_bwPjS_PfS0_--0,l1_bw_64f/NO_ARGS--_Z5l1_bwPjS_PdS0_--0,mem_bw/NO_ARGS--_Z6mem_bwPfS_S_S_S_S_PjS0_--0,mem_lat/NO_ARGS--_Z7mem_latPjS_PmS0_--0,MaxFlops/NO_ARGS--_Z9max_flopsIfEvPjS0_PT_S2_S2_--0,AV--VG
-RTX3070-SASS-accel-49c6ed2-gpgpu-d38b300,0.0,0.0,0.0,0.0,0.0,1969103.1
-RTX3070-SASS-accel-29d77db-gpgpu-d38b300,0.0,0.0,0.0,0.0,0.0,0.0
+----------------------------------------------------------------------------------------------------,,,,,,,,,,,,,,,,
+\s+L2_cache_stats_breakdown\[GLOBAL_ACC_R\]\[HIT\]\s*=\s*(.*),,,,,,,,,,,,,,,,
+CFG,l1_bw_32f/NO_ARGS--_Z5l1_bwPjS_PfS0_--0,l1_bw_64f/NO_ARGS--_Z5l1_bwPjS_PdS0_--0,l1_bw_128/NO_ARGS--_Z5l1_bwPjS_PfS0_--0,l1_lat/NO_ARGS--_Z6l1_latPjS_PmS0_--0,l1_lat/NO_ARGS--_Z6l1_latPjS_PmS0_--0,l2_bw_32f/NO_ARGS--_Z5l2_bwPjS_PfS0_--0,l2_bw_64f/NO_ARGS--_Z5l2_bwPjS_PdS0_--0,l2_lat/NO_ARGS--_Z6l2_latPjS_PmS0_--0,mem_bw/NO_ARGS--_Z6mem_bwPfS_S_S_S_S_PjS0_--0,mem_lat/NO_ARGS--_Z7mem_latPjS_PmS0_--0,shared_bw/NO_ARGS--_Z9shared_bwPjS_Pf--0,shared_lat/NO_ARGS--_Z10shared_latPjS_Pmj--0,MaxFlops/NO_ARGS--_Z9max_flopsIfEvPjS0_PT_S2_S2_--0,l1_shared_bw/NO_ARGS--_Z9shared_bwPjS_S_S_j--0,l1_bw_32f_unroll/NO_ARGS--_Z5l1_bwPjS_PfS0_--0,l1_bw_32f_unroll_large/NO_ARGS--_Z5l1_bwPjS_PfS0_--0,AV--VG
+RTX3070-SASS-accel-49c6ed2-gpgpu-d38b300,0.0,0.0,NA,NA,NA,NA,NA,NA,0.0,0.0,NA,NA,0.0,NA,NA,NA,1969103.1
+RTX3070-SASS-accel-29d77db-gpgpu-d38b300,0.0,0.0,NA,NA,NA,NA,NA,NA,0.0,0.0,NA,NA,0.0,NA,NA,NA,0.0
+RTX3070-SASS-accel-29d2325-gpgpu-d38b300,0.0,0.0,0.0,0.0,0.0,10484051.0,20968882.0,32769.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,16508.0,1968888.1
 
-----------------------------------------------------------------------------------------------------,,,,,,
-\s+L2_cache_stats_breakdown\[GLOBAL_ACC_R\]\[TOTAL_ACCESS\]\s*=\s*(.*),,,,,,
-CFG,l1_bw_32f/NO_ARGS--_Z5l1_bwPjS_PfS0_--0,l1_bw_64f/NO_ARGS--_Z5l1_bwPjS_PdS0_--0,mem_bw/NO_ARGS--_Z6mem_bwPfS_S_S_S_S_PjS0_--0,mem_lat/NO_ARGS--_Z7mem_latPjS_PmS0_--0,MaxFlops/NO_ARGS--_Z9max_flopsIfEvPjS0_PT_S2_S2_--0,AV--VG
-RTX3070-SASS-accel-49c6ed2-gpgpu-d38b300,2060.0,2056.0,5242880.0,7936.0,256.0,3070849.5
-RTX3070-SASS-accel-29d77db-gpgpu-d38b300,2060.0,2056.0,5242880.0,7936.0,256.0,1051037.6
+----------------------------------------------------------------------------------------------------,,,,,,,,,,,,,,,,
+\s+L2_cache_stats_breakdown\[GLOBAL_ACC_R\]\[TOTAL_ACCESS\]\s*=\s*(.*),,,,,,,,,,,,,,,,
+CFG,l1_bw_32f/NO_ARGS--_Z5l1_bwPjS_PfS0_--0,l1_bw_64f/NO_ARGS--_Z5l1_bwPjS_PdS0_--0,l1_bw_128/NO_ARGS--_Z5l1_bwPjS_PfS0_--0,l1_lat/NO_ARGS--_Z6l1_latPjS_PmS0_--0,l1_lat/NO_ARGS--_Z6l1_latPjS_PmS0_--0,l2_bw_32f/NO_ARGS--_Z5l2_bwPjS_PfS0_--0,l2_bw_64f/NO_ARGS--_Z5l2_bwPjS_PdS0_--0,l2_lat/NO_ARGS--_Z6l2_latPjS_PmS0_--0,mem_bw/NO_ARGS--_Z6mem_bwPfS_S_S_S_S_PjS0_--0,mem_lat/NO_ARGS--_Z7mem_latPjS_PmS0_--0,shared_bw/NO_ARGS--_Z9shared_bwPjS_Pf--0,shared_lat/NO_ARGS--_Z10shared_latPjS_Pmj--0,MaxFlops/NO_ARGS--_Z9max_flopsIfEvPjS0_PT_S2_S2_--0,l1_shared_bw/NO_ARGS--_Z9shared_bwPjS_S_S_j--0,l1_bw_32f_unroll/NO_ARGS--_Z5l1_bwPjS_PfS0_--0,l1_bw_32f_unroll_large/NO_ARGS--_Z5l1_bwPjS_PfS0_--0,AV--VG
+RTX3070-SASS-accel-49c6ed2-gpgpu-d38b300,2060.0,2056.0,NA,NA,NA,NA,NA,NA,5242880.0,7936.0,NA,NA,256.0,NA,NA,NA,3070849.5
+RTX3070-SASS-accel-29d77db-gpgpu-d38b300,2060.0,2056.0,NA,NA,NA,NA,NA,NA,5242880.0,7936.0,NA,NA,256.0,NA,NA,NA,1051037.6
+RTX3070-SASS-accel-29d2325-gpgpu-d38b300,2060.0,2056.0,2048.0,NA,NA,10508288.0,21016576.0,32769.0,5242880.0,7936.0,NA,NA,256.0,257.0,2048.0,33020.0,3070849.5
 
-----------------------------------------------------------------------------------------------------,,,,,,
-\s+L2_cache_stats_breakdown\[GLOBAL_ACC_W\]\[HIT\]\s*=\s*(.*),,,,,,
-CFG,l1_bw_32f/NO_ARGS--_Z5l1_bwPjS_PfS0_--0,l1_bw_64f/NO_ARGS--_Z5l1_bwPjS_PdS0_--0,mem_bw/NO_ARGS--_Z6mem_bwPfS_S_S_S_S_PjS0_--0,mem_lat/NO_ARGS--_Z7mem_latPjS_PmS0_--0,MaxFlops/NO_ARGS--_Z9max_flopsIfEvPjS0_PT_S2_S2_--0,AV--VG
-RTX3070-SASS-accel-49c6ed2-gpgpu-d38b300,12.0,8.0,0.0,0.0,0.0,961.2
-RTX3070-SASS-accel-29d77db-gpgpu-d38b300,12.0,8.0,0.0,0.0,0.0,4.0
+----------------------------------------------------------------------------------------------------,,,,,,,,,,,,,,,,
+\s+L2_cache_stats_breakdown\[GLOBAL_ACC_W\]\[HIT\]\s*=\s*(.*),,,,,,,,,,,,,,,,
+CFG,l1_bw_32f/NO_ARGS--_Z5l1_bwPjS_PfS0_--0,l1_bw_64f/NO_ARGS--_Z5l1_bwPjS_PdS0_--0,l1_bw_128/NO_ARGS--_Z5l1_bwPjS_PfS0_--0,l1_lat/NO_ARGS--_Z6l1_latPjS_PmS0_--0,l1_lat/NO_ARGS--_Z6l1_latPjS_PmS0_--0,l2_bw_32f/NO_ARGS--_Z5l2_bwPjS_PfS0_--0,l2_bw_64f/NO_ARGS--_Z5l2_bwPjS_PdS0_--0,l2_lat/NO_ARGS--_Z6l2_latPjS_PmS0_--0,mem_bw/NO_ARGS--_Z6mem_bwPfS_S_S_S_S_PjS0_--0,mem_lat/NO_ARGS--_Z7mem_latPjS_PmS0_--0,shared_bw/NO_ARGS--_Z9shared_bwPjS_Pf--0,shared_lat/NO_ARGS--_Z10shared_latPjS_Pmj--0,MaxFlops/NO_ARGS--_Z9max_flopsIfEvPjS0_PT_S2_S2_--0,l1_shared_bw/NO_ARGS--_Z9shared_bwPjS_S_S_j--0,l1_bw_32f_unroll/NO_ARGS--_Z5l1_bwPjS_PfS0_--0,l1_bw_32f_unroll_large/NO_ARGS--_Z5l1_bwPjS_PfS0_--0,AV--VG
+RTX3070-SASS-accel-49c6ed2-gpgpu-d38b300,12.0,8.0,NA,NA,NA,NA,NA,NA,0.0,0.0,NA,NA,0.0,NA,NA,NA,961.2
+RTX3070-SASS-accel-29d77db-gpgpu-d38b300,12.0,8.0,NA,NA,NA,NA,NA,NA,0.0,0.0,NA,NA,0.0,NA,NA,NA,4.0
+RTX3070-SASS-accel-29d2325-gpgpu-d38b300,12.0,8.0,0.0,6144.0,6144.0,0.0,0.0,3072.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,961.2
 
-----------------------------------------------------------------------------------------------------,,,,,,
-\s+L2_cache_stats_breakdown\[GLOBAL_ACC_W\]\[TOTAL_ACCESS\]\s*=\s*(.*),,,,,,
-CFG,l1_bw_32f/NO_ARGS--_Z5l1_bwPjS_PfS0_--0,l1_bw_64f/NO_ARGS--_Z5l1_bwPjS_PdS0_--0,mem_bw/NO_ARGS--_Z6mem_bwPfS_S_S_S_S_PjS0_--0,mem_lat/NO_ARGS--_Z7mem_latPjS_PmS0_--0,MaxFlops/NO_ARGS--_Z9max_flopsIfEvPjS0_PT_S2_S2_--0,AV--VG
-RTX3070-SASS-accel-49c6ed2-gpgpu-d38b300,384.0,512.0,1089536.0,229379.0,384.0,92873.3
-RTX3070-SASS-accel-29d77db-gpgpu-d38b300,384.0,512.0,1089536.0,229379.0,384.0,264039.0
+----------------------------------------------------------------------------------------------------,,,,,,,,,,,,,,,,
+\s+L2_cache_stats_breakdown\[GLOBAL_ACC_W\]\[TOTAL_ACCESS\]\s*=\s*(.*),,,,,,,,,,,,,,,,
+CFG,l1_bw_32f/NO_ARGS--_Z5l1_bwPjS_PfS0_--0,l1_bw_64f/NO_ARGS--_Z5l1_bwPjS_PdS0_--0,l1_bw_128/NO_ARGS--_Z5l1_bwPjS_PfS0_--0,l1_lat/NO_ARGS--_Z6l1_latPjS_PmS0_--0,l1_lat/NO_ARGS--_Z6l1_latPjS_PmS0_--0,l2_bw_32f/NO_ARGS--_Z5l2_bwPjS_PfS0_--0,l2_bw_64f/NO_ARGS--_Z5l2_bwPjS_PdS0_--0,l2_lat/NO_ARGS--_Z6l2_latPjS_PmS0_--0,mem_bw/NO_ARGS--_Z6mem_bwPfS_S_S_S_S_PjS0_--0,mem_lat/NO_ARGS--_Z7mem_latPjS_PmS0_--0,shared_bw/NO_ARGS--_Z9shared_bwPjS_Pf--0,shared_lat/NO_ARGS--_Z10shared_latPjS_Pmj--0,MaxFlops/NO_ARGS--_Z9max_flopsIfEvPjS0_PT_S2_S2_--0,l1_shared_bw/NO_ARGS--_Z9shared_bwPjS_S_S_j--0,l1_bw_32f_unroll/NO_ARGS--_Z5l1_bwPjS_PfS0_--0,l1_bw_32f_unroll_large/NO_ARGS--_Z5l1_bwPjS_PfS0_--0,AV--VG
+RTX3070-SASS-accel-49c6ed2-gpgpu-d38b300,384.0,512.0,NA,NA,NA,NA,NA,NA,1089536.0,229379.0,NA,NA,384.0,NA,NA,NA,92873.3
+RTX3070-SASS-accel-29d77db-gpgpu-d38b300,384.0,512.0,NA,NA,NA,NA,NA,NA,1089536.0,229379.0,NA,NA,384.0,NA,NA,NA,264039.0
+RTX3070-SASS-accel-29d2325-gpgpu-d38b300,384.0,512.0,384.0,8198.0,8198.0,61440.0,81920.0,4099.0,1089536.0,229379.0,384.0,3.0,384.0,384.0,384.0,384.0,92873.3
 
-----------------------------------------------------------------------------------------------------,,,,,,
-\s+Total_core_cache_stats_breakdown\[GLOBAL_ACC_R\]\[TOTAL_ACCESS\]\s*=\s*(.*),,,,,,
-CFG,l1_bw_32f/NO_ARGS--_Z5l1_bwPjS_PfS0_--0,l1_bw_64f/NO_ARGS--_Z5l1_bwPjS_PdS0_--0,mem_bw/NO_ARGS--_Z6mem_bwPfS_S_S_S_S_PjS0_--0,mem_lat/NO_ARGS--_Z7mem_latPjS_PmS0_--0,MaxFlops/NO_ARGS--_Z9max_flopsIfEvPjS0_PT_S2_S2_--0,AV--VG
-RTX3070-SASS-accel-49c6ed2-gpgpu-d38b300,133120.0,133120.0,NA,8192.0,256.0,383446.8
-RTX3070-SASS-accel-29d77db-gpgpu-d38b300,133120.0,133120.0,NA,8192.0,256.0,68672.0
+----------------------------------------------------------------------------------------------------,,,,,,,,,,,,,,,,
+\s+Total_core_cache_stats_breakdown\[GLOBAL_ACC_R\]\[TOTAL_ACCESS\]\s*=\s*(.*),,,,,,,,,,,,,,,,
+CFG,l1_bw_32f/NO_ARGS--_Z5l1_bwPjS_PfS0_--0,l1_bw_64f/NO_ARGS--_Z5l1_bwPjS_PdS0_--0,l1_bw_128/NO_ARGS--_Z5l1_bwPjS_PfS0_--0,l1_lat/NO_ARGS--_Z6l1_latPjS_PmS0_--0,l1_lat/NO_ARGS--_Z6l1_latPjS_PmS0_--0,l2_bw_32f/NO_ARGS--_Z5l2_bwPjS_PfS0_--0,l2_bw_64f/NO_ARGS--_Z5l2_bwPjS_PdS0_--0,l2_lat/NO_ARGS--_Z6l2_latPjS_PmS0_--0,mem_bw/NO_ARGS--_Z6mem_bwPfS_S_S_S_S_PjS0_--0,mem_lat/NO_ARGS--_Z7mem_latPjS_PmS0_--0,shared_bw/NO_ARGS--_Z9shared_bwPjS_Pf--0,shared_lat/NO_ARGS--_Z10shared_latPjS_Pmj--0,MaxFlops/NO_ARGS--_Z9max_flopsIfEvPjS0_PT_S2_S2_--0,l1_shared_bw/NO_ARGS--_Z9shared_bwPjS_S_S_j--0,l1_bw_32f_unroll/NO_ARGS--_Z5l1_bwPjS_PfS0_--0,l1_bw_32f_unroll_large/NO_ARGS--_Z5l1_bwPjS_PfS0_--0,AV--VG
+RTX3070-SASS-accel-49c6ed2-gpgpu-d38b300,133120.0,133120.0,NA,NA,NA,NA,NA,NA,NA,8192.0,NA,NA,256.0,NA,NA,NA,383446.8
+RTX3070-SASS-accel-29d77db-gpgpu-d38b300,133120.0,133120.0,NA,NA,NA,NA,NA,NA,NA,8192.0,NA,NA,256.0,NA,NA,NA,68672.0
+RTX3070-SASS-accel-29d2325-gpgpu-d38b300,133120.0,133120.0,2099200.0,65538.0,65538.0,NA,NA,NA,NA,8192.0,NA,NA,256.0,655584.0,133120.0,540800.0,383446.8
 
-----------------------------------------------------------------------------------------------------,,,,,,
-\s+Total_core_cache_stats_breakdown\[GLOBAL_ACC_R\]\[HIT\]\s*=\s*(.*),,,,,,
-CFG,l1_bw_32f/NO_ARGS--_Z5l1_bwPjS_PfS0_--0,l1_bw_64f/NO_ARGS--_Z5l1_bwPjS_PdS0_--0,mem_bw/NO_ARGS--_Z6mem_bwPfS_S_S_S_S_PjS0_--0,mem_lat/NO_ARGS--_Z7mem_latPjS_PmS0_--0,MaxFlops/NO_ARGS--_Z9max_flopsIfEvPjS0_PT_S2_S2_--0,AV--VG
-RTX3070-SASS-accel-49c6ed2-gpgpu-d38b300,131022.0,131064.0,0.0,256.0,0.0,233585.0
-RTX3070-SASS-accel-29d77db-gpgpu-d38b300,131012.0,131056.0,0.0,256.0,0.0,52464.8
+----------------------------------------------------------------------------------------------------,,,,,,,,,,,,,,,,
+\s+Total_core_cache_stats_breakdown\[GLOBAL_ACC_R\]\[HIT\]\s*=\s*(.*),,,,,,,,,,,,,,,,
+CFG,l1_bw_32f/NO_ARGS--_Z5l1_bwPjS_PfS0_--0,l1_bw_64f/NO_ARGS--_Z5l1_bwPjS_PdS0_--0,l1_bw_128/NO_ARGS--_Z5l1_bwPjS_PfS0_--0,l1_lat/NO_ARGS--_Z6l1_latPjS_PmS0_--0,l1_lat/NO_ARGS--_Z6l1_latPjS_PmS0_--0,l2_bw_32f/NO_ARGS--_Z5l2_bwPjS_PfS0_--0,l2_bw_64f/NO_ARGS--_Z5l2_bwPjS_PdS0_--0,l2_lat/NO_ARGS--_Z6l2_latPjS_PmS0_--0,mem_bw/NO_ARGS--_Z6mem_bwPfS_S_S_S_S_PjS0_--0,mem_lat/NO_ARGS--_Z7mem_latPjS_PmS0_--0,shared_bw/NO_ARGS--_Z9shared_bwPjS_Pf--0,shared_lat/NO_ARGS--_Z10shared_latPjS_Pmj--0,MaxFlops/NO_ARGS--_Z9max_flopsIfEvPjS0_PT_S2_S2_--0,l1_shared_bw/NO_ARGS--_Z9shared_bwPjS_S_S_j--0,l1_bw_32f_unroll/NO_ARGS--_Z5l1_bwPjS_PfS0_--0,l1_bw_32f_unroll_large/NO_ARGS--_Z5l1_bwPjS_PfS0_--0,AV--VG
+RTX3070-SASS-accel-49c6ed2-gpgpu-d38b300,131022.0,131064.0,NA,NA,NA,NA,NA,NA,0.0,256.0,NA,NA,0.0,NA,NA,NA,233585.0
+RTX3070-SASS-accel-29d77db-gpgpu-d38b300,131012.0,131056.0,NA,NA,NA,NA,NA,NA,0.0,256.0,NA,NA,0.0,NA,NA,NA,52464.8
+RTX3070-SASS-accel-29d2325-gpgpu-d38b300,131032.0,131064.0,2097152.0,65538.0,65538.0,0.0,0.0,0.0,0.0,256.0,0.0,0.0,0.0,655289.0,131072.0,467647.0,234036.8
 
-----------------------------------------------------------------------------------------------------,,,,,,
-\s+Total_core_cache_stats_breakdown\[GLOBAL_ACC_W\]\[HIT\]\s*=\s*(.*),,,,,,
-CFG,l1_bw_32f/NO_ARGS--_Z5l1_bwPjS_PfS0_--0,l1_bw_64f/NO_ARGS--_Z5l1_bwPjS_PdS0_--0,mem_bw/NO_ARGS--_Z6mem_bwPfS_S_S_S_S_PjS0_--0,mem_lat/NO_ARGS--_Z7mem_latPjS_PmS0_--0,MaxFlops/NO_ARGS--_Z9max_flopsIfEvPjS0_PT_S2_S2_--0,AV--VG
-RTX3070-SASS-accel-49c6ed2-gpgpu-d38b300,12.0,8.0,0.0,0.0,0.0,961.2
-RTX3070-SASS-accel-29d77db-gpgpu-d38b300,12.0,8.0,0.0,0.0,0.0,4.0
+----------------------------------------------------------------------------------------------------,,,,,,,,,,,,,,,,
+\s+Total_core_cache_stats_breakdown\[GLOBAL_ACC_W\]\[HIT\]\s*=\s*(.*),,,,,,,,,,,,,,,,
+CFG,l1_bw_32f/NO_ARGS--_Z5l1_bwPjS_PfS0_--0,l1_bw_64f/NO_ARGS--_Z5l1_bwPjS_PdS0_--0,l1_bw_128/NO_ARGS--_Z5l1_bwPjS_PfS0_--0,l1_lat/NO_ARGS--_Z6l1_latPjS_PmS0_--0,l1_lat/NO_ARGS--_Z6l1_latPjS_PmS0_--0,l2_bw_32f/NO_ARGS--_Z5l2_bwPjS_PfS0_--0,l2_bw_64f/NO_ARGS--_Z5l2_bwPjS_PdS0_--0,l2_lat/NO_ARGS--_Z6l2_latPjS_PmS0_--0,mem_bw/NO_ARGS--_Z6mem_bwPfS_S_S_S_S_PjS0_--0,mem_lat/NO_ARGS--_Z7mem_latPjS_PmS0_--0,shared_bw/NO_ARGS--_Z9shared_bwPjS_Pf--0,shared_lat/NO_ARGS--_Z10shared_latPjS_Pmj--0,MaxFlops/NO_ARGS--_Z9max_flopsIfEvPjS0_PT_S2_S2_--0,l1_shared_bw/NO_ARGS--_Z9shared_bwPjS_S_S_j--0,l1_bw_32f_unroll/NO_ARGS--_Z5l1_bwPjS_PfS0_--0,l1_bw_32f_unroll_large/NO_ARGS--_Z5l1_bwPjS_PfS0_--0,AV--VG
+RTX3070-SASS-accel-49c6ed2-gpgpu-d38b300,12.0,8.0,NA,NA,NA,NA,NA,NA,0.0,0.0,NA,NA,0.0,NA,NA,NA,961.2
+RTX3070-SASS-accel-29d77db-gpgpu-d38b300,12.0,8.0,NA,NA,NA,NA,NA,NA,0.0,0.0,NA,NA,0.0,NA,NA,NA,4.0
+RTX3070-SASS-accel-29d2325-gpgpu-d38b300,12.0,8.0,0.0,6144.0,6144.0,0.0,0.0,3072.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,961.2
 
-----------------------------------------------------------------------------------------------------,,,,,,
-\s+Total_core_cache_stats_breakdown\[GLOBAL_ACC_W\]\[TOTAL_ACCESS\]\s*=\s*(.*),,,,,,
-CFG,l1_bw_32f/NO_ARGS--_Z5l1_bwPjS_PfS0_--0,l1_bw_64f/NO_ARGS--_Z5l1_bwPjS_PdS0_--0,mem_bw/NO_ARGS--_Z6mem_bwPfS_S_S_S_S_PjS0_--0,mem_lat/NO_ARGS--_Z7mem_latPjS_PmS0_--0,MaxFlops/NO_ARGS--_Z9max_flopsIfEvPjS0_PT_S2_S2_--0,AV--VG
-RTX3070-SASS-accel-49c6ed2-gpgpu-d38b300,384.0,512.0,1089536.0,229379.0,384.0,92873.3
-RTX3070-SASS-accel-29d77db-gpgpu-d38b300,384.0,512.0,1089536.0,229379.0,384.0,264039.0
+----------------------------------------------------------------------------------------------------,,,,,,,,,,,,,,,,
+\s+Total_core_cache_stats_breakdown\[GLOBAL_ACC_W\]\[TOTAL_ACCESS\]\s*=\s*(.*),,,,,,,,,,,,,,,,
+CFG,l1_bw_32f/NO_ARGS--_Z5l1_bwPjS_PfS0_--0,l1_bw_64f/NO_ARGS--_Z5l1_bwPjS_PdS0_--0,l1_bw_128/NO_ARGS--_Z5l1_bwPjS_PfS0_--0,l1_lat/NO_ARGS--_Z6l1_latPjS_PmS0_--0,l1_lat/NO_ARGS--_Z6l1_latPjS_PmS0_--0,l2_bw_32f/NO_ARGS--_Z5l2_bwPjS_PfS0_--0,l2_bw_64f/NO_ARGS--_Z5l2_bwPjS_PdS0_--0,l2_lat/NO_ARGS--_Z6l2_latPjS_PmS0_--0,mem_bw/NO_ARGS--_Z6mem_bwPfS_S_S_S_S_PjS0_--0,mem_lat/NO_ARGS--_Z7mem_latPjS_PmS0_--0,shared_bw/NO_ARGS--_Z9shared_bwPjS_Pf--0,shared_lat/NO_ARGS--_Z10shared_latPjS_Pmj--0,MaxFlops/NO_ARGS--_Z9max_flopsIfEvPjS0_PT_S2_S2_--0,l1_shared_bw/NO_ARGS--_Z9shared_bwPjS_S_S_j--0,l1_bw_32f_unroll/NO_ARGS--_Z5l1_bwPjS_PfS0_--0,l1_bw_32f_unroll_large/NO_ARGS--_Z5l1_bwPjS_PfS0_--0,AV--VG
+RTX3070-SASS-accel-49c6ed2-gpgpu-d38b300,384.0,512.0,NA,NA,NA,NA,NA,NA,1089536.0,229379.0,NA,NA,384.0,NA,NA,NA,92873.3
+RTX3070-SASS-accel-29d77db-gpgpu-d38b300,384.0,512.0,NA,NA,NA,NA,NA,NA,1089536.0,229379.0,NA,NA,384.0,NA,NA,NA,264039.0
+RTX3070-SASS-accel-29d2325-gpgpu-d38b300,384.0,512.0,384.0,8198.0,8198.0,61440.0,81920.0,4099.0,1089536.0,229379.0,384.0,3.0,384.0,384.0,384.0,384.0,92873.3
 
-----------------------------------------------------------------------------------------------------,,,,,,
-\s+Total_core_cache_stats_breakdown\[GLOBAL_ACC_R\]\[MSHR_HIT\]\s*=\s*(.*),,,,,,
-CFG,l1_bw_32f/NO_ARGS--_Z5l1_bwPjS_PfS0_--0,l1_bw_64f/NO_ARGS--_Z5l1_bwPjS_PdS0_--0,mem_bw/NO_ARGS--_Z6mem_bwPfS_S_S_S_S_PjS0_--0,mem_lat/NO_ARGS--_Z7mem_latPjS_PmS0_--0,MaxFlops/NO_ARGS--_Z9max_flopsIfEvPjS0_PT_S2_S2_--0,AV--VG
-RTX3070-SASS-accel-49c6ed2-gpgpu-d38b300,38.0,0.0,0.0,0.0,0.0,2964.2
-RTX3070-SASS-accel-29d77db-gpgpu-d38b300,48.0,8.0,0.0,0.0,0.0,11.2
+----------------------------------------------------------------------------------------------------,,,,,,,,,,,,,,,,
+\s+Total_core_cache_stats_breakdown\[GLOBAL_ACC_R\]\[MSHR_HIT\]\s*=\s*(.*),,,,,,,,,,,,,,,,
+CFG,l1_bw_32f/NO_ARGS--_Z5l1_bwPjS_PfS0_--0,l1_bw_64f/NO_ARGS--_Z5l1_bwPjS_PdS0_--0,l1_bw_128/NO_ARGS--_Z5l1_bwPjS_PfS0_--0,l1_lat/NO_ARGS--_Z6l1_latPjS_PmS0_--0,l1_lat/NO_ARGS--_Z6l1_latPjS_PmS0_--0,l2_bw_32f/NO_ARGS--_Z5l2_bwPjS_PfS0_--0,l2_bw_64f/NO_ARGS--_Z5l2_bwPjS_PdS0_--0,l2_lat/NO_ARGS--_Z6l2_latPjS_PmS0_--0,mem_bw/NO_ARGS--_Z6mem_bwPfS_S_S_S_S_PjS0_--0,mem_lat/NO_ARGS--_Z7mem_latPjS_PmS0_--0,shared_bw/NO_ARGS--_Z9shared_bwPjS_Pf--0,shared_lat/NO_ARGS--_Z10shared_latPjS_Pmj--0,MaxFlops/NO_ARGS--_Z9max_flopsIfEvPjS0_PT_S2_S2_--0,l1_shared_bw/NO_ARGS--_Z9shared_bwPjS_S_S_j--0,l1_bw_32f_unroll/NO_ARGS--_Z5l1_bwPjS_PfS0_--0,l1_bw_32f_unroll_large/NO_ARGS--_Z5l1_bwPjS_PfS0_--0,AV--VG
+RTX3070-SASS-accel-49c6ed2-gpgpu-d38b300,38.0,0.0,NA,NA,NA,NA,NA,NA,0.0,0.0,NA,NA,0.0,NA,NA,NA,2964.2
+RTX3070-SASS-accel-29d77db-gpgpu-d38b300,48.0,8.0,NA,NA,NA,NA,NA,NA,0.0,0.0,NA,NA,0.0,NA,NA,NA,11.2
+RTX3070-SASS-accel-29d2325-gpgpu-d38b300,28.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,38.0,0.0,40133.0,2512.4
 
-----------------------------------------------------------------------------------------------------,,,,,,
-gpgpu_n_tot_w_icount\s*=\s*(.*),,,,,,
-CFG,l1_bw_32f/NO_ARGS--_Z5l1_bwPjS_PfS0_--0,l1_bw_64f/NO_ARGS--_Z5l1_bwPjS_PdS0_--0,mem_bw/NO_ARGS--_Z6mem_bwPfS_S_S_S_S_PjS0_--0,mem_lat/NO_ARGS--_Z7mem_latPjS_PmS0_--0,MaxFlops/NO_ARGS--_Z9max_flopsIfEvPjS0_PT_S2_S2_--0,AV--VG
-RTX3070-SASS-accel-49c6ed2-gpgpu-d38b300,104768.0,70944.0,2265088.0,375366.0,134880.0,1482343.4
-RTX3070-SASS-accel-29d77db-gpgpu-d38b300,104768.0,70944.0,2265088.0,375366.0,134880.0,590209.2
+----------------------------------------------------------------------------------------------------,,,,,,,,,,,,,,,,
+gpgpu_n_tot_w_icount\s*=\s*(.*),,,,,,,,,,,,,,,,
+CFG,l1_bw_32f/NO_ARGS--_Z5l1_bwPjS_PfS0_--0,l1_bw_64f/NO_ARGS--_Z5l1_bwPjS_PdS0_--0,l1_bw_128/NO_ARGS--_Z5l1_bwPjS_PfS0_--0,l1_lat/NO_ARGS--_Z6l1_latPjS_PmS0_--0,l1_lat/NO_ARGS--_Z6l1_latPjS_PmS0_--0,l2_bw_32f/NO_ARGS--_Z5l2_bwPjS_PfS0_--0,l2_bw_64f/NO_ARGS--_Z5l2_bwPjS_PdS0_--0,l2_lat/NO_ARGS--_Z6l2_latPjS_PmS0_--0,mem_bw/NO_ARGS--_Z6mem_bwPfS_S_S_S_S_PjS0_--0,mem_lat/NO_ARGS--_Z7mem_latPjS_PmS0_--0,shared_bw/NO_ARGS--_Z9shared_bwPjS_Pf--0,shared_lat/NO_ARGS--_Z10shared_latPjS_Pmj--0,MaxFlops/NO_ARGS--_Z9max_flopsIfEvPjS0_PT_S2_S2_--0,l1_shared_bw/NO_ARGS--_Z9shared_bwPjS_S_S_j--0,l1_bw_32f_unroll/NO_ARGS--_Z5l1_bwPjS_PfS0_--0,l1_bw_32f_unroll_large/NO_ARGS--_Z5l1_bwPjS_PfS0_--0,AV--VG
+RTX3070-SASS-accel-49c6ed2-gpgpu-d38b300,104768.0,70944.0,NA,NA,NA,NA,NA,NA,2265088.0,375366.0,NA,NA,134880.0,NA,NA,NA,1482343.4
+RTX3070-SASS-accel-29d77db-gpgpu-d38b300,104768.0,70944.0,NA,NA,NA,NA,NA,NA,2265088.0,375366.0,NA,NA,134880.0,NA,NA,NA,590209.2
+RTX3070-SASS-accel-29d2325-gpgpu-d38b300,104768.0,70944.0,1223488.0,116936.0,116936.0,5948416.0,5953536.0,58468.0,2265088.0,375366.0,5311328.0,5949.0,134880.0,1523584.0,205472.0,302336.0,1482343.4
 
-----------------------------------------------------------------------------------------------------,,,,,,
-total dram reads\s*=\s*(.*),,,,,,
-CFG,l1_bw_32f/NO_ARGS--_Z5l1_bwPjS_PfS0_--0,l1_bw_64f/NO_ARGS--_Z5l1_bwPjS_PdS0_--0,mem_bw/NO_ARGS--_Z6mem_bwPfS_S_S_S_S_PjS0_--0,mem_lat/NO_ARGS--_Z7mem_latPjS_PmS0_--0,MaxFlops/NO_ARGS--_Z9max_flopsIfEvPjS0_PT_S2_S2_--0,AV--VG
-RTX3070-SASS-accel-49c6ed2-gpgpu-d38b300,2060.0,2056.0,5242880.0,7936.0,256.0,333977.3
-RTX3070-SASS-accel-29d77db-gpgpu-d38b300,2060.0,2056.0,5242880.0,7936.0,256.0,1051037.6
+----------------------------------------------------------------------------------------------------,,,,,,,,,,,,,,,,
+total dram reads\s*=\s*(.*),,,,,,,,,,,,,,,,
+CFG,l1_bw_32f/NO_ARGS--_Z5l1_bwPjS_PfS0_--0,l1_bw_64f/NO_ARGS--_Z5l1_bwPjS_PdS0_--0,l1_bw_128/NO_ARGS--_Z5l1_bwPjS_PfS0_--0,l1_lat/NO_ARGS--_Z6l1_latPjS_PmS0_--0,l1_lat/NO_ARGS--_Z6l1_latPjS_PmS0_--0,l2_bw_32f/NO_ARGS--_Z5l2_bwPjS_PfS0_--0,l2_bw_64f/NO_ARGS--_Z5l2_bwPjS_PdS0_--0,l2_lat/NO_ARGS--_Z6l2_latPjS_PmS0_--0,mem_bw/NO_ARGS--_Z6mem_bwPfS_S_S_S_S_PjS0_--0,mem_lat/NO_ARGS--_Z7mem_latPjS_PmS0_--0,shared_bw/NO_ARGS--_Z9shared_bwPjS_Pf--0,shared_lat/NO_ARGS--_Z10shared_latPjS_Pmj--0,MaxFlops/NO_ARGS--_Z9max_flopsIfEvPjS0_PT_S2_S2_--0,l1_shared_bw/NO_ARGS--_Z9shared_bwPjS_S_S_j--0,l1_bw_32f_unroll/NO_ARGS--_Z5l1_bwPjS_PfS0_--0,l1_bw_32f_unroll_large/NO_ARGS--_Z5l1_bwPjS_PfS0_--0,AV--VG
+RTX3070-SASS-accel-49c6ed2-gpgpu-d38b300,2060.0,2056.0,NA,NA,NA,NA,NA,NA,5242880.0,7936.0,NA,NA,256.0,NA,NA,NA,333977.3
+RTX3070-SASS-accel-29d77db-gpgpu-d38b300,2060.0,2056.0,NA,NA,NA,NA,NA,NA,5242880.0,7936.0,NA,NA,256.0,NA,NA,NA,1051037.6
+RTX3070-SASS-accel-29d2325-gpgpu-d38b300,2060.0,2056.0,2048.0,0.0,0.0,22528.0,45056.0,0.0,5242880.0,7936.0,0.0,0.0,256.0,257.0,2048.0,16512.0,333977.3
 
-----------------------------------------------------------------------------------------------------,,,,,,
-total dram writes\s*=\s*(.*),,,,,,
-CFG,l1_bw_32f/NO_ARGS--_Z5l1_bwPjS_PfS0_--0,l1_bw_64f/NO_ARGS--_Z5l1_bwPjS_PdS0_--0,mem_bw/NO_ARGS--_Z6mem_bwPfS_S_S_S_S_PjS0_--0,mem_lat/NO_ARGS--_Z7mem_latPjS_PmS0_--0,MaxFlops/NO_ARGS--_Z9max_flopsIfEvPjS0_PT_S2_S2_--0,AV--VG
-RTX3070-SASS-accel-49c6ed2-gpgpu-d38b300,0.0,0.0,1056820.0,106248.0,0.0,72691.8
-RTX3070-SASS-accel-29d77db-gpgpu-d38b300,0.0,0.0,1056876.0,106248.0,0.0,232624.8
+----------------------------------------------------------------------------------------------------,,,,,,,,,,,,,,,,
+total dram writes\s*=\s*(.*),,,,,,,,,,,,,,,,
+CFG,l1_bw_32f/NO_ARGS--_Z5l1_bwPjS_PfS0_--0,l1_bw_64f/NO_ARGS--_Z5l1_bwPjS_PdS0_--0,l1_bw_128/NO_ARGS--_Z5l1_bwPjS_PfS0_--0,l1_lat/NO_ARGS--_Z6l1_latPjS_PmS0_--0,l1_lat/NO_ARGS--_Z6l1_latPjS_PmS0_--0,l2_bw_32f/NO_ARGS--_Z5l2_bwPjS_PfS0_--0,l2_bw_64f/NO_ARGS--_Z5l2_bwPjS_PdS0_--0,l2_lat/NO_ARGS--_Z6l2_latPjS_PmS0_--0,mem_bw/NO_ARGS--_Z6mem_bwPfS_S_S_S_S_PjS0_--0,mem_lat/NO_ARGS--_Z7mem_latPjS_PmS0_--0,shared_bw/NO_ARGS--_Z9shared_bwPjS_Pf--0,shared_lat/NO_ARGS--_Z10shared_latPjS_Pmj--0,MaxFlops/NO_ARGS--_Z9max_flopsIfEvPjS0_PT_S2_S2_--0,l1_shared_bw/NO_ARGS--_Z9shared_bwPjS_S_S_j--0,l1_bw_32f_unroll/NO_ARGS--_Z5l1_bwPjS_PfS0_--0,l1_bw_32f_unroll_large/NO_ARGS--_Z5l1_bwPjS_PfS0_--0,AV--VG
+RTX3070-SASS-accel-49c6ed2-gpgpu-d38b300,0.0,0.0,NA,NA,NA,NA,NA,NA,1056820.0,106248.0,NA,NA,0.0,NA,NA,NA,72691.8
+RTX3070-SASS-accel-29d77db-gpgpu-d38b300,0.0,0.0,NA,NA,NA,NA,NA,NA,1056876.0,106248.0,NA,NA,0.0,NA,NA,NA,232624.8
+RTX3070-SASS-accel-29d2325-gpgpu-d38b300,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1056720.0,106249.0,0.0,0.0,0.0,0.0,0.0,0.0,72685.6
 
-----------------------------------------------------------------------------------------------------,,,,,,
-kernel_launch_uid\s*=\s*(.*),,,,,,
-CFG,l1_bw_32f/NO_ARGS--_Z5l1_bwPjS_PfS0_--0,l1_bw_64f/NO_ARGS--_Z5l1_bwPjS_PdS0_--0,mem_bw/NO_ARGS--_Z6mem_bwPfS_S_S_S_S_PjS0_--0,mem_lat/NO_ARGS--_Z7mem_latPjS_PmS0_--0,MaxFlops/NO_ARGS--_Z9max_flopsIfEvPjS0_PT_S2_S2_--0,AV--VG
-RTX3070-SASS-accel-49c6ed2-gpgpu-d38b300,1.0,1.0,1.0,1.0,1.0,1.1
-RTX3070-SASS-accel-29d77db-gpgpu-d38b300,1.0,1.0,1.0,1.0,1.0,1.0
+----------------------------------------------------------------------------------------------------,,,,,,,,,,,,,,,,
+kernel_launch_uid\s*=\s*(.*),,,,,,,,,,,,,,,,
+CFG,l1_bw_32f/NO_ARGS--_Z5l1_bwPjS_PfS0_--0,l1_bw_64f/NO_ARGS--_Z5l1_bwPjS_PdS0_--0,l1_bw_128/NO_ARGS--_Z5l1_bwPjS_PfS0_--0,l1_lat/NO_ARGS--_Z6l1_latPjS_PmS0_--0,l1_lat/NO_ARGS--_Z6l1_latPjS_PmS0_--0,l2_bw_32f/NO_ARGS--_Z5l2_bwPjS_PfS0_--0,l2_bw_64f/NO_ARGS--_Z5l2_bwPjS_PdS0_--0,l2_lat/NO_ARGS--_Z6l2_latPjS_PmS0_--0,mem_bw/NO_ARGS--_Z6mem_bwPfS_S_S_S_S_PjS0_--0,mem_lat/NO_ARGS--_Z7mem_latPjS_PmS0_--0,shared_bw/NO_ARGS--_Z9shared_bwPjS_Pf--0,shared_lat/NO_ARGS--_Z10shared_latPjS_Pmj--0,MaxFlops/NO_ARGS--_Z9max_flopsIfEvPjS0_PT_S2_S2_--0,l1_shared_bw/NO_ARGS--_Z9shared_bwPjS_S_S_j--0,l1_bw_32f_unroll/NO_ARGS--_Z5l1_bwPjS_PfS0_--0,l1_bw_32f_unroll_large/NO_ARGS--_Z5l1_bwPjS_PfS0_--0,AV--VG
+RTX3070-SASS-accel-49c6ed2-gpgpu-d38b300,1.0,1.0,NA,NA,NA,NA,NA,NA,1.0,1.0,NA,NA,1.0,NA,NA,NA,1.1
+RTX3070-SASS-accel-29d77db-gpgpu-d38b300,1.0,1.0,NA,NA,NA,NA,NA,NA,1.0,1.0,NA,NA,1.0,NA,NA,NA,1.0
+RTX3070-SASS-accel-29d2325-gpgpu-d38b300,1.0,1.0,1.0,2.0,2.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.1
 
-----------------------------------------------------------------------------------------------------,,,,,,
-gpu_ipc\s*=\s*(.*),,,,,,
-CFG,l1_bw_32f/NO_ARGS--_Z5l1_bwPjS_PfS0_--0,l1_bw_64f/NO_ARGS--_Z5l1_bwPjS_PdS0_--0,mem_bw/NO_ARGS--_Z6mem_bwPfS_S_S_S_S_PjS0_--0,mem_lat/NO_ARGS--_Z7mem_latPjS_PmS0_--0,MaxFlops/NO_ARGS--_Z9max_flopsIfEvPjS0_PT_S2_S2_--0,AV--VG
-RTX3070-SASS-accel-49c6ed2-gpgpu-d38b300,73.5810,5.4712,117.2429,2.7428,77.1787,66.3
-RTX3070-SASS-accel-29d77db-gpgpu-d38b300,73.5114,5.6455,117.2898,2.7428,77.2173,55.3
+----------------------------------------------------------------------------------------------------,,,,,,,,,,,,,,,,
+gpu_ipc\s*=\s*(.*),,,,,,,,,,,,,,,,
+CFG,l1_bw_32f/NO_ARGS--_Z5l1_bwPjS_PfS0_--0,l1_bw_64f/NO_ARGS--_Z5l1_bwPjS_PdS0_--0,l1_bw_128/NO_ARGS--_Z5l1_bwPjS_PfS0_--0,l1_lat/NO_ARGS--_Z6l1_latPjS_PmS0_--0,l1_lat/NO_ARGS--_Z6l1_latPjS_PmS0_--0,l2_bw_32f/NO_ARGS--_Z5l2_bwPjS_PfS0_--0,l2_bw_64f/NO_ARGS--_Z5l2_bwPjS_PdS0_--0,l2_lat/NO_ARGS--_Z6l2_latPjS_PmS0_--0,mem_bw/NO_ARGS--_Z6mem_bwPfS_S_S_S_S_PjS0_--0,mem_lat/NO_ARGS--_Z7mem_latPjS_PmS0_--0,shared_bw/NO_ARGS--_Z9shared_bwPjS_Pf--0,shared_lat/NO_ARGS--_Z10shared_latPjS_Pmj--0,MaxFlops/NO_ARGS--_Z9max_flopsIfEvPjS0_PT_S2_S2_--0,l1_shared_bw/NO_ARGS--_Z9shared_bwPjS_S_S_j--0,l1_bw_32f_unroll/NO_ARGS--_Z5l1_bwPjS_PfS0_--0,l1_bw_32f_unroll_large/NO_ARGS--_Z5l1_bwPjS_PfS0_--0,AV--VG
+RTX3070-SASS-accel-49c6ed2-gpgpu-d38b300,73.5810,5.4712,NA,NA,NA,NA,NA,NA,117.2429,2.7428,NA,NA,77.1787,NA,NA,NA,66.3
+RTX3070-SASS-accel-29d77db-gpgpu-d38b300,73.5114,5.6455,NA,NA,NA,NA,NA,NA,117.2898,2.7428,NA,NA,77.2173,NA,NA,NA,55.3
+RTX3070-SASS-accel-29d2325-gpgpu-d38b300,73.5000,5.5853,73.0616,0.0406,0.0406,332.1644,156.9003,0.0089,117.4394,2.7422,33.2422,0.6255,77.2173,42.8472,83.5732,60.6235,66.2
 
-----------------------------------------------------------------------------------------------------,,,,,,
-gpu_occupancy\s*=\s*(.*)%,,,,,,
-CFG,l1_bw_32f/NO_ARGS--_Z5l1_bwPjS_PfS0_--0,l1_bw_64f/NO_ARGS--_Z5l1_bwPjS_PdS0_--0,mem_bw/NO_ARGS--_Z6mem_bwPfS_S_S_S_S_PjS0_--0,mem_lat/NO_ARGS--_Z7mem_latPjS_PmS0_--0,MaxFlops/NO_ARGS--_Z9max_flopsIfEvPjS0_PT_S2_S2_--0,AV--VG
-RTX3070-SASS-accel-49c6ed2-gpgpu-d38b300,66.5790,66.6465,66.1505,8.9061,66.5748,46.9
-RTX3070-SASS-accel-29d77db-gpgpu-d38b300,66.5397,66.6456,66.1931,8.8866,66.5863,55.0
+----------------------------------------------------------------------------------------------------,,,,,,,,,,,,,,,,
+gpu_occupancy\s*=\s*(.*)%,,,,,,,,,,,,,,,,
+CFG,l1_bw_32f/NO_ARGS--_Z5l1_bwPjS_PfS0_--0,l1_bw_64f/NO_ARGS--_Z5l1_bwPjS_PdS0_--0,l1_bw_128/NO_ARGS--_Z5l1_bwPjS_PfS0_--0,l1_lat/NO_ARGS--_Z6l1_latPjS_PmS0_--0,l1_lat/NO_ARGS--_Z6l1_latPjS_PmS0_--0,l2_bw_32f/NO_ARGS--_Z5l2_bwPjS_PfS0_--0,l2_bw_64f/NO_ARGS--_Z5l2_bwPjS_PdS0_--0,l2_lat/NO_ARGS--_Z6l2_latPjS_PmS0_--0,mem_bw/NO_ARGS--_Z6mem_bwPfS_S_S_S_S_PjS0_--0,mem_lat/NO_ARGS--_Z7mem_latPjS_PmS0_--0,shared_bw/NO_ARGS--_Z9shared_bwPjS_Pf--0,shared_lat/NO_ARGS--_Z10shared_latPjS_Pmj--0,MaxFlops/NO_ARGS--_Z9max_flopsIfEvPjS0_PT_S2_S2_--0,l1_shared_bw/NO_ARGS--_Z9shared_bwPjS_S_S_j--0,l1_bw_32f_unroll/NO_ARGS--_Z5l1_bwPjS_PfS0_--0,l1_bw_32f_unroll_large/NO_ARGS--_Z5l1_bwPjS_PfS0_--0,AV--VG
+RTX3070-SASS-accel-49c6ed2-gpgpu-d38b300,66.5790,66.6465,NA,NA,NA,NA,NA,NA,66.1505,8.9061,NA,NA,66.5748,NA,NA,NA,46.9
+RTX3070-SASS-accel-29d77db-gpgpu-d38b300,66.5397,66.6456,NA,NA,NA,NA,NA,NA,66.1931,8.8866,NA,NA,66.5863,NA,NA,NA,55.0
+RTX3070-SASS-accel-29d2325-gpgpu-d38b300,66.5404,66.6462,66.6566,2.0833,2.0833,66.6133,66.6271,2.0833,66.1782,8.8742,66.6654,2.0833,66.5863,66.6629,66.6136,66.6406,46.9
 
-----------------------------------------------------------------------------------------------------,,,,,,
-L2_BW\s*=\s*(.*)+GB\/Sec,,,,,,
-CFG,l1_bw_32f/NO_ARGS--_Z5l1_bwPjS_PfS0_--0,l1_bw_64f/NO_ARGS--_Z5l1_bwPjS_PdS0_--0,mem_bw/NO_ARGS--_Z6mem_bwPfS_S_S_S_S_PjS0_--0,mem_lat/NO_ARGS--_Z7mem_latPjS_PmS0_--0,MaxFlops/NO_ARGS--_Z9max_flopsIfEvPjS0_PT_S2_S2_--0,AV--VG
-RTX3070-SASS-accel-49c6ed2-gpgpu-d38b300,,,,,,NA
-RTX3070-SASS-accel-29d77db-gpgpu-d38b300,,,,,,NA
+----------------------------------------------------------------------------------------------------,,,,,,,,,,,,,,,,
+L2_BW\s*=\s*(.*)+GB\/Sec,,,,,,,,,,,,,,,,
+CFG,l1_bw_32f/NO_ARGS--_Z5l1_bwPjS_PfS0_--0,l1_bw_64f/NO_ARGS--_Z5l1_bwPjS_PdS0_--0,l1_bw_128/NO_ARGS--_Z5l1_bwPjS_PfS0_--0,l1_lat/NO_ARGS--_Z6l1_latPjS_PmS0_--0,l1_lat/NO_ARGS--_Z6l1_latPjS_PmS0_--0,l2_bw_32f/NO_ARGS--_Z5l2_bwPjS_PfS0_--0,l2_bw_64f/NO_ARGS--_Z5l2_bwPjS_PdS0_--0,l2_lat/NO_ARGS--_Z6l2_latPjS_PmS0_--0,mem_bw/NO_ARGS--_Z6mem_bwPfS_S_S_S_S_PjS0_--0,mem_lat/NO_ARGS--_Z7mem_latPjS_PmS0_--0,shared_bw/NO_ARGS--_Z9shared_bwPjS_Pf--0,shared_lat/NO_ARGS--_Z10shared_latPjS_Pmj--0,MaxFlops/NO_ARGS--_Z9max_flopsIfEvPjS0_PT_S2_S2_--0,l1_shared_bw/NO_ARGS--_Z9shared_bwPjS_S_S_j--0,l1_bw_32f_unroll/NO_ARGS--_Z5l1_bwPjS_PfS0_--0,l1_bw_32f_unroll_large/NO_ARGS--_Z5l1_bwPjS_PfS0_--0,AV--VG
+RTX3070-SASS-accel-49c6ed2-gpgpu-d38b300,,,NA,NA,NA,NA,NA,NA,,,NA,NA,,NA,NA,NA,NA
+RTX3070-SASS-accel-29d77db-gpgpu-d38b300,,,NA,NA,NA,NA,NA,NA,,,NA,NA,,NA,NA,NA,NA
+RTX3070-SASS-accel-29d2325-gpgpu-d38b300,,,,,,,,,,,,,,,,,NA
 
-----------------------------------------------------------------------------------------------------,,,,,,
-gpgpu_simulation_rate\s+=\s+(.*)\s+\(inst\/sec\),,,,,,
-CFG,l1_bw_32f/NO_ARGS--_Z5l1_bwPjS_PfS0_--0,l1_bw_64f/NO_ARGS--_Z5l1_bwPjS_PdS0_--0,mem_bw/NO_ARGS--_Z6mem_bwPfS_S_S_S_S_PjS0_--0,mem_lat/NO_ARGS--_Z7mem_latPjS_PmS0_--0,MaxFlops/NO_ARGS--_Z9max_flopsIfEvPjS0_PT_S2_S2_--0,AV--VG
-RTX3070-SASS-accel-49c6ed2-gpgpu-d38b300,95466,8304,24576,4102,110644,53365.8
-RTX3070-SASS-accel-29d77db-gpgpu-d38b300,101251,8964,30064,4579,116625,52296.6
+----------------------------------------------------------------------------------------------------,,,,,,,,,,,,,,,,
+gpgpu_simulation_rate\s+=\s+(.*)\s+\(inst\/sec\),,,,,,,,,,,,,,,,
+CFG,l1_bw_32f/NO_ARGS--_Z5l1_bwPjS_PfS0_--0,l1_bw_64f/NO_ARGS--_Z5l1_bwPjS_PdS0_--0,l1_bw_128/NO_ARGS--_Z5l1_bwPjS_PfS0_--0,l1_lat/NO_ARGS--_Z6l1_latPjS_PmS0_--0,l1_lat/NO_ARGS--_Z6l1_latPjS_PmS0_--0,l2_bw_32f/NO_ARGS--_Z5l2_bwPjS_PfS0_--0,l2_bw_64f/NO_ARGS--_Z5l2_bwPjS_PdS0_--0,l2_lat/NO_ARGS--_Z6l2_latPjS_PmS0_--0,mem_bw/NO_ARGS--_Z6mem_bwPfS_S_S_S_S_PjS0_--0,mem_lat/NO_ARGS--_Z7mem_latPjS_PmS0_--0,shared_bw/NO_ARGS--_Z9shared_bwPjS_Pf--0,shared_lat/NO_ARGS--_Z10shared_latPjS_Pmj--0,MaxFlops/NO_ARGS--_Z9max_flopsIfEvPjS0_PT_S2_S2_--0,l1_shared_bw/NO_ARGS--_Z9shared_bwPjS_S_S_j--0,l1_bw_32f_unroll/NO_ARGS--_Z5l1_bwPjS_PfS0_--0,l1_bw_32f_unroll_large/NO_ARGS--_Z5l1_bwPjS_PfS0_--0,AV--VG
+RTX3070-SASS-accel-49c6ed2-gpgpu-d38b300,95466,8304,NA,NA,NA,NA,NA,NA,24576,4102,NA,NA,110644,NA,NA,NA,53365.8
+RTX3070-SASS-accel-29d77db-gpgpu-d38b300,101251,8964,NA,NA,NA,NA,NA,NA,30064,4579,NA,NA,116625,NA,NA,NA,52296.6
+RTX3070-SASS-accel-29d2325-gpgpu-d38b300,87929,8621,97843,64,64,111399,54383,15,34573,6306,77145,842,95891,59597,109397,75392,51216.3
 
-----------------------------------------------------------------------------------------------------,,,,,,
-gpgpu_simulation_rate\s+=\s+(.*)\s+\(cycle\/sec\),,,,,,
-CFG,l1_bw_32f/NO_ARGS--_Z5l1_bwPjS_PfS0_--0,l1_bw_64f/NO_ARGS--_Z5l1_bwPjS_PdS0_--0,mem_bw/NO_ARGS--_Z6mem_bwPfS_S_S_S_S_PjS0_--0,mem_lat/NO_ARGS--_Z7mem_latPjS_PmS0_--0,MaxFlops/NO_ARGS--_Z9max_flopsIfEvPjS0_PT_S2_S2_--0,AV--VG
-RTX3070-SASS-accel-49c6ed2-gpgpu-d38b300,1297,1517,209,1495,1433,1354.1
-RTX3070-SASS-accel-29d77db-gpgpu-d38b300,1377,1587,256,1669,1510,1279.8
+----------------------------------------------------------------------------------------------------,,,,,,,,,,,,,,,,
+gpgpu_simulation_rate\s+=\s+(.*)\s+\(cycle\/sec\),,,,,,,,,,,,,,,,
+CFG,l1_bw_32f/NO_ARGS--_Z5l1_bwPjS_PfS0_--0,l1_bw_64f/NO_ARGS--_Z5l1_bwPjS_PdS0_--0,l1_bw_128/NO_ARGS--_Z5l1_bwPjS_PfS0_--0,l1_lat/NO_ARGS--_Z6l1_latPjS_PmS0_--0,l1_lat/NO_ARGS--_Z6l1_latPjS_PmS0_--0,l2_bw_32f/NO_ARGS--_Z5l2_bwPjS_PfS0_--0,l2_bw_64f/NO_ARGS--_Z5l2_bwPjS_PdS0_--0,l2_lat/NO_ARGS--_Z6l2_latPjS_PmS0_--0,mem_bw/NO_ARGS--_Z6mem_bwPfS_S_S_S_S_PjS0_--0,mem_lat/NO_ARGS--_Z7mem_latPjS_PmS0_--0,shared_bw/NO_ARGS--_Z9shared_bwPjS_Pf--0,shared_lat/NO_ARGS--_Z10shared_latPjS_Pmj--0,MaxFlops/NO_ARGS--_Z9max_flopsIfEvPjS0_PT_S2_S2_--0,l1_shared_bw/NO_ARGS--_Z9shared_bwPjS_S_S_j--0,l1_bw_32f_unroll/NO_ARGS--_Z5l1_bwPjS_PfS0_--0,l1_bw_32f_unroll_large/NO_ARGS--_Z5l1_bwPjS_PfS0_--0,AV--VG
+RTX3070-SASS-accel-49c6ed2-gpgpu-d38b300,1297,1517,NA,NA,NA,NA,NA,NA,209,1495,NA,NA,1433,NA,NA,NA,1354.1
+RTX3070-SASS-accel-29d77db-gpgpu-d38b300,1377,1587,NA,NA,NA,NA,NA,NA,256,1669,NA,NA,1510,NA,NA,NA,1279.8
+RTX3070-SASS-accel-29d2325-gpgpu-d38b300,1196,1543,1339,1599,1599,335,346,1708,294,2299,2320,1347,1241,1390,1309,1243,1319.2
 
-----------------------------------------------------------------------------------------------------,,,,,,
-gpgpu_silicon_slowdown\s*=\s*(.*)x,,,,,,
-CFG,l1_bw_32f/NO_ARGS--_Z5l1_bwPjS_PfS0_--0,l1_bw_64f/NO_ARGS--_Z5l1_bwPjS_PdS0_--0,mem_bw/NO_ARGS--_Z6mem_bwPfS_S_S_S_S_PjS0_--0,mem_lat/NO_ARGS--_Z7mem_latPjS_PmS0_--0,MaxFlops/NO_ARGS--_Z9max_flopsIfEvPjS0_PT_S2_S2_--0,AV--VG
-RTX3070-SASS-accel-49c6ed2-gpgpu-d38b300,872783,746209,5416267,757190,789951,1407648.2
-RTX3070-SASS-accel-29d77db-gpgpu-d38b300,822076,713295,4421875,678250,749668,1477032.8
+----------------------------------------------------------------------------------------------------,,,,,,,,,,,,,,,,
+gpgpu_silicon_slowdown\s*=\s*(.*)x,,,,,,,,,,,,,,,,
+CFG,l1_bw_32f/NO_ARGS--_Z5l1_bwPjS_PfS0_--0,l1_bw_64f/NO_ARGS--_Z5l1_bwPjS_PdS0_--0,l1_bw_128/NO_ARGS--_Z5l1_bwPjS_PfS0_--0,l1_lat/NO_ARGS--_Z6l1_latPjS_PmS0_--0,l1_lat/NO_ARGS--_Z6l1_latPjS_PmS0_--0,l2_bw_32f/NO_ARGS--_Z5l2_bwPjS_PfS0_--0,l2_bw_64f/NO_ARGS--_Z5l2_bwPjS_PdS0_--0,l2_lat/NO_ARGS--_Z6l2_latPjS_PmS0_--0,mem_bw/NO_ARGS--_Z6mem_bwPfS_S_S_S_S_PjS0_--0,mem_lat/NO_ARGS--_Z7mem_latPjS_PmS0_--0,shared_bw/NO_ARGS--_Z9shared_bwPjS_Pf--0,shared_lat/NO_ARGS--_Z10shared_latPjS_Pmj--0,MaxFlops/NO_ARGS--_Z9max_flopsIfEvPjS0_PT_S2_S2_--0,l1_shared_bw/NO_ARGS--_Z9shared_bwPjS_S_S_j--0,l1_bw_32f_unroll/NO_ARGS--_Z5l1_bwPjS_PfS0_--0,l1_bw_32f_unroll_large/NO_ARGS--_Z5l1_bwPjS_PfS0_--0,AV--VG
+RTX3070-SASS-accel-49c6ed2-gpgpu-d38b300,872783,746209,NA,NA,NA,NA,NA,NA,5416267,757190,NA,NA,789951,NA,NA,NA,1407648.2
+RTX3070-SASS-accel-29d77db-gpgpu-d38b300,822076,713295,NA,NA,NA,NA,NA,NA,4421875,678250,NA,NA,749668,NA,NA,NA,1477032.8
+RTX3070-SASS-accel-29d2325-gpgpu-d38b300,946488,733635,845407,707942,707942,3379104,3271676,662763,3850340,492387,487931,840386,912167,814388,864782,910699,1276752.3
 
-----------------------------------------------------------------------------------------------------,,,,,,
-gpu_tot_ipc\s*=\s*(.*),,,,,,
-CFG,l1_bw_32f/NO_ARGS--_Z5l1_bwPjS_PfS0_--0,l1_bw_64f/NO_ARGS--_Z5l1_bwPjS_PdS0_--0,mem_bw/NO_ARGS--_Z6mem_bwPfS_S_S_S_S_PjS0_--0,mem_lat/NO_ARGS--_Z7mem_latPjS_PmS0_--0,MaxFlops/NO_ARGS--_Z9max_flopsIfEvPjS0_PT_S2_S2_--0,AV--VG
-RTX3070-SASS-accel-49c6ed2-gpgpu-d38b300,73.5810,5.4712,117.2429,2.7428,77.1787,66.3
-RTX3070-SASS-accel-29d77db-gpgpu-d38b300,73.5114,5.6455,117.2898,2.7428,77.2173,55.3
+----------------------------------------------------------------------------------------------------,,,,,,,,,,,,,,,,
+gpu_tot_ipc\s*=\s*(.*),,,,,,,,,,,,,,,,
+CFG,l1_bw_32f/NO_ARGS--_Z5l1_bwPjS_PfS0_--0,l1_bw_64f/NO_ARGS--_Z5l1_bwPjS_PdS0_--0,l1_bw_128/NO_ARGS--_Z5l1_bwPjS_PfS0_--0,l1_lat/NO_ARGS--_Z6l1_latPjS_PmS0_--0,l1_lat/NO_ARGS--_Z6l1_latPjS_PmS0_--0,l2_bw_32f/NO_ARGS--_Z5l2_bwPjS_PfS0_--0,l2_bw_64f/NO_ARGS--_Z5l2_bwPjS_PdS0_--0,l2_lat/NO_ARGS--_Z6l2_latPjS_PmS0_--0,mem_bw/NO_ARGS--_Z6mem_bwPfS_S_S_S_S_PjS0_--0,mem_lat/NO_ARGS--_Z7mem_latPjS_PmS0_--0,shared_bw/NO_ARGS--_Z9shared_bwPjS_Pf--0,shared_lat/NO_ARGS--_Z10shared_latPjS_Pmj--0,MaxFlops/NO_ARGS--_Z9max_flopsIfEvPjS0_PT_S2_S2_--0,l1_shared_bw/NO_ARGS--_Z9shared_bwPjS_S_S_j--0,l1_bw_32f_unroll/NO_ARGS--_Z5l1_bwPjS_PfS0_--0,l1_bw_32f_unroll_large/NO_ARGS--_Z5l1_bwPjS_PfS0_--0,AV--VG
+RTX3070-SASS-accel-49c6ed2-gpgpu-d38b300,73.5810,5.4712,NA,NA,NA,NA,NA,NA,117.2429,2.7428,NA,NA,77.1787,NA,NA,NA,66.3
+RTX3070-SASS-accel-29d77db-gpgpu-d38b300,73.5114,5.6455,NA,NA,NA,NA,NA,NA,117.2898,2.7428,NA,NA,77.2173,NA,NA,NA,55.3
+RTX3070-SASS-accel-29d2325-gpgpu-d38b300,73.5000,5.5853,73.0616,0.0406,0.0406,332.1644,156.9003,0.0089,117.4394,2.7422,33.2422,0.6255,77.2173,42.8472,83.5732,60.6235,66.2
 
