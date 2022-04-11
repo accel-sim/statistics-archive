@@ -28,6 +28,7 @@ RTX2060-SASS-accel-5745567-gpgpu-d38b300,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,
 RTX2060-SASS-accel-8d1cf8e-gpgpu-d38b300,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 RTX2060-SASS-accel-17f819f-gpgpu-d38b300,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 RTX2060-SASS-accel-9681c2e-gpgpu-d38b300,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+RTX2060-SASS-accel-d8f3d34-gpgpu-1d39b6f,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 
 ----------------------------------------------------------------------------------------------------,,,,,,,,,,,,,,,,
 GPGPU-Sim-build,,,,,,,,,,,,,,,,
@@ -59,6 +60,7 @@ RTX2060-SASS-accel-5745567-gpgpu-d38b300,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,
 RTX2060-SASS-accel-8d1cf8e-gpgpu-d38b300,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 RTX2060-SASS-accel-17f819f-gpgpu-d38b300,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 RTX2060-SASS-accel-9681c2e-gpgpu-d38b300,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+RTX2060-SASS-accel-d8f3d34-gpgpu-1d39b6f,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 
 ----------------------------------------------------------------------------------------------------,,,,,,,,,,,,,,,,
 gpu_tot_sim_insn,,,,,,,,,,,,,,,,
@@ -90,6 +92,7 @@ RTX2060-SASS-accel-5745567-gpgpu-d38b300,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,
 RTX2060-SASS-accel-8d1cf8e-gpgpu-d38b300,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 RTX2060-SASS-accel-17f819f-gpgpu-d38b300,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 RTX2060-SASS-accel-9681c2e-gpgpu-d38b300,3345408.0,2258944.0,39141376.0,100424.0,100424.0,191987712.0,189530112.0,50212.0,72482816.0,11212992.0,173120512.0,66018.0,4316160.0,52959232.0,6567936.0,9655296.0,47305973.4
+RTX2060-SASS-accel-d8f3d34-gpgpu-1d39b6f,3345408.0,2258944.0,39141376.0,100424.0,100424.0,191987712.0,189530112.0,50212.0,72482816.0,11212992.0,173120512.0,66018.0,4316160.0,52959232.0,6567936.0,9655296.0,47305973.4
 
 ----------------------------------------------------------------------------------------------------,,,,,,,,,,,,,,,,
 gpgpu_simulation_time,,,,,,,,,,,,,,,,
@@ -121,6 +124,7 @@ RTX2060-SASS-accel-5745567-gpgpu-d38b300,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,
 RTX2060-SASS-accel-8d1cf8e-gpgpu-d38b300,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 RTX2060-SASS-accel-17f819f-gpgpu-d38b300,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 RTX2060-SASS-accel-9681c2e-gpgpu-d38b300,25.0,112.0,285.0,1094.0,1094.0,1261.0,2026.0,2107.0,1563.0,1257.0,1489.0,45.0,36.0,313.0,41.0,68.0,801.0
+RTX2060-SASS-accel-d8f3d34-gpgpu-1d39b6f,24.0,168.0,179.0,1076.0,1076.0,2196.0,3346.0,2247.0,2256.0,1297.0,2181.0,40.0,36.0,503.0,39.0,83.0,1046.7
 
 ----------------------------------------------------------------------------------------------------,,,,,,,,,,,,,,,,
 gpu_tot_sim_cycle,,,,,,,,,,,,,,,,
@@ -152,6 +156,7 @@ RTX2060-SASS-accel-5745567-gpgpu-d38b300,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,
 RTX2060-SASS-accel-8d1cf8e-gpgpu-d38b300,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 RTX2060-SASS-accel-17f819f-gpgpu-d38b300,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 RTX2060-SASS-accel-9681c2e-gpgpu-d38b300,48423.0,360606.0,556564.0,2422374.0,2422374.0,790225.0,1673492.0,6781917.0,936192.0,2794340.0,4866344.0,96963.0,75792.0,1049576.0,78485.0,161578.0,1569702.8
+RTX2060-SASS-accel-d8f3d34-gpgpu-1d39b6f,48210.0,365466.0,555932.0,2422382.0,2422382.0,789321.0,1680348.0,6781921.0,936321.0,2794095.0,4842461.0,96962.0,74326.0,1049356.0,78307.0,159562.0,1568584.5
 
 ----------------------------------------------------------------------------------------------------,,,,,,,,,,,,,,,,
 L2_cache_stats_breakdown[GLOBAL_ACC_R][HIT],,,,,,,,,,,,,,,,
@@ -183,6 +188,7 @@ RTX2060-SASS-accel-5745567-gpgpu-d38b300,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,
 RTX2060-SASS-accel-8d1cf8e-gpgpu-d38b300,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 RTX2060-SASS-accel-17f819f-gpgpu-d38b300,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 RTX2060-SASS-accel-9681c2e-gpgpu-d38b300,1592.0,1072.0,0.0,0.0,0.0,10484628.0,20965974.0,32769.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,16508.0,1968908.9
+RTX2060-SASS-accel-d8f3d34-gpgpu-1d39b6f,1576.0,1072.0,0.0,0.0,0.0,10484179.0,20964487.0,32769.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,16508.0,1968786.9
 
 ----------------------------------------------------------------------------------------------------,,,,,,,,,,,,,,,,
 L2_cache_stats_breakdown[GLOBAL_ACC_R][TOTAL_ACCESS],,,,,,,,,,,,,,,,
@@ -214,6 +220,7 @@ RTX2060-SASS-accel-5745567-gpgpu-d38b300,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,
 RTX2060-SASS-accel-8d1cf8e-gpgpu-d38b300,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 RTX2060-SASS-accel-17f819f-gpgpu-d38b300,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 RTX2060-SASS-accel-9681c2e-gpgpu-d38b300,3652.0,3128.0,2048.0,NA,NA,10508288.0,21016576.0,32769.0,5242880.0,7936.0,NA,NA,256.0,257.0,2048.0,33020.0,3071071.5
+RTX2060-SASS-accel-d8f3d34-gpgpu-1d39b6f,3636.0,3128.0,2048.0,NA,NA,10508288.0,21016576.0,32769.0,5242880.0,7936.0,NA,NA,256.0,257.0,2048.0,33020.0,3071070.2
 
 ----------------------------------------------------------------------------------------------------,,,,,,,,,,,,,,,,
 L2_cache_stats_breakdown[GLOBAL_ACC_W][HIT],,,,,,,,,,,,,,,,
@@ -245,6 +252,7 @@ RTX2060-SASS-accel-5745567-gpgpu-d38b300,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,
 RTX2060-SASS-accel-8d1cf8e-gpgpu-d38b300,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 RTX2060-SASS-accel-17f819f-gpgpu-d38b300,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 RTX2060-SASS-accel-9681c2e-gpgpu-d38b300,12.0,8.0,0.0,6144.0,6144.0,0.0,0.0,3072.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,961.2
+RTX2060-SASS-accel-d8f3d34-gpgpu-1d39b6f,12.0,8.0,0.0,6144.0,6144.0,0.0,0.0,3072.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,961.2
 
 ----------------------------------------------------------------------------------------------------,,,,,,,,,,,,,,,,
 L2_cache_stats_breakdown[GLOBAL_ACC_W][TOTAL_ACCESS],,,,,,,,,,,,,,,,
@@ -276,6 +284,7 @@ RTX2060-SASS-accel-5745567-gpgpu-d38b300,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,
 RTX2060-SASS-accel-8d1cf8e-gpgpu-d38b300,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 RTX2060-SASS-accel-17f819f-gpgpu-d38b300,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 RTX2060-SASS-accel-9681c2e-gpgpu-d38b300,384.0,512.0,384.0,8198.0,8198.0,61440.0,81920.0,4099.0,1089536.0,229379.0,384.0,3.0,384.0,384.0,384.0,384.0,92873.3
+RTX2060-SASS-accel-d8f3d34-gpgpu-1d39b6f,384.0,512.0,384.0,8198.0,8198.0,61440.0,81920.0,4099.0,1089536.0,229379.0,384.0,3.0,384.0,384.0,384.0,384.0,92873.3
 
 ----------------------------------------------------------------------------------------------------,,,,,,,,,,,,,,,,
 Total_core_cache_stats_breakdown[GLOBAL_ACC_R][TOTAL_ACCESS],,,,,,,,,,,,,,,,
@@ -307,6 +316,7 @@ RTX2060-SASS-accel-5745567-gpgpu-d38b300,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,
 RTX2060-SASS-accel-8d1cf8e-gpgpu-d38b300,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 RTX2060-SASS-accel-17f819f-gpgpu-d38b300,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 RTX2060-SASS-accel-9681c2e-gpgpu-d38b300,133120.0,133120.0,2099200.0,65538.0,65538.0,NA,NA,NA,NA,8192.0,NA,NA,256.0,655584.0,133120.0,540800.0,383446.8
+RTX2060-SASS-accel-d8f3d34-gpgpu-1d39b6f,133120.0,133120.0,2099200.0,65538.0,65538.0,NA,NA,NA,NA,8192.0,NA,NA,256.0,655584.0,133120.0,540800.0,383446.8
 
 ----------------------------------------------------------------------------------------------------,,,,,,,,,,,,,,,,
 Total_core_cache_stats_breakdown[GLOBAL_ACC_R][HIT],,,,,,,,,,,,,,,,
@@ -338,6 +348,7 @@ RTX2060-SASS-accel-5745567-gpgpu-d38b300,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,
 RTX2060-SASS-accel-8d1cf8e-gpgpu-d38b300,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 RTX2060-SASS-accel-17f819f-gpgpu-d38b300,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 RTX2060-SASS-accel-9681c2e-gpgpu-d38b300,125273.0,129748.0,2097152.0,65538.0,65538.0,0.0,0.0,0.0,0.0,256.0,0.0,0.0,0.0,655288.0,131072.0,411054.0,230057.4
+RTX2060-SASS-accel-d8f3d34-gpgpu-1d39b6f,123444.0,129829.0,2097152.0,65538.0,65538.0,0.0,0.0,0.0,0.0,256.0,0.0,0.0,0.0,655288.0,131072.0,437232.0,231584.3
 
 ----------------------------------------------------------------------------------------------------,,,,,,,,,,,,,,,,
 Total_core_cache_stats_breakdown[GLOBAL_ACC_W][HIT],,,,,,,,,,,,,,,,
@@ -369,6 +380,7 @@ RTX2060-SASS-accel-5745567-gpgpu-d38b300,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,
 RTX2060-SASS-accel-8d1cf8e-gpgpu-d38b300,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 RTX2060-SASS-accel-17f819f-gpgpu-d38b300,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 RTX2060-SASS-accel-9681c2e-gpgpu-d38b300,12.0,8.0,0.0,6144.0,6144.0,0.0,0.0,3072.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,961.2
+RTX2060-SASS-accel-d8f3d34-gpgpu-1d39b6f,12.0,8.0,0.0,6144.0,6144.0,0.0,0.0,3072.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,961.2
 
 ----------------------------------------------------------------------------------------------------,,,,,,,,,,,,,,,,
 Total_core_cache_stats_breakdown[GLOBAL_ACC_W][TOTAL_ACCESS],,,,,,,,,,,,,,,,
@@ -400,6 +412,7 @@ RTX2060-SASS-accel-5745567-gpgpu-d38b300,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,
 RTX2060-SASS-accel-8d1cf8e-gpgpu-d38b300,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 RTX2060-SASS-accel-17f819f-gpgpu-d38b300,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 RTX2060-SASS-accel-9681c2e-gpgpu-d38b300,384.0,512.0,384.0,8198.0,8198.0,61440.0,81920.0,4099.0,1089536.0,229379.0,384.0,3.0,384.0,384.0,384.0,384.0,92873.3
+RTX2060-SASS-accel-d8f3d34-gpgpu-1d39b6f,384.0,512.0,384.0,8198.0,8198.0,61440.0,81920.0,4099.0,1089536.0,229379.0,384.0,3.0,384.0,384.0,384.0,384.0,92873.3
 
 ----------------------------------------------------------------------------------------------------,,,,,,,,,,,,,,,,
 Total_core_cache_stats_breakdown[GLOBAL_ACC_R][MSHR_HIT],,,,,,,,,,,,,,,,
@@ -431,6 +444,7 @@ RTX2060-SASS-accel-5745567-gpgpu-d38b300,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,
 RTX2060-SASS-accel-8d1cf8e-gpgpu-d38b300,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 RTX2060-SASS-accel-17f819f-gpgpu-d38b300,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 RTX2060-SASS-accel-9681c2e-gpgpu-d38b300,4195.0,244.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,39.0,0.0,96726.0,6325.2
+RTX2060-SASS-accel-d8f3d34-gpgpu-1d39b6f,6040.0,163.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,39.0,0.0,70548.0,4799.4
 
 ----------------------------------------------------------------------------------------------------,,,,,,,,,,,,,,,,
 gpgpu_n_tot_w_icount,,,,,,,,,,,,,,,,
@@ -462,6 +476,7 @@ RTX2060-SASS-accel-5745567-gpgpu-d38b300,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,
 RTX2060-SASS-accel-8d1cf8e-gpgpu-d38b300,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 RTX2060-SASS-accel-17f819f-gpgpu-d38b300,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 RTX2060-SASS-accel-9681c2e-gpgpu-d38b300,104928.0,70912.0,1223584.0,100432.0,100432.0,6055936.0,5979136.0,50216.0,2280448.0,385611.0,5999968.0,6142.0,135968.0,1655136.0,205632.0,302528.0,1541063.1
+RTX2060-SASS-accel-d8f3d34-gpgpu-1d39b6f,104928.0,70912.0,1223584.0,100432.0,100432.0,6055936.0,5979136.0,50216.0,2280448.0,385611.0,5999968.0,6142.0,135968.0,1655136.0,205632.0,302528.0,1541063.1
 
 ----------------------------------------------------------------------------------------------------,,,,,,,,,,,,,,,,
 total_dram_reads,,,,,,,,,,,,,,,,
@@ -493,6 +508,7 @@ RTX2060-SASS-accel-5745567-gpgpu-d38b300,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,
 RTX2060-SASS-accel-8d1cf8e-gpgpu-d38b300,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 RTX2060-SASS-accel-17f819f-gpgpu-d38b300,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 RTX2060-SASS-accel-9681c2e-gpgpu-d38b300,2060.0,2056.0,2048.0,0.0,0.0,22528.0,48376.0,0.0,5242880.0,7936.0,0.0,0.0,256.0,257.0,2048.0,16512.0,334184.8
+RTX2060-SASS-accel-d8f3d34-gpgpu-1d39b6f,2060.0,2056.0,2048.0,0.0,0.0,22528.0,48376.0,0.0,5242880.0,7936.0,0.0,0.0,256.0,257.0,2048.0,16512.0,334184.8
 
 ----------------------------------------------------------------------------------------------------,,,,,,,,,,,,,,,,
 total_dram_writes,,,,,,,,,,,,,,,,
@@ -524,6 +540,7 @@ RTX2060-SASS-accel-5745567-gpgpu-d38b300,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,
 RTX2060-SASS-accel-8d1cf8e-gpgpu-d38b300,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 RTX2060-SASS-accel-17f819f-gpgpu-d38b300,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 RTX2060-SASS-accel-9681c2e-gpgpu-d38b300,0.0,0.0,0.0,0.0,0.0,0.0,17216.0,0.0,1067204.0,139017.0,0.0,0.0,0.0,0.0,0.0,0.0,76464.8
+RTX2060-SASS-accel-d8f3d34-gpgpu-1d39b6f,0.0,0.0,0.0,0.0,0.0,0.0,17140.0,0.0,1067340.0,139017.0,0.0,0.0,0.0,0.0,0.0,0.0,76468.6
 
 ----------------------------------------------------------------------------------------------------,,,,,,,,,,,,,,,,
 kernel_launch_uid,,,,,,,,,,,,,,,,
@@ -555,6 +572,7 @@ RTX2060-SASS-accel-5745567-gpgpu-d38b300,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,
 RTX2060-SASS-accel-8d1cf8e-gpgpu-d38b300,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 RTX2060-SASS-accel-17f819f-gpgpu-d38b300,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 RTX2060-SASS-accel-9681c2e-gpgpu-d38b300,1.0,1.0,1.0,2.0,2.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.1
+RTX2060-SASS-accel-d8f3d34-gpgpu-1d39b6f,1.0,1.0,1.0,2.0,2.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.1
 
 ----------------------------------------------------------------------------------------------------,,,,,,,,,,,,,,,,
 gpu_ipc,,,,,,,,,,,,,,,,
@@ -586,6 +604,7 @@ RTX2060-SASS-accel-5745567-gpgpu-d38b300,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,
 RTX2060-SASS-accel-8d1cf8e-gpgpu-d38b300,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 RTX2060-SASS-accel-17f819f-gpgpu-d38b300,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 RTX2060-SASS-accel-9681c2e-gpgpu-d38b300,69.0872,6.2643,70.3268,0.0415,0.0415,242.9532,113.2543,0.0074,77.4230,4.0128,35.5751,0.6809,56.9474,50.4577,83.6840,59.7563,54.4
+RTX2060-SASS-accel-d8f3d34-gpgpu-1d39b6f,69.3924,6.1810,70.4068,0.0415,0.0415,243.2315,112.7922,0.0074,77.4124,4.0131,35.7505,0.6809,58.0707,50.4683,83.8742,60.5112,54.6
 
 ----------------------------------------------------------------------------------------------------,,,,,,,,,,,,,,,,
 gpu_occupancy,,,,,,,,,,,,,,,,
@@ -617,6 +636,7 @@ RTX2060-SASS-accel-5745567-gpgpu-d38b300,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,
 RTX2060-SASS-accel-8d1cf8e-gpgpu-d38b300,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 RTX2060-SASS-accel-17f819f-gpgpu-d38b300,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 RTX2060-SASS-accel-9681c2e-gpgpu-d38b300,99.8391,99.9527,99.9857,3.1250,3.1250,99.8717,99.9203,3.1250,99.2820,19.5377,99.9985,3.1250,99.8520,99.9887,99.8383,99.9303,70.7
+RTX2060-SASS-accel-d8f3d34-gpgpu-1d39b6f,99.8382,99.9501,99.9839,3.1250,3.1250,99.8724,99.9143,3.1250,99.1452,19.2258,99.9983,3.1250,99.8545,99.9894,99.8443,99.9358,70.6
 
 ----------------------------------------------------------------------------------------------------,,,,,,,,,,,,,,,,
 L2_BW,,,,,,,,,,,,,,,,
@@ -648,6 +668,7 @@ RTX2060-SASS-accel-5745567-gpgpu-d38b300,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,
 RTX2060-SASS-accel-8d1cf8e-gpgpu-d38b300,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 RTX2060-SASS-accel-17f819f-gpgpu-d38b300,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 RTX2060-SASS-accel-9681c2e-gpgpu-d38b300,,,,,,,,,,,,,,,,,NA
+RTX2060-SASS-accel-d8f3d34-gpgpu-1d39b6f,,,,,,,,,,,,,,,,,NA
 
 ----------------------------------------------------------------------------------------------------,,,,,,,,,,,,,,,,
 gpgpu_simulation_rate(inst/sec),,,,,,,,,,,,,,,,
@@ -679,6 +700,7 @@ RTX2060-SASS-accel-5745567-gpgpu-d38b300,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,
 RTX2060-SASS-accel-8d1cf8e-gpgpu-d38b300,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 RTX2060-SASS-accel-17f819f-gpgpu-d38b300,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 RTX2060-SASS-accel-9681c2e-gpgpu-d38b300,133816,20169,137338,91,91,152250,93548,23,46374,8920,116266,1467,119893,169198,160193,141989,81351.6
+RTX2060-SASS-accel-d8f3d34-gpgpu-1d39b6f,139392,13446,218666,93,93,87426,56643,22,32128,8645,79376,1650,119893,105286,168408,116328,71718.4
 
 ----------------------------------------------------------------------------------------------------,,,,,,,,,,,,,,,,
 gpgpu_simulation_rate(cycle/sec),,,,,,,,,,,,,,,,
@@ -710,6 +732,7 @@ RTX2060-SASS-accel-5745567-gpgpu-d38b300,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,
 RTX2060-SASS-accel-8d1cf8e-gpgpu-d38b300,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 RTX2060-SASS-accel-17f819f-gpgpu-d38b300,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 RTX2060-SASS-accel-9681c2e-gpgpu-d38b300,1936,3219,1952,2214,2214,626,826,3218,598,2223,3268,2154,2105,3353,1914,2376,2137.2
+RTX2060-SASS-accel-d8f3d34-gpgpu-1d39b6f,2008,2175,3105,2251,2251,359,502,3018,415,2154,2220,2424,2064,2086,2007,1922,1935.1
 
 ----------------------------------------------------------------------------------------------------,,,,,,,,,,,,,,,,
 gpgpu_silicon_slowdown,,,,,,,,,,,,,,,,
@@ -741,6 +764,7 @@ RTX2060-SASS-accel-5745567-gpgpu-d38b300,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,
 RTX2060-SASS-accel-8d1cf8e-gpgpu-d38b300,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 RTX2060-SASS-accel-17f819f-gpgpu-d38b300,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 RTX2060-SASS-accel-9681c2e-gpgpu-d38b300,705061,424044,699282,616531,616531,2180511,1652542,424176,2282608,614035,417686,633704,648456,407098,713166,574494,850620.3
+RTX2060-SASS-accel-d8f3d34-gpgpu-1d39b6f,679780,627586,439613,606397,606397,3802228,2719123,452286,3289156,633704,614864,563118,661337,654362,680119,710197,1108766.7
 
 ----------------------------------------------------------------------------------------------------,,,,,,,,,,,,,,,,
 gpu_tot_ipc,,,,,,,,,,,,,,,,
@@ -772,4 +796,5 @@ RTX2060-SASS-accel-5745567-gpgpu-d38b300,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,
 RTX2060-SASS-accel-8d1cf8e-gpgpu-d38b300,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 RTX2060-SASS-accel-17f819f-gpgpu-d38b300,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 RTX2060-SASS-accel-9681c2e-gpgpu-d38b300,69.0872,6.2643,70.3268,0.0415,0.0415,242.9532,113.2543,0.0074,77.4230,4.0128,35.5751,0.6809,56.9474,50.4577,83.6840,59.7563,54.4
+RTX2060-SASS-accel-d8f3d34-gpgpu-1d39b6f,69.3924,6.1810,70.4068,0.0415,0.0415,243.2315,112.7922,0.0074,77.4124,4.0131,35.7505,0.6809,58.0707,50.4683,83.8742,60.5112,54.6
 

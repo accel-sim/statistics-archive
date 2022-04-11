@@ -28,6 +28,7 @@ RTX3070-SASS-accel-5745567-gpgpu-d38b300,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,
 RTX3070-SASS-accel-8d1cf8e-gpgpu-d38b300,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 RTX3070-SASS-accel-17f819f-gpgpu-d38b300,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 RTX3070-SASS-accel-9681c2e-gpgpu-d38b300,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+RTX3070-SASS-accel-d8f3d34-gpgpu-1d39b6f,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 
 ----------------------------------------------------------------------------------------------------,,,,,,,,,,,,,,,,
 GPGPU-Sim-build,,,,,,,,,,,,,,,,
@@ -59,6 +60,7 @@ RTX3070-SASS-accel-5745567-gpgpu-d38b300,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,
 RTX3070-SASS-accel-8d1cf8e-gpgpu-d38b300,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 RTX3070-SASS-accel-17f819f-gpgpu-d38b300,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 RTX3070-SASS-accel-9681c2e-gpgpu-d38b300,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+RTX3070-SASS-accel-d8f3d34-gpgpu-1d39b6f,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 
 ----------------------------------------------------------------------------------------------------,,,,,,,,,,,,,,,,
 gpu_tot_sim_insn,,,,,,,,,,,,,,,,
@@ -90,6 +92,7 @@ RTX3070-SASS-accel-5745567-gpgpu-d38b300,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,
 RTX3070-SASS-accel-8d1cf8e-gpgpu-d38b300,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 RTX3070-SASS-accel-17f819f-gpgpu-d38b300,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 RTX3070-SASS-accel-9681c2e-gpgpu-d38b300,3341312.0,2258944.0,39137280.0,116930.0,116930.0,188710912.0,188874752.0,58465.0,72155136.0,11049132.0,157376512.0,59844.0,4315136.0,48750592.0,6563840.0,9650176.0,45783493.3
+RTX3070-SASS-accel-d8f3d34-gpgpu-1d39b6f,3341312.0,2258944.0,39137280.0,116930.0,116930.0,188710912.0,188874752.0,58465.0,72155136.0,11049132.0,157376512.0,59844.0,4315136.0,48750592.0,6563840.0,9650176.0,45783493.3
 
 ----------------------------------------------------------------------------------------------------,,,,,,,,,,,,,,,,
 gpgpu_simulation_time,,,,,,,,,,,,,,,,
@@ -121,6 +124,7 @@ RTX3070-SASS-accel-5745567-gpgpu-d38b300,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,
 RTX3070-SASS-accel-8d1cf8e-gpgpu-d38b300,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 RTX3070-SASS-accel-17f819f-gpgpu-d38b300,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 RTX3070-SASS-accel-9681c2e-gpgpu-d38b300,35.0,187.0,423.0,1794.0,1794.0,2528.0,4536.0,4007.0,2678.0,2550.0,2936.0,68.0,42.0,511.0,59.0,100.0,1515.5
+RTX3070-SASS-accel-d8f3d34-gpgpu-1d39b6f,38.0,301.0,432.0,1908.0,1908.0,1608.0,3831.0,3632.0,2335.0,1746.0,2105.0,67.0,42.0,751.0,57.0,124.0,1305.3
 
 ----------------------------------------------------------------------------------------------------,,,,,,,,,,,,,,,,
 gpu_tot_sim_cycle,,,,,,,,,,,,,,,,
@@ -152,6 +156,7 @@ RTX3070-SASS-accel-5745567-gpgpu-d38b300,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,
 RTX3070-SASS-accel-8d1cf8e-gpgpu-d38b300,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 RTX3070-SASS-accel-17f819f-gpgpu-d38b300,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 RTX3070-SASS-accel-9681c2e-gpgpu-d38b300,45627.0,415227.0,535733.0,2882710.0,2882710.0,567380.0,1199308.0,6553320.0,613369.0,4027561.0,4733409.0,95675.0,55883.0,1138147.0,78071.0,158551.0,1623917.6
+RTX3070-SASS-accel-d8f3d34-gpgpu-1d39b6f,45355.0,400744.0,535910.0,2881516.0,2881516.0,567872.0,1195606.0,6552722.0,614567.0,4029617.0,4735445.0,95677.0,56575.0,1138204.0,78228.0,159054.0,1623038.0
 
 ----------------------------------------------------------------------------------------------------,,,,,,,,,,,,,,,,
 L2_cache_stats_breakdown[GLOBAL_ACC_R][HIT],,,,,,,,,,,,,,,,
@@ -183,6 +188,7 @@ RTX3070-SASS-accel-5745567-gpgpu-d38b300,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,
 RTX3070-SASS-accel-8d1cf8e-gpgpu-d38b300,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 RTX3070-SASS-accel-17f819f-gpgpu-d38b300,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 RTX3070-SASS-accel-9681c2e-gpgpu-d38b300,0.0,0.0,0.0,0.0,0.0,10483700.0,20965333.0,32769.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,16508.0,1968644.4
+RTX3070-SASS-accel-d8f3d34-gpgpu-1d39b6f,0.0,0.0,0.0,0.0,0.0,10482922.0,20969103.0,32769.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,16508.0,1968831.4
 
 ----------------------------------------------------------------------------------------------------,,,,,,,,,,,,,,,,
 L2_cache_stats_breakdown[GLOBAL_ACC_R][TOTAL_ACCESS],,,,,,,,,,,,,,,,
@@ -214,6 +220,7 @@ RTX3070-SASS-accel-5745567-gpgpu-d38b300,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,
 RTX3070-SASS-accel-8d1cf8e-gpgpu-d38b300,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 RTX3070-SASS-accel-17f819f-gpgpu-d38b300,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 RTX3070-SASS-accel-9681c2e-gpgpu-d38b300,2060.0,2056.0,2048.0,NA,NA,10508288.0,21016576.0,32769.0,5242880.0,7936.0,NA,NA,256.0,257.0,2048.0,33020.0,3070849.5
+RTX3070-SASS-accel-d8f3d34-gpgpu-1d39b6f,2060.0,2056.0,2048.0,NA,NA,10508288.0,21016576.0,32769.0,5242880.0,7936.0,NA,NA,256.0,257.0,2048.0,33020.0,3070849.5
 
 ----------------------------------------------------------------------------------------------------,,,,,,,,,,,,,,,,
 L2_cache_stats_breakdown[GLOBAL_ACC_W][HIT],,,,,,,,,,,,,,,,
@@ -245,6 +252,7 @@ RTX3070-SASS-accel-5745567-gpgpu-d38b300,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,
 RTX3070-SASS-accel-8d1cf8e-gpgpu-d38b300,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 RTX3070-SASS-accel-17f819f-gpgpu-d38b300,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 RTX3070-SASS-accel-9681c2e-gpgpu-d38b300,12.0,8.0,0.0,6144.0,6144.0,0.0,0.0,3072.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,961.2
+RTX3070-SASS-accel-d8f3d34-gpgpu-1d39b6f,12.0,8.0,0.0,6144.0,6144.0,0.0,0.0,3072.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,961.2
 
 ----------------------------------------------------------------------------------------------------,,,,,,,,,,,,,,,,
 L2_cache_stats_breakdown[GLOBAL_ACC_W][TOTAL_ACCESS],,,,,,,,,,,,,,,,
@@ -276,6 +284,7 @@ RTX3070-SASS-accel-5745567-gpgpu-d38b300,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,
 RTX3070-SASS-accel-8d1cf8e-gpgpu-d38b300,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 RTX3070-SASS-accel-17f819f-gpgpu-d38b300,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 RTX3070-SASS-accel-9681c2e-gpgpu-d38b300,384.0,512.0,384.0,8198.0,8198.0,61440.0,81920.0,4099.0,1089536.0,229379.0,384.0,3.0,384.0,384.0,384.0,384.0,92873.3
+RTX3070-SASS-accel-d8f3d34-gpgpu-1d39b6f,384.0,512.0,384.0,8198.0,8198.0,61440.0,81920.0,4099.0,1089536.0,229379.0,384.0,3.0,384.0,384.0,384.0,384.0,92873.3
 
 ----------------------------------------------------------------------------------------------------,,,,,,,,,,,,,,,,
 Total_core_cache_stats_breakdown[GLOBAL_ACC_R][TOTAL_ACCESS],,,,,,,,,,,,,,,,
@@ -307,6 +316,7 @@ RTX3070-SASS-accel-5745567-gpgpu-d38b300,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,
 RTX3070-SASS-accel-8d1cf8e-gpgpu-d38b300,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 RTX3070-SASS-accel-17f819f-gpgpu-d38b300,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 RTX3070-SASS-accel-9681c2e-gpgpu-d38b300,133120.0,133120.0,2099200.0,65538.0,65538.0,NA,NA,NA,NA,8192.0,NA,NA,256.0,655584.0,133120.0,540800.0,383446.8
+RTX3070-SASS-accel-d8f3d34-gpgpu-1d39b6f,133120.0,133120.0,2099200.0,65538.0,65538.0,NA,NA,NA,NA,8192.0,NA,NA,256.0,655584.0,133120.0,540800.0,383446.8
 
 ----------------------------------------------------------------------------------------------------,,,,,,,,,,,,,,,,
 Total_core_cache_stats_breakdown[GLOBAL_ACC_R][HIT],,,,,,,,,,,,,,,,
@@ -338,6 +348,7 @@ RTX3070-SASS-accel-5745567-gpgpu-d38b300,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,
 RTX3070-SASS-accel-8d1cf8e-gpgpu-d38b300,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 RTX3070-SASS-accel-17f819f-gpgpu-d38b300,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 RTX3070-SASS-accel-9681c2e-gpgpu-d38b300,130984.0,131048.0,2097152.0,65538.0,65538.0,0.0,0.0,0.0,0.0,256.0,0.0,0.0,0.0,655289.0,131072.0,470829.0,234231.6
+RTX3070-SASS-accel-d8f3d34-gpgpu-1d39b6f,131024.0,131048.0,2097152.0,65538.0,65538.0,0.0,0.0,0.0,0.0,256.0,0.0,0.0,0.0,655289.0,131072.0,469066.0,234123.9
 
 ----------------------------------------------------------------------------------------------------,,,,,,,,,,,,,,,,
 Total_core_cache_stats_breakdown[GLOBAL_ACC_W][HIT],,,,,,,,,,,,,,,,
@@ -369,6 +380,7 @@ RTX3070-SASS-accel-5745567-gpgpu-d38b300,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,
 RTX3070-SASS-accel-8d1cf8e-gpgpu-d38b300,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 RTX3070-SASS-accel-17f819f-gpgpu-d38b300,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 RTX3070-SASS-accel-9681c2e-gpgpu-d38b300,12.0,8.0,0.0,6144.0,6144.0,0.0,0.0,3072.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,961.2
+RTX3070-SASS-accel-d8f3d34-gpgpu-1d39b6f,12.0,8.0,0.0,6144.0,6144.0,0.0,0.0,3072.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,961.2
 
 ----------------------------------------------------------------------------------------------------,,,,,,,,,,,,,,,,
 Total_core_cache_stats_breakdown[GLOBAL_ACC_W][TOTAL_ACCESS],,,,,,,,,,,,,,,,
@@ -400,6 +412,7 @@ RTX3070-SASS-accel-5745567-gpgpu-d38b300,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,
 RTX3070-SASS-accel-8d1cf8e-gpgpu-d38b300,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 RTX3070-SASS-accel-17f819f-gpgpu-d38b300,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 RTX3070-SASS-accel-9681c2e-gpgpu-d38b300,384.0,512.0,384.0,8198.0,8198.0,61440.0,81920.0,4099.0,1089536.0,229379.0,384.0,3.0,384.0,384.0,384.0,384.0,92873.3
+RTX3070-SASS-accel-d8f3d34-gpgpu-1d39b6f,384.0,512.0,384.0,8198.0,8198.0,61440.0,81920.0,4099.0,1089536.0,229379.0,384.0,3.0,384.0,384.0,384.0,384.0,92873.3
 
 ----------------------------------------------------------------------------------------------------,,,,,,,,,,,,,,,,
 Total_core_cache_stats_breakdown[GLOBAL_ACC_R][MSHR_HIT],,,,,,,,,,,,,,,,
@@ -431,6 +444,7 @@ RTX3070-SASS-accel-5745567-gpgpu-d38b300,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,
 RTX3070-SASS-accel-8d1cf8e-gpgpu-d38b300,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 RTX3070-SASS-accel-17f819f-gpgpu-d38b300,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 RTX3070-SASS-accel-9681c2e-gpgpu-d38b300,76.0,16.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,38.0,0.0,36951.0,2317.6
+RTX3070-SASS-accel-d8f3d34-gpgpu-1d39b6f,36.0,16.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,38.0,0.0,38714.0,2425.2
 
 ----------------------------------------------------------------------------------------------------,,,,,,,,,,,,,,,,
 gpgpu_n_tot_w_icount,,,,,,,,,,,,,,,,
@@ -462,6 +476,7 @@ RTX3070-SASS-accel-5745567-gpgpu-d38b300,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,
 RTX3070-SASS-accel-8d1cf8e-gpgpu-d38b300,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 RTX3070-SASS-accel-17f819f-gpgpu-d38b300,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 RTX3070-SASS-accel-9681c2e-gpgpu-d38b300,104768.0,70944.0,1223488.0,116936.0,116936.0,5948416.0,5953536.0,58468.0,2265088.0,375366.0,5311328.0,5949.0,134880.0,1523584.0,205472.0,302336.0,1482343.4
+RTX3070-SASS-accel-d8f3d34-gpgpu-1d39b6f,104768.0,70944.0,1223488.0,116936.0,116936.0,5948416.0,5953536.0,58468.0,2265088.0,375366.0,5311328.0,5949.0,134880.0,1523584.0,205472.0,302336.0,1482343.4
 
 ----------------------------------------------------------------------------------------------------,,,,,,,,,,,,,,,,
 total_dram_reads,,,,,,,,,,,,,,,,
@@ -493,6 +508,7 @@ RTX3070-SASS-accel-5745567-gpgpu-d38b300,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,
 RTX3070-SASS-accel-8d1cf8e-gpgpu-d38b300,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 RTX3070-SASS-accel-17f819f-gpgpu-d38b300,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 RTX3070-SASS-accel-9681c2e-gpgpu-d38b300,2060.0,2056.0,2048.0,0.0,0.0,22528.0,45056.0,0.0,5242880.0,7936.0,0.0,0.0,256.0,257.0,2048.0,16512.0,333977.3
+RTX3070-SASS-accel-d8f3d34-gpgpu-1d39b6f,2060.0,2056.0,2048.0,0.0,0.0,22528.0,45056.0,0.0,5242880.0,7936.0,0.0,0.0,256.0,257.0,2048.0,16512.0,333977.3
 
 ----------------------------------------------------------------------------------------------------,,,,,,,,,,,,,,,,
 total_dram_writes,,,,,,,,,,,,,,,,
@@ -524,6 +540,7 @@ RTX3070-SASS-accel-5745567-gpgpu-d38b300,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,
 RTX3070-SASS-accel-8d1cf8e-gpgpu-d38b300,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 RTX3070-SASS-accel-17f819f-gpgpu-d38b300,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 RTX3070-SASS-accel-9681c2e-gpgpu-d38b300,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1056928.0,106248.0,0.0,0.0,0.0,0.0,0.0,0.0,72698.5
+RTX3070-SASS-accel-d8f3d34-gpgpu-1d39b6f,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1056812.0,106248.0,0.0,0.0,0.0,0.0,0.0,0.0,72691.2
 
 ----------------------------------------------------------------------------------------------------,,,,,,,,,,,,,,,,
 kernel_launch_uid,,,,,,,,,,,,,,,,
@@ -555,6 +572,7 @@ RTX3070-SASS-accel-5745567-gpgpu-d38b300,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,
 RTX3070-SASS-accel-8d1cf8e-gpgpu-d38b300,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 RTX3070-SASS-accel-17f819f-gpgpu-d38b300,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 RTX3070-SASS-accel-9681c2e-gpgpu-d38b300,1.0,1.0,1.0,2.0,2.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.1
+RTX3070-SASS-accel-d8f3d34-gpgpu-1d39b6f,1.0,1.0,1.0,2.0,2.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.1
 
 ----------------------------------------------------------------------------------------------------,,,,,,,,,,,,,,,,
 gpu_ipc,,,,,,,,,,,,,,,,
@@ -586,6 +604,7 @@ RTX3070-SASS-accel-5745567-gpgpu-d38b300,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,
 RTX3070-SASS-accel-8d1cf8e-gpgpu-d38b300,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 RTX3070-SASS-accel-17f819f-gpgpu-d38b300,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 RTX3070-SASS-accel-9681c2e-gpgpu-d38b300,73.2310,5.4403,73.0537,0.0406,0.0406,332.6006,157.4865,0.0089,117.6374,2.7434,33.2480,0.6255,77.2173,42.8333,84.0753,60.8648,66.3
+RTX3070-SASS-accel-d8f3d34-gpgpu-1d39b6f,73.6702,5.6369,73.0296,0.0406,0.0406,332.3124,157.9741,0.0089,117.4081,2.7420,33.2337,0.6255,76.2728,42.8312,83.9065,60.6723,66.3
 
 ----------------------------------------------------------------------------------------------------,,,,,,,,,,,,,,,,
 gpu_occupancy,,,,,,,,,,,,,,,,
@@ -617,6 +636,7 @@ RTX3070-SASS-accel-5745567-gpgpu-d38b300,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,
 RTX3070-SASS-accel-8d1cf8e-gpgpu-d38b300,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 RTX3070-SASS-accel-17f819f-gpgpu-d38b300,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 RTX3070-SASS-accel-9681c2e-gpgpu-d38b300,66.5589,66.6481,66.6582,2.0833,2.0833,66.6074,66.6258,2.0833,66.2025,8.9263,66.6656,2.0833,66.5863,66.6635,66.5975,66.6412,46.9
+RTX3070-SASS-accel-d8f3d34-gpgpu-1d39b6f,66.5437,66.6458,66.6587,2.0833,2.0833,66.6091,66.6277,2.0833,66.1977,8.8700,66.6656,2.0833,66.5865,66.6627,66.6156,66.6406,46.9
 
 ----------------------------------------------------------------------------------------------------,,,,,,,,,,,,,,,,
 L2_BW,,,,,,,,,,,,,,,,
@@ -648,6 +668,7 @@ RTX3070-SASS-accel-5745567-gpgpu-d38b300,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,
 RTX3070-SASS-accel-8d1cf8e-gpgpu-d38b300,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 RTX3070-SASS-accel-17f819f-gpgpu-d38b300,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 RTX3070-SASS-accel-9681c2e-gpgpu-d38b300,,,,,,,,,,,,,,,,,NA
+RTX3070-SASS-accel-d8f3d34-gpgpu-1d39b6f,,,,,,,,,,,,,,,,,NA
 
 ----------------------------------------------------------------------------------------------------,,,,,,,,,,,,,,,,
 gpgpu_simulation_rate(inst/sec),,,,,,,,,,,,,,,,
@@ -679,6 +700,7 @@ RTX3070-SASS-accel-5745567-gpgpu-d38b300,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,
 RTX3070-SASS-accel-8d1cf8e-gpgpu-d38b300,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 RTX3070-SASS-accel-17f819f-gpgpu-d38b300,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 RTX3070-SASS-accel-9681c2e-gpgpu-d38b300,95466,12079,92523,65,65,74648,41639,14,26943,4332,53602,880,102741,95402,111251,96501,50509.4
+RTX3070-SASS-accel-d8f3d34-gpgpu-1d39b6f,87929,7504,90595,61,61,117357,49301,16,30901,6328,74763,893,102741,64914,115155,77824,51646.4
 
 ----------------------------------------------------------------------------------------------------,,,,,,,,,,,,,,,,
 gpgpu_simulation_rate(cycle/sec),,,,,,,,,,,,,,,,
@@ -710,6 +732,7 @@ RTX3070-SASS-accel-5745567-gpgpu-d38b300,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,
 RTX3070-SASS-accel-8d1cf8e-gpgpu-d38b300,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 RTX3070-SASS-accel-17f819f-gpgpu-d38b300,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 RTX3070-SASS-accel-9681c2e-gpgpu-d38b300,1303,2220,1266,1606,1606,224,264,1635,229,1579,1612,1406,1330,2227,1323,1585,1338.4
+RTX3070-SASS-accel-d8f3d34-gpgpu-1d39b6f,1193,1331,1240,1510,1510,353,312,1804,263,2307,2249,1428,1347,1515,1372,1282,1313.5
 
 ----------------------------------------------------------------------------------------------------,,,,,,,,,,,,,,,,
 gpgpu_silicon_slowdown,,,,,,,,,,,,,,,,
@@ -741,6 +764,7 @@ RTX3070-SASS-accel-5745567-gpgpu-d38b300,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,
 RTX3070-SASS-accel-8d1cf8e-gpgpu-d38b300,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 RTX3070-SASS-accel-17f819f-gpgpu-d38b300,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 RTX3070-SASS-accel-9681c2e-gpgpu-d38b300,868764,509909,894154,704856,704856,5053571,4287878,692354,4943231,716909,702233,805120,851127,508307,855631,714195,1488318.4
+RTX3070-SASS-accel-d8f3d34-gpgpu-1d39b6f,948868,850488,912903,749668,749668,3206798,3628205,627494,4304182,490680,503334,792717,840386,747194,825072,882995,1316290.8
 
 ----------------------------------------------------------------------------------------------------,,,,,,,,,,,,,,,,
 gpu_tot_ipc,,,,,,,,,,,,,,,,
@@ -772,4 +796,5 @@ RTX3070-SASS-accel-5745567-gpgpu-d38b300,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,
 RTX3070-SASS-accel-8d1cf8e-gpgpu-d38b300,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 RTX3070-SASS-accel-17f819f-gpgpu-d38b300,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 RTX3070-SASS-accel-9681c2e-gpgpu-d38b300,73.2310,5.4403,73.0537,0.0406,0.0406,332.6006,157.4865,0.0089,117.6374,2.7434,33.2480,0.6255,77.2173,42.8333,84.0753,60.8648,66.3
+RTX3070-SASS-accel-d8f3d34-gpgpu-1d39b6f,73.6702,5.6369,73.0296,0.0406,0.0406,332.3124,157.9741,0.0089,117.4081,2.7420,33.2337,0.6255,76.2728,42.8312,83.9065,60.6723,66.3
 
