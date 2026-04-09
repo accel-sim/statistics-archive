@@ -30,6 +30,7 @@ A100-SASS-accel-9be0e3c-gpgpu-6c3cf4f,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,
 A100-SASS-accel-1b34b87-gpgpu-6c3cf4f,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 A100-SASS-accel-f28591a-gpgpu-6c3cf4f,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 A100-SASS-accel-3016c65-gpgpu-6c3cf4f,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+A100-SASS-accel-9e99903-gpgpu-9783b92,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 
 ----------------------------------------------------------------------------------------------------,,,,,,,,,,,,,,,,,,
 GPGPU-Sim-build,,,,,,,,,,,,,,,,,,
@@ -63,6 +64,7 @@ A100-SASS-accel-9be0e3c-gpgpu-6c3cf4f,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,
 A100-SASS-accel-1b34b87-gpgpu-6c3cf4f,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 A100-SASS-accel-f28591a-gpgpu-6c3cf4f,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 A100-SASS-accel-3016c65-gpgpu-6c3cf4f,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+A100-SASS-accel-9e99903-gpgpu-9783b92,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 
 ----------------------------------------------------------------------------------------------------,,,,,,,,,,,,,,,,,,
 gpu_tot_sim_insn\s*=\s*(.*),,,,,,,,,,,,,,,,,,
@@ -96,6 +98,7 @@ A100-SASS-accel-9be0e3c-gpgpu-6c3cf4f,54947840.0,2284544.0,40716288.0,31108.0,83
 A100-SASS-accel-1b34b87-gpgpu-6c3cf4f,54947840.0,2284544.0,40716288.0,31108.0,832684032.0,832684032.0,58464.0,175226880.0,73441924.0,4463616.0,32881.0,2949120.0,2949120.0,4272128.0,84353024.0,26768384.0,30054400.0,127524575.6
 A100-SASS-accel-f28591a-gpgpu-6c3cf4f,54947840.0,2284544.0,40716288.0,31108.0,832684032.0,832684032.0,58464.0,175226880.0,73441924.0,4463616.0,32881.0,2949120.0,2949120.0,4272128.0,84353024.0,26768384.0,30054400.0,127524575.6
 A100-SASS-accel-3016c65-gpgpu-6c3cf4f,54947840.0,2284544.0,40716288.0,31108.0,832684032.0,832684032.0,58464.0,175226880.0,73441924.0,4463616.0,32881.0,2949120.0,2949120.0,4272128.0,84353024.0,26768384.0,30054400.0,127524575.6
+A100-SASS-accel-9e99903-gpgpu-9783b92,54947840.0,2284544.0,40716288.0,31108.0,832684032.0,832684032.0,58464.0,175226880.0,73441924.0,4463616.0,32881.0,2949120.0,2949120.0,4272128.0,84353024.0,26768384.0,30054400.0,127524575.6
 
 ----------------------------------------------------------------------------------------------------,,,,,,,,,,,,,,,,,,
 gpgpu_simulation_time\s*=.*\(([0-9]+) sec\).*,,,,,,,,,,,,,,,,,,
@@ -129,6 +132,7 @@ A100-SASS-accel-9be0e3c-gpgpu-6c3cf4f,187.0,21.0,176.0,26.0,3490.0,5983.0,2360.0
 A100-SASS-accel-1b34b87-gpgpu-6c3cf4f,286.0,22.0,176.0,27.0,2739.0,5875.0,2435.0,13601.0,3264.0,58.0,66.0,37.0,23.0,38.0,448.0,131.0,131.0,1726.9
 A100-SASS-accel-f28591a-gpgpu-6c3cf4f,283.0,22.0,175.0,27.0,1991.0,3959.0,2204.0,18965.0,3222.0,59.0,67.0,39.0,24.0,37.0,501.0,135.0,134.0,1873.2
 A100-SASS-accel-3016c65-gpgpu-6c3cf4f,271.0,13.0,173.0,25.0,4398.0,8573.0,2473.0,18744.0,2991.0,56.0,42.0,37.0,24.0,37.0,466.0,81.0,98.0,2264.8
+A100-SASS-accel-9e99903-gpgpu-9783b92,235.0,23.0,197.0,27.0,4374.0,8369.0,2662.0,23540.0,3606.0,63.0,70.0,38.0,21.0,41.0,515.0,144.0,145.0,2592.4
 
 ----------------------------------------------------------------------------------------------------,,,,,,,,,,,,,,,,,,
 gpu_tot_sim_cycle\s*=\s*(.*),,,,,,,,,,,,,,,,,,
@@ -162,6 +166,7 @@ A100-SASS-accel-9be0e3c-gpgpu-6c3cf4f,604524.0,46540.0,561377.0,66373.0,230195.0
 A100-SASS-accel-1b34b87-gpgpu-6c3cf4f,604524.0,46540.0,561377.0,66373.0,230195.0,440524.0,6978785.0,1592274.0,9045543.0,141854.0,185580.0,10163.0,7247.0,91889.0,1809044.0,298969.0,298064.0,1318173.2
 A100-SASS-accel-f28591a-gpgpu-6c3cf4f,604524.0,46540.0,561377.0,66373.0,230195.0,440524.0,6978785.0,1592274.0,9045543.0,141854.0,185580.0,10163.0,7247.0,91889.0,1809044.0,298969.0,298064.0,1318173.2
 A100-SASS-accel-3016c65-gpgpu-6c3cf4f,604524.0,46540.0,561377.0,66373.0,230195.0,440524.0,6978785.0,1592274.0,9045543.0,141854.0,185580.0,10163.0,7247.0,91889.0,1809044.0,298969.0,298064.0,1318173.2
+A100-SASS-accel-9e99903-gpgpu-9783b92,598610.0,45190.0,561377.0,66373.0,231705.0,438060.0,6946016.0,1595729.0,9045543.0,141854.0,185580.0,9644.0,6709.0,92585.0,1807792.0,295425.0,291051.0,1315249.6
 
 ----------------------------------------------------------------------------------------------------,,,,,,,,,,,,,,,,,,
 \s+L2_cache_stats_breakdown\[GLOBAL_ACC_R\]\[HIT\]\s*=\s*(.*),,,,,,,,,,,,,,,,,,
@@ -195,6 +200,7 @@ A100-SASS-accel-9be0e3c-gpgpu-6c3cf4f,0.0,0.0,0.0,0.0,14155776.0,28311552.0,3276
 A100-SASS-accel-1b34b87-gpgpu-6c3cf4f,0.0,0.0,0.0,0.0,14155776.0,28311552.0,32769.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2500005.7
 A100-SASS-accel-f28591a-gpgpu-6c3cf4f,0.0,0.0,0.0,0.0,14155776.0,28311552.0,32769.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2500005.7
 A100-SASS-accel-3016c65-gpgpu-6c3cf4f,0.0,0.0,0.0,0.0,14155776.0,28311552.0,32769.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2500005.7
+A100-SASS-accel-9e99903-gpgpu-9783b92,2048.0,2048.0,0.0,0.0,14185472.0,28370944.0,32769.0,0.0,0.0,0.0,0.0,32768.0,32768.0,256.0,128.0,2048.0,4096.0,2509726.2
 
 ----------------------------------------------------------------------------------------------------,,,,,,,,,,,,,,,,,,
 \s+L2_cache_stats_breakdown\[GLOBAL_ACC_R\]\[TOTAL_ACCESS\]\s*=\s*(.*),,,,,,,,,,,,,,,,,,
@@ -228,6 +234,7 @@ A100-SASS-accel-9be0e3c-gpgpu-6c3cf4f,2060.0,2056.0,2048.0,NA,14185472.0,2837094
 A100-SASS-accel-1b34b87-gpgpu-6c3cf4f,2060.0,2056.0,2048.0,NA,14185472.0,28370944.0,32769.0,13107200.0,8192.0,NA,NA,32768.0,32768.0,256.0,257.0,2048.0,16508.0,3985381.9
 A100-SASS-accel-f28591a-gpgpu-6c3cf4f,2060.0,2056.0,2048.0,NA,14185472.0,28370944.0,32769.0,13107200.0,8192.0,NA,NA,32768.0,32768.0,256.0,257.0,2048.0,16508.0,3985381.9
 A100-SASS-accel-3016c65-gpgpu-6c3cf4f,2060.0,2056.0,2048.0,NA,14185472.0,28370944.0,32769.0,13107200.0,8192.0,NA,NA,32768.0,32768.0,256.0,257.0,2048.0,16508.0,3985381.9
+A100-SASS-accel-9e99903-gpgpu-9783b92,2060.0,2056.0,2048.0,NA,14185472.0,28370944.0,32769.0,13107200.0,8192.0,NA,NA,32768.0,32768.0,256.0,257.0,2048.0,16508.0,3985381.9
 
 ----------------------------------------------------------------------------------------------------,,,,,,,,,,,,,,,,,,
 \s+L2_cache_stats_breakdown\[GLOBAL_ACC_W\]\[HIT\]\s*=\s*(.*),,,,,,,,,,,,,,,,,,
@@ -261,6 +268,7 @@ A100-SASS-accel-9be0e3c-gpgpu-6c3cf4f,12.0,8.0,0.0,6144.0,0.0,0.0,3072.0,0.0,0.0
 A100-SASS-accel-1b34b87-gpgpu-6c3cf4f,12.0,8.0,0.0,6144.0,0.0,0.0,3072.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,128.0,550.8
 A100-SASS-accel-f28591a-gpgpu-6c3cf4f,12.0,8.0,0.0,6144.0,0.0,0.0,3072.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,128.0,550.8
 A100-SASS-accel-3016c65-gpgpu-6c3cf4f,12.0,8.0,0.0,6144.0,0.0,0.0,3072.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,128.0,550.8
+A100-SASS-accel-9e99903-gpgpu-9783b92,12.0,8.0,0.0,6144.0,0.0,0.0,3072.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,128.0,550.8
 
 ----------------------------------------------------------------------------------------------------,,,,,,,,,,,,,,,,,,
 \s+L2_cache_stats_breakdown\[GLOBAL_ACC_W\]\[TOTAL_ACCESS\]\s*=\s*(.*),,,,,,,,,,,,,,,,,,
@@ -294,6 +302,143 @@ A100-SASS-accel-9be0e3c-gpgpu-6c3cf4f,640.0,768.0,640.0,8195.0,138240.0,110592.0
 A100-SASS-accel-1b34b87-gpgpu-6c3cf4f,640.0,768.0,640.0,8195.0,138240.0,110592.0,4099.0,2649088.0,2621443.0,640.0,3.0,32768.0,32768.0,384.0,384.0,384.0,384.0,329495.3
 A100-SASS-accel-f28591a-gpgpu-6c3cf4f,640.0,768.0,640.0,8195.0,138240.0,110592.0,4099.0,2649088.0,2621443.0,640.0,3.0,32768.0,32768.0,384.0,384.0,384.0,384.0,329495.3
 A100-SASS-accel-3016c65-gpgpu-6c3cf4f,640.0,768.0,640.0,8195.0,138240.0,110592.0,4099.0,2649088.0,2621443.0,640.0,3.0,32768.0,32768.0,384.0,384.0,384.0,384.0,329495.3
+A100-SASS-accel-9e99903-gpgpu-9783b92,640.0,768.0,640.0,8195.0,138240.0,110592.0,4099.0,2649088.0,2621443.0,640.0,3.0,32768.0,32768.0,384.0,384.0,384.0,384.0,329495.3
+
+----------------------------------------------------------------------------------------------------,,,,,,,,,,,,,,,,,,
+\s+L2_cache_stats_breakdown\[CHIPLET_ACC_R\]\[HIT\]\s*=\s*(.*),,,,,,,,,,,,,,,,,,
+CFG,l1_bw_32f/__tpb_1024___tpsm_1024___blocks_1--_Z5l1_bwPmS_PfPKf--0,l1_bw_64f/__tpb_1024___tpsm_1024___blocks_1--_Z5l1_bwPmS_PdS0_--0,l1_bw_128/__tpb_1024___tpsm_1024___blocks_1--_Z5l1_bwPmS_PfS0_--0,l1_lat/__blocks_1___fast--_Z6l1_latPjS_PmS0_jj--0,l2_bw_32f/__tpb_1024___tpsm_1024___fast--_Z5l2_bwPmS_PfS0_jj--0,l2_bw_64f/__tpb_1024___tpsm_1024___fast--_Z5l2_bwPjS_PdS0_jj--0,l2_lat/__fast--_Z10l2_hit_latPjS_PmS0_--0,mem_bw/__tpb_1024___tpsm_1024--_Z6mem_bwPfS_S_S_S_S_PjS0_j--0,mem_lat/__fast--_Z7mem_latPjS_PmS0_j--0,shared_bw/__tpb_1024___tpsm_1024___blocks_1--_Z9shared_bwPmS_Pjj--0,shared_lat/__blocks_1--_Z10shared_latPjS_Pmj--0,shared_bank_conflicts/1--_Z18transposeCoalescedPfS_ii--0,shared_bank_conflicts/2--_Z24transposeNoBankConflictsPfS_ii--0,MaxIops_int32/__tpb_1024____blocks_1--_Z9max_flopsIiEvPjS0_PT_S2_S2_--0,l1_shared_bw/__tpb_1024____blocks_1--_Z9shared_bwPjS_S_S_j--0,l1_bw_32f_unroll/__tpb_1024___blocks_1--_Z5l1_bwPjS_PfS0_--0,l1_bw_32f_unroll_large/__tpb_1024____blocks_1--_Z5l1_bwPjS_PfS0_--0,AV--VG
+RTX3070-SASS-accel-efa370c-gpgpu-6b22d66,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+RTX3070-SASS-accel-66ed9f2-gpgpu-6b22d66,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+RTX3070-SASS-accel-b1c61bc-gpgpu-6b22d66,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+RTX3070-SASS-accel-b3d9838-gpgpu-22159f1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+RTX3070-SASS-accel-3ff1be8-gpgpu-67d8a3b,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+RTX3070-SASS-accel-3ff1be8-gpgpu-9d88a1c,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+RTX3070-SASS-accel-879dc35-gpgpu-3364474,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+RTX3070-SASS-accel-e7b698e-gpgpu-3364474,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+RTX3070-SASS-accel-1688c9d-gpgpu-3364474,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+RTX3070-SASS-accel-a634fe0-gpgpu-3364474,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+RTX3070-SASS-accel-7a8e345-gpgpu-3364474,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+RTX3070-SASS-accel-d3ba55f-gpgpu-a3c52cf,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+RTX3070-SASS-accel-ec00037-gpgpu-a3c52cf,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+RTX3070-SASS-accel-a619790-gpgpu-a3c52cf,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+RTX3070-SASS-accel-31777f7-gpgpu-a3c52cf,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+RTX3070-SASS-accel-6c06571-gpgpu-b18ee39,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+RTX3070-SASS-accel-96d7923-gpgpu-b18ee39,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+RTX3070-SASS-accel-ff9a5d6-gpgpu-b18ee39,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+RTX3070-SASS-accel-3c96d32-gpgpu-b18ee39,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+RTX3070-SASS-accel-d7f397a-gpgpu-b18ee39,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+A100-SASS-accel-963526a-gpgpu-b18ee39,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+A100-SASS-accel-55194db-gpgpu-6c3cf4f,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+A100-SASS-accel-b585512-gpgpu-6c3cf4f,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+A100-SASS-accel-bf35ab0-gpgpu-6c3cf4f,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+A100-SASS-accel-f0e4574-gpgpu-6c3cf4f,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+A100-SASS-accel-9be0e3c-gpgpu-6c3cf4f,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+A100-SASS-accel-1b34b87-gpgpu-6c3cf4f,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+A100-SASS-accel-f28591a-gpgpu-6c3cf4f,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+A100-SASS-accel-3016c65-gpgpu-6c3cf4f,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+A100-SASS-accel-9e99903-gpgpu-9783b92,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+
+----------------------------------------------------------------------------------------------------,,,,,,,,,,,,,,,,,,
+\s+L2_cache_stats_breakdown\[CHIPLET_ACC_R\]\[TOTAL_ACCESS\]\s*=\s*(.*),,,,,,,,,,,,,,,,,,
+CFG,l1_bw_32f/__tpb_1024___tpsm_1024___blocks_1--_Z5l1_bwPmS_PfPKf--0,l1_bw_64f/__tpb_1024___tpsm_1024___blocks_1--_Z5l1_bwPmS_PdS0_--0,l1_bw_128/__tpb_1024___tpsm_1024___blocks_1--_Z5l1_bwPmS_PfS0_--0,l1_lat/__blocks_1___fast--_Z6l1_latPjS_PmS0_jj--0,l2_bw_32f/__tpb_1024___tpsm_1024___fast--_Z5l2_bwPmS_PfS0_jj--0,l2_bw_64f/__tpb_1024___tpsm_1024___fast--_Z5l2_bwPjS_PdS0_jj--0,l2_lat/__fast--_Z10l2_hit_latPjS_PmS0_--0,mem_bw/__tpb_1024___tpsm_1024--_Z6mem_bwPfS_S_S_S_S_PjS0_j--0,mem_lat/__fast--_Z7mem_latPjS_PmS0_j--0,shared_bw/__tpb_1024___tpsm_1024___blocks_1--_Z9shared_bwPmS_Pjj--0,shared_lat/__blocks_1--_Z10shared_latPjS_Pmj--0,shared_bank_conflicts/1--_Z18transposeCoalescedPfS_ii--0,shared_bank_conflicts/2--_Z24transposeNoBankConflictsPfS_ii--0,MaxIops_int32/__tpb_1024____blocks_1--_Z9max_flopsIiEvPjS0_PT_S2_S2_--0,l1_shared_bw/__tpb_1024____blocks_1--_Z9shared_bwPjS_S_S_j--0,l1_bw_32f_unroll/__tpb_1024___blocks_1--_Z5l1_bwPjS_PfS0_--0,l1_bw_32f_unroll_large/__tpb_1024____blocks_1--_Z5l1_bwPjS_PfS0_--0,AV--VG
+RTX3070-SASS-accel-efa370c-gpgpu-6b22d66,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+RTX3070-SASS-accel-66ed9f2-gpgpu-6b22d66,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+RTX3070-SASS-accel-b1c61bc-gpgpu-6b22d66,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+RTX3070-SASS-accel-b3d9838-gpgpu-22159f1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+RTX3070-SASS-accel-3ff1be8-gpgpu-67d8a3b,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+RTX3070-SASS-accel-3ff1be8-gpgpu-9d88a1c,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+RTX3070-SASS-accel-879dc35-gpgpu-3364474,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+RTX3070-SASS-accel-e7b698e-gpgpu-3364474,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+RTX3070-SASS-accel-1688c9d-gpgpu-3364474,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+RTX3070-SASS-accel-a634fe0-gpgpu-3364474,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+RTX3070-SASS-accel-7a8e345-gpgpu-3364474,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+RTX3070-SASS-accel-d3ba55f-gpgpu-a3c52cf,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+RTX3070-SASS-accel-ec00037-gpgpu-a3c52cf,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+RTX3070-SASS-accel-a619790-gpgpu-a3c52cf,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+RTX3070-SASS-accel-31777f7-gpgpu-a3c52cf,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+RTX3070-SASS-accel-6c06571-gpgpu-b18ee39,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+RTX3070-SASS-accel-96d7923-gpgpu-b18ee39,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+RTX3070-SASS-accel-ff9a5d6-gpgpu-b18ee39,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+RTX3070-SASS-accel-3c96d32-gpgpu-b18ee39,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+RTX3070-SASS-accel-d7f397a-gpgpu-b18ee39,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+A100-SASS-accel-963526a-gpgpu-b18ee39,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+A100-SASS-accel-55194db-gpgpu-6c3cf4f,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+A100-SASS-accel-b585512-gpgpu-6c3cf4f,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+A100-SASS-accel-bf35ab0-gpgpu-6c3cf4f,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+A100-SASS-accel-f0e4574-gpgpu-6c3cf4f,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+A100-SASS-accel-9be0e3c-gpgpu-6c3cf4f,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+A100-SASS-accel-1b34b87-gpgpu-6c3cf4f,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+A100-SASS-accel-f28591a-gpgpu-6c3cf4f,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+A100-SASS-accel-3016c65-gpgpu-6c3cf4f,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+A100-SASS-accel-9e99903-gpgpu-9783b92,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+
+----------------------------------------------------------------------------------------------------,,,,,,,,,,,,,,,,,,
+\s+L2_cache_stats_breakdown\[CHIPLET_ACC_W\]\[HIT\]\s*=\s*(.*),,,,,,,,,,,,,,,,,,
+CFG,l1_bw_32f/__tpb_1024___tpsm_1024___blocks_1--_Z5l1_bwPmS_PfPKf--0,l1_bw_64f/__tpb_1024___tpsm_1024___blocks_1--_Z5l1_bwPmS_PdS0_--0,l1_bw_128/__tpb_1024___tpsm_1024___blocks_1--_Z5l1_bwPmS_PfS0_--0,l1_lat/__blocks_1___fast--_Z6l1_latPjS_PmS0_jj--0,l2_bw_32f/__tpb_1024___tpsm_1024___fast--_Z5l2_bwPmS_PfS0_jj--0,l2_bw_64f/__tpb_1024___tpsm_1024___fast--_Z5l2_bwPjS_PdS0_jj--0,l2_lat/__fast--_Z10l2_hit_latPjS_PmS0_--0,mem_bw/__tpb_1024___tpsm_1024--_Z6mem_bwPfS_S_S_S_S_PjS0_j--0,mem_lat/__fast--_Z7mem_latPjS_PmS0_j--0,shared_bw/__tpb_1024___tpsm_1024___blocks_1--_Z9shared_bwPmS_Pjj--0,shared_lat/__blocks_1--_Z10shared_latPjS_Pmj--0,shared_bank_conflicts/1--_Z18transposeCoalescedPfS_ii--0,shared_bank_conflicts/2--_Z24transposeNoBankConflictsPfS_ii--0,MaxIops_int32/__tpb_1024____blocks_1--_Z9max_flopsIiEvPjS0_PT_S2_S2_--0,l1_shared_bw/__tpb_1024____blocks_1--_Z9shared_bwPjS_S_S_j--0,l1_bw_32f_unroll/__tpb_1024___blocks_1--_Z5l1_bwPjS_PfS0_--0,l1_bw_32f_unroll_large/__tpb_1024____blocks_1--_Z5l1_bwPjS_PfS0_--0,AV--VG
+RTX3070-SASS-accel-efa370c-gpgpu-6b22d66,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+RTX3070-SASS-accel-66ed9f2-gpgpu-6b22d66,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+RTX3070-SASS-accel-b1c61bc-gpgpu-6b22d66,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+RTX3070-SASS-accel-b3d9838-gpgpu-22159f1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+RTX3070-SASS-accel-3ff1be8-gpgpu-67d8a3b,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+RTX3070-SASS-accel-3ff1be8-gpgpu-9d88a1c,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+RTX3070-SASS-accel-879dc35-gpgpu-3364474,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+RTX3070-SASS-accel-e7b698e-gpgpu-3364474,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+RTX3070-SASS-accel-1688c9d-gpgpu-3364474,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+RTX3070-SASS-accel-a634fe0-gpgpu-3364474,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+RTX3070-SASS-accel-7a8e345-gpgpu-3364474,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+RTX3070-SASS-accel-d3ba55f-gpgpu-a3c52cf,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+RTX3070-SASS-accel-ec00037-gpgpu-a3c52cf,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+RTX3070-SASS-accel-a619790-gpgpu-a3c52cf,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+RTX3070-SASS-accel-31777f7-gpgpu-a3c52cf,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+RTX3070-SASS-accel-6c06571-gpgpu-b18ee39,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+RTX3070-SASS-accel-96d7923-gpgpu-b18ee39,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+RTX3070-SASS-accel-ff9a5d6-gpgpu-b18ee39,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+RTX3070-SASS-accel-3c96d32-gpgpu-b18ee39,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+RTX3070-SASS-accel-d7f397a-gpgpu-b18ee39,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+A100-SASS-accel-963526a-gpgpu-b18ee39,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+A100-SASS-accel-55194db-gpgpu-6c3cf4f,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+A100-SASS-accel-b585512-gpgpu-6c3cf4f,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+A100-SASS-accel-bf35ab0-gpgpu-6c3cf4f,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+A100-SASS-accel-f0e4574-gpgpu-6c3cf4f,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+A100-SASS-accel-9be0e3c-gpgpu-6c3cf4f,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+A100-SASS-accel-1b34b87-gpgpu-6c3cf4f,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+A100-SASS-accel-f28591a-gpgpu-6c3cf4f,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+A100-SASS-accel-3016c65-gpgpu-6c3cf4f,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+A100-SASS-accel-9e99903-gpgpu-9783b92,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+
+----------------------------------------------------------------------------------------------------,,,,,,,,,,,,,,,,,,
+\s+L2_cache_stats_breakdown\[CHIPLET_ACC_W\]\[TOTAL_ACCESS\]\s*=\s*(.*),,,,,,,,,,,,,,,,,,
+CFG,l1_bw_32f/__tpb_1024___tpsm_1024___blocks_1--_Z5l1_bwPmS_PfPKf--0,l1_bw_64f/__tpb_1024___tpsm_1024___blocks_1--_Z5l1_bwPmS_PdS0_--0,l1_bw_128/__tpb_1024___tpsm_1024___blocks_1--_Z5l1_bwPmS_PfS0_--0,l1_lat/__blocks_1___fast--_Z6l1_latPjS_PmS0_jj--0,l2_bw_32f/__tpb_1024___tpsm_1024___fast--_Z5l2_bwPmS_PfS0_jj--0,l2_bw_64f/__tpb_1024___tpsm_1024___fast--_Z5l2_bwPjS_PdS0_jj--0,l2_lat/__fast--_Z10l2_hit_latPjS_PmS0_--0,mem_bw/__tpb_1024___tpsm_1024--_Z6mem_bwPfS_S_S_S_S_PjS0_j--0,mem_lat/__fast--_Z7mem_latPjS_PmS0_j--0,shared_bw/__tpb_1024___tpsm_1024___blocks_1--_Z9shared_bwPmS_Pjj--0,shared_lat/__blocks_1--_Z10shared_latPjS_Pmj--0,shared_bank_conflicts/1--_Z18transposeCoalescedPfS_ii--0,shared_bank_conflicts/2--_Z24transposeNoBankConflictsPfS_ii--0,MaxIops_int32/__tpb_1024____blocks_1--_Z9max_flopsIiEvPjS0_PT_S2_S2_--0,l1_shared_bw/__tpb_1024____blocks_1--_Z9shared_bwPjS_S_S_j--0,l1_bw_32f_unroll/__tpb_1024___blocks_1--_Z5l1_bwPjS_PfS0_--0,l1_bw_32f_unroll_large/__tpb_1024____blocks_1--_Z5l1_bwPjS_PfS0_--0,AV--VG
+RTX3070-SASS-accel-efa370c-gpgpu-6b22d66,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+RTX3070-SASS-accel-66ed9f2-gpgpu-6b22d66,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+RTX3070-SASS-accel-b1c61bc-gpgpu-6b22d66,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+RTX3070-SASS-accel-b3d9838-gpgpu-22159f1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+RTX3070-SASS-accel-3ff1be8-gpgpu-67d8a3b,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+RTX3070-SASS-accel-3ff1be8-gpgpu-9d88a1c,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+RTX3070-SASS-accel-879dc35-gpgpu-3364474,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+RTX3070-SASS-accel-e7b698e-gpgpu-3364474,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+RTX3070-SASS-accel-1688c9d-gpgpu-3364474,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+RTX3070-SASS-accel-a634fe0-gpgpu-3364474,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+RTX3070-SASS-accel-7a8e345-gpgpu-3364474,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+RTX3070-SASS-accel-d3ba55f-gpgpu-a3c52cf,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+RTX3070-SASS-accel-ec00037-gpgpu-a3c52cf,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+RTX3070-SASS-accel-a619790-gpgpu-a3c52cf,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+RTX3070-SASS-accel-31777f7-gpgpu-a3c52cf,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+RTX3070-SASS-accel-6c06571-gpgpu-b18ee39,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+RTX3070-SASS-accel-96d7923-gpgpu-b18ee39,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+RTX3070-SASS-accel-ff9a5d6-gpgpu-b18ee39,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+RTX3070-SASS-accel-3c96d32-gpgpu-b18ee39,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+RTX3070-SASS-accel-d7f397a-gpgpu-b18ee39,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+A100-SASS-accel-963526a-gpgpu-b18ee39,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+A100-SASS-accel-55194db-gpgpu-6c3cf4f,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+A100-SASS-accel-b585512-gpgpu-6c3cf4f,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+A100-SASS-accel-bf35ab0-gpgpu-6c3cf4f,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+A100-SASS-accel-f0e4574-gpgpu-6c3cf4f,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+A100-SASS-accel-9be0e3c-gpgpu-6c3cf4f,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+A100-SASS-accel-1b34b87-gpgpu-6c3cf4f,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+A100-SASS-accel-f28591a-gpgpu-6c3cf4f,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+A100-SASS-accel-3016c65-gpgpu-6c3cf4f,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+A100-SASS-accel-9e99903-gpgpu-9783b92,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 
 ----------------------------------------------------------------------------------------------------,,,,,,,,,,,,,,,,,,
 \s+Total_core_cache_stats_breakdown\[GLOBAL_ACC_R\]\[TOTAL_ACCESS\]\s*=\s*(.*),,,,,,,,,,,,,,,,,,
@@ -327,6 +472,7 @@ A100-SASS-accel-9be0e3c-gpgpu-6c3cf4f,2099200.0,133120.0,2099200.0,257.0,NA,NA,N
 A100-SASS-accel-1b34b87-gpgpu-6c3cf4f,2099200.0,133120.0,2099200.0,257.0,NA,NA,NA,13107200.0,8192.0,NA,NA,32768.0,32768.0,256.0,1179872.0,526336.0,528384.0,1645629.4
 A100-SASS-accel-f28591a-gpgpu-6c3cf4f,2099200.0,133120.0,2099200.0,257.0,NA,NA,NA,13107200.0,8192.0,NA,NA,32768.0,32768.0,256.0,1179872.0,526336.0,528384.0,1645629.4
 A100-SASS-accel-3016c65-gpgpu-6c3cf4f,2099200.0,133120.0,2099200.0,257.0,NA,NA,NA,13107200.0,8192.0,NA,NA,32768.0,32768.0,256.0,1179872.0,526336.0,528384.0,1645629.4
+A100-SASS-accel-9e99903-gpgpu-9783b92,2099200.0,133120.0,2099200.0,257.0,NA,NA,NA,13107200.0,8192.0,NA,NA,32768.0,32768.0,256.0,1179872.0,526336.0,528384.0,1645629.4
 
 ----------------------------------------------------------------------------------------------------,,,,,,,,,,,,,,,,,,
 \s+Total_core_cache_stats_breakdown\[GLOBAL_ACC_R\]\[HIT\]\s*=\s*(.*),,,,,,,,,,,,,,,,,,
@@ -360,6 +506,7 @@ A100-SASS-accel-9be0e3c-gpgpu-6c3cf4f,2097140.0,131048.0,2097152.0,257.0,0.0,0.0
 A100-SASS-accel-1b34b87-gpgpu-6c3cf4f,2097140.0,131048.0,2097152.0,257.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1179580.0,524288.0,495149.0,383800.8
 A100-SASS-accel-f28591a-gpgpu-6c3cf4f,2097140.0,131048.0,2097152.0,257.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1179580.0,524288.0,495149.0,383800.8
 A100-SASS-accel-3016c65-gpgpu-6c3cf4f,2097140.0,131048.0,2097152.0,257.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1179580.0,524288.0,495149.0,383800.8
+A100-SASS-accel-9e99903-gpgpu-9783b92,2097139.0,131040.0,2097152.0,257.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1179584.0,524288.0,412427.0,378934.5
 
 ----------------------------------------------------------------------------------------------------,,,,,,,,,,,,,,,,,,
 \s+Total_core_cache_stats_breakdown\[GLOBAL_ACC_W\]\[HIT\]\s*=\s*(.*),,,,,,,,,,,,,,,,,,
@@ -393,6 +540,7 @@ A100-SASS-accel-9be0e3c-gpgpu-6c3cf4f,12.0,8.0,0.0,6144.0,0.0,0.0,3072.0,0.0,0.0
 A100-SASS-accel-1b34b87-gpgpu-6c3cf4f,12.0,8.0,0.0,6144.0,0.0,0.0,3072.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,543.3
 A100-SASS-accel-f28591a-gpgpu-6c3cf4f,12.0,8.0,0.0,6144.0,0.0,0.0,3072.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,543.3
 A100-SASS-accel-3016c65-gpgpu-6c3cf4f,12.0,8.0,0.0,6144.0,0.0,0.0,3072.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,543.3
+A100-SASS-accel-9e99903-gpgpu-9783b92,12.0,8.0,0.0,6144.0,0.0,0.0,3072.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,543.3
 
 ----------------------------------------------------------------------------------------------------,,,,,,,,,,,,,,,,,,
 \s+Total_core_cache_stats_breakdown\[GLOBAL_ACC_W\]\[TOTAL_ACCESS\]\s*=\s*(.*),,,,,,,,,,,,,,,,,,
@@ -426,6 +574,7 @@ A100-SASS-accel-9be0e3c-gpgpu-6c3cf4f,640.0,768.0,640.0,8195.0,138240.0,110592.0
 A100-SASS-accel-1b34b87-gpgpu-6c3cf4f,640.0,768.0,640.0,8195.0,138240.0,110592.0,4099.0,2649088.0,2621443.0,640.0,3.0,32768.0,32768.0,384.0,384.0,384.0,384.0,329495.3
 A100-SASS-accel-f28591a-gpgpu-6c3cf4f,640.0,768.0,640.0,8195.0,138240.0,110592.0,4099.0,2649088.0,2621443.0,640.0,3.0,32768.0,32768.0,384.0,384.0,384.0,384.0,329495.3
 A100-SASS-accel-3016c65-gpgpu-6c3cf4f,640.0,768.0,640.0,8195.0,138240.0,110592.0,4099.0,2649088.0,2621443.0,640.0,3.0,32768.0,32768.0,384.0,384.0,384.0,384.0,329495.3
+A100-SASS-accel-9e99903-gpgpu-9783b92,640.0,768.0,640.0,8195.0,138240.0,110592.0,4099.0,2649088.0,2621443.0,640.0,3.0,32768.0,32768.0,384.0,384.0,384.0,384.0,329495.3
 
 ----------------------------------------------------------------------------------------------------,,,,,,,,,,,,,,,,,,
 \s+Total_core_cache_stats_breakdown\[GLOBAL_ACC_R\]\[MSHR_HIT\]\s*=\s*(.*),,,,,,,,,,,,,,,,,,
@@ -459,6 +608,7 @@ A100-SASS-accel-9be0e3c-gpgpu-6c3cf4f,0.0,16.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0
 A100-SASS-accel-1b34b87-gpgpu-6c3cf4f,0.0,16.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,35.0,0.0,16727.0,986.9
 A100-SASS-accel-f28591a-gpgpu-6c3cf4f,0.0,16.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,35.0,0.0,16727.0,986.9
 A100-SASS-accel-3016c65-gpgpu-6c3cf4f,0.0,16.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,35.0,0.0,16727.0,986.9
+A100-SASS-accel-9e99903-gpgpu-9783b92,1.0,24.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,31.0,0.0,99449.0,5853.2
 
 ----------------------------------------------------------------------------------------------------,,,,,,,,,,,,,,,,,,
 gpgpu_n_tot_w_icount\s*=\s*(.*),,,,,,,,,,,,,,,,,,
@@ -492,6 +642,7 @@ A100-SASS-accel-9be0e3c-gpgpu-6c3cf4f,1717184.0,71456.0,1272480.0,31124.0,260697
 A100-SASS-accel-1b34b87-gpgpu-6c3cf4f,1717184.0,71456.0,1272480.0,31124.0,26069760.0,26069760.0,58465.0,5482752.0,2304087.0,139584.0,32885.0,92160.0,92160.0,133504.0,2636160.0,836608.0,939296.0,3998789.7
 A100-SASS-accel-f28591a-gpgpu-6c3cf4f,1717184.0,71456.0,1272480.0,31124.0,26069760.0,26069760.0,58465.0,5482752.0,2304087.0,139584.0,32885.0,92160.0,92160.0,133504.0,2636160.0,836608.0,939296.0,3998789.7
 A100-SASS-accel-3016c65-gpgpu-6c3cf4f,1717184.0,71456.0,1272480.0,31124.0,26069760.0,26069760.0,58465.0,5482752.0,2304087.0,139584.0,32885.0,92160.0,92160.0,133504.0,2636160.0,836608.0,939296.0,3998789.7
+A100-SASS-accel-9e99903-gpgpu-9783b92,1717184.0,71456.0,1272480.0,31124.0,26069760.0,26069760.0,58465.0,5482752.0,2304087.0,139584.0,32885.0,92160.0,92160.0,133504.0,2636160.0,836608.0,939296.0,3998789.7
 
 ----------------------------------------------------------------------------------------------------,,,,,,,,,,,,,,,,,,
 total dram reads\s*=\s*(.*),,,,,,,,,,,,,,,,,,
@@ -525,6 +676,7 @@ A100-SASS-accel-9be0e3c-gpgpu-6c3cf4f,2060.0,2056.0,2048.0,0.0,29696.0,59392.0,0
 A100-SASS-accel-1b34b87-gpgpu-6c3cf4f,2060.0,2056.0,2048.0,0.0,29696.0,59392.0,0.0,13107200.0,8192.0,0.0,0.0,32768.0,32768.0,256.0,257.0,2048.0,16508.0,782073.5
 A100-SASS-accel-f28591a-gpgpu-6c3cf4f,2060.0,2056.0,2048.0,0.0,29696.0,59392.0,0.0,13107200.0,8192.0,0.0,0.0,32768.0,32768.0,256.0,257.0,2048.0,16508.0,782073.5
 A100-SASS-accel-3016c65-gpgpu-6c3cf4f,2060.0,2056.0,2048.0,0.0,29696.0,59392.0,0.0,13107200.0,8192.0,0.0,0.0,32768.0,32768.0,256.0,257.0,2048.0,16508.0,782073.5
+A100-SASS-accel-9e99903-gpgpu-9783b92,12.0,8.0,2048.0,0.0,0.0,0.0,0.0,13107200.0,8192.0,0.0,0.0,0.0,0.0,0.0,129.0,0.0,12412.0,772353.0
 
 ----------------------------------------------------------------------------------------------------,,,,,,,,,,,,,,,,,,
 total dram writes\s*=\s*(.*),,,,,,,,,,,,,,,,,,
@@ -558,6 +710,7 @@ A100-SASS-accel-9be0e3c-gpgpu-6c3cf4f,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2378208.0,1318
 A100-SASS-accel-1b34b87-gpgpu-6c3cf4f,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2378208.0,1318920.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,217478.1
 A100-SASS-accel-f28591a-gpgpu-6c3cf4f,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2378208.0,1318920.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,217478.1
 A100-SASS-accel-3016c65-gpgpu-6c3cf4f,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2378208.0,1318920.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,217478.1
+A100-SASS-accel-9e99903-gpgpu-9783b92,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2375552.0,1318920.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,217321.9
 
 ----------------------------------------------------------------------------------------------------,,,,,,,,,,,,,,,,,,
 kernel_launch_uid\s*=\s*(.*),,,,,,,,,,,,,,,,,,
@@ -591,6 +744,7 @@ A100-SASS-accel-9be0e3c-gpgpu-6c3cf4f,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.
 A100-SASS-accel-1b34b87-gpgpu-6c3cf4f,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
 A100-SASS-accel-f28591a-gpgpu-6c3cf4f,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
 A100-SASS-accel-3016c65-gpgpu-6c3cf4f,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+A100-SASS-accel-9e99903-gpgpu-9783b92,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
 
 ----------------------------------------------------------------------------------------------------,,,,,,,,,,,,,,,,,,
 gpgpu_n_shmem_bkconflict\s*=\s*(.*),,,,,,,,,,,,,,,,,,
@@ -624,6 +778,7 @@ A100-SASS-accel-9be0e3c-gpgpu-6c3cf4f,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.
 A100-SASS-accel-1b34b87-gpgpu-6c3cf4f,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,253952.0,0.0,0.0,0.0,0.0,0.0,14938.4
 A100-SASS-accel-f28591a-gpgpu-6c3cf4f,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,253952.0,0.0,0.0,0.0,0.0,0.0,14938.4
 A100-SASS-accel-3016c65-gpgpu-6c3cf4f,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,253952.0,0.0,0.0,0.0,0.0,0.0,14938.4
+A100-SASS-accel-9e99903-gpgpu-9783b92,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,253952.0,0.0,0.0,0.0,0.0,0.0,14938.4
 
 ----------------------------------------------------------------------------------------------------,,,,,,,,,,,,,,,,,,
 gpgpu_n_l1cache_bkconflict\s*=\s*(.*),,,,,,,,,,,,,,,,,,
@@ -657,6 +812,7 @@ A100-SASS-accel-9be0e3c-gpgpu-6c3cf4f,408.0,603.0,832.0,0.0,71278.0,52459.0,0.0,
 A100-SASS-accel-1b34b87-gpgpu-6c3cf4f,408.0,603.0,832.0,0.0,71278.0,52459.0,0.0,159696892.0,0.0,405.0,0.0,27064.0,22982.0,300.0,203.0,202.0,204.0,9404343.1
 A100-SASS-accel-f28591a-gpgpu-6c3cf4f,408.0,603.0,832.0,0.0,71278.0,52459.0,0.0,159696892.0,0.0,405.0,0.0,27064.0,22982.0,300.0,203.0,202.0,204.0,9404343.1
 A100-SASS-accel-3016c65-gpgpu-6c3cf4f,408.0,603.0,832.0,0.0,71278.0,52459.0,0.0,159696892.0,0.0,405.0,0.0,27064.0,22982.0,300.0,203.0,202.0,204.0,9404343.1
+A100-SASS-accel-9e99903-gpgpu-9783b92,406.0,1045.0,832.0,0.0,63137.0,52018.0,0.0,160380002.0,0.0,405.0,0.0,27048.0,25336.0,300.0,200.0,202.0,204.0,9444184.4
 
 ----------------------------------------------------------------------------------------------------,,,,,,,,,,,,,,,,,,
 gpu_ipc\s*=\s*(.*),,,,,,,,,,,,,,,,,,
@@ -690,6 +846,7 @@ A100-SASS-accel-9be0e3c-gpgpu-6c3cf4f,90.8944,49.0878,72.5293,0.4687,3617.2986,1
 A100-SASS-accel-1b34b87-gpgpu-6c3cf4f,90.8944,49.0878,72.5293,0.4687,3617.2986,1890.2126,0.0084,110.0482,8.1191,31.4663,0.1772,290.1820,406.9436,46.4923,46.6285,89.5357,100.8320,403.0
 A100-SASS-accel-f28591a-gpgpu-6c3cf4f,90.8944,49.0878,72.5293,0.4687,3617.2986,1890.2126,0.0084,110.0482,8.1191,31.4663,0.1772,290.1820,406.9436,46.4923,46.6285,89.5357,100.8320,403.0
 A100-SASS-accel-3016c65-gpgpu-6c3cf4f,90.8944,49.0878,72.5293,0.4687,3617.2986,1890.2126,0.0084,110.0482,8.1191,31.4663,0.1772,290.1820,406.9436,46.4923,46.6285,89.5357,100.8320,403.0
+A100-SASS-accel-9e99903-gpgpu-9783b92,91.7924,50.5542,72.5293,0.4687,3593.7249,1900.8447,0.0084,109.8099,8.1191,31.4663,0.1772,305.7984,439.5767,46.1428,46.6608,90.6097,103.2616,405.4
 
 ----------------------------------------------------------------------------------------------------,,,,,,,,,,,,,,,,,,
 gpu_occupancy\s*=\s*(.*)%,,,,,,,,,,,,,,,,,,
@@ -723,6 +880,7 @@ A100-SASS-accel-9be0e3c-gpgpu-6c3cf4f,49.9825,49.7929,49.9875,1.5625,99.6870,99.
 A100-SASS-accel-1b34b87-gpgpu-6c3cf4f,49.9825,49.7929,49.9875,1.5625,99.6870,99.8448,1.5625,49.8670,1.5625,49.9294,1.5625,29.5721,28.0973,49.9283,49.9986,49.9910,49.9905,41.9
 A100-SASS-accel-f28591a-gpgpu-6c3cf4f,49.9825,49.7929,49.9875,1.5625,99.6870,99.8448,1.5625,49.8670,1.5625,49.9294,1.5625,29.5721,28.0973,49.9283,49.9986,49.9910,49.9905,41.9
 A100-SASS-accel-3016c65-gpgpu-6c3cf4f,49.9825,49.7929,49.9875,1.5625,99.6870,99.8448,1.5625,49.8670,1.5625,49.9294,1.5625,29.5721,28.0973,49.9283,49.9986,49.9910,49.9905,41.9
+A100-SASS-accel-9e99903-gpgpu-9783b92,49.9857,49.7736,49.9875,1.5625,99.6563,99.8459,1.5625,49.8782,1.5625,49.9294,1.5625,29.7762,28.2963,49.9320,49.9982,49.9909,49.9903,42.0
 
 ----------------------------------------------------------------------------------------------------,,,,,,,,,,,,,,,,,,
 L2_BW\s*=\s*(.*)\s*GB\/Sec,,,,,,,,,,,,,,,,,,
@@ -756,6 +914,7 @@ A100-SASS-accel-9be0e3c-gpgpu-6c3cf4f,0.2015,2.7378,0.2160,5.5709,2807.5583,2917
 A100-SASS-accel-1b34b87-gpgpu-6c3cf4f,0.2015,2.7378,0.2160,5.5709,2807.5583,2917.1780,0.2384,446.4833,13.1169,0.2036,0.0007,290.9559,408.0287,0.3143,0.0160,0.3670,2.5571,405.6
 A100-SASS-accel-f28591a-gpgpu-6c3cf4f,0.2015,2.7378,0.2160,5.5709,2807.5583,2917.1780,0.2384,446.4833,13.1169,0.2036,0.0007,290.9559,408.0287,0.3143,0.0160,0.3670,2.5571,405.6
 A100-SASS-accel-3016c65-gpgpu-6c3cf4f,0.2015,2.7378,0.2160,5.5709,2807.5583,2917.1780,0.2384,446.4833,13.1169,0.2036,0.0007,290.9559,408.0287,0.3143,0.0160,0.3670,2.5571,405.6
+A100-SASS-accel-9e99903-gpgpu-9783b92,0.2035,2.8196,0.2160,5.5709,2789.2617,2933.5865,0.2395,445.5166,13.1169,0.2036,0.0007,306.6139,440.7489,0.3119,0.0160,0.3714,2.6187,408.3
 
 ----------------------------------------------------------------------------------------------------,,,,,,,,,,,,,,,,,,
 gpgpu_simulation_rate\s+=\s+(.*)\s+\(inst\/sec\),,,,,,,,,,,,,,,,,,
@@ -789,6 +948,7 @@ A100-SASS-accel-9be0e3c-gpgpu-6c3cf4f,293838,108787,231342,1196,238591,139175,24
 A100-SASS-accel-1b34b87-gpgpu-6c3cf4f,192125,103842,231342,1152,304010,141733,24,12883,22500,76958,498,79705,128222,112424,188288,204338,229422,119380.4
 A100-SASS-accel-f28591a-gpgpu-6c3cf4f,194161,103842,232664,1152,418224,210326,26,9239,22793,75654,490,75618,122880,115462,168369,198284,224286,127851.2
 A100-SASS-accel-3016c65-gpgpu-6c3cf4f,202759,175734,235354,1244,189332,97128,23,9348,24554,79707,782,79705,122880,115462,181015,330473,306677,126598.6
+A100-SASS-accel-9e99903-gpgpu-9783b92,233820,99328,206681,1152,190371,99496,21,7443,20366,70851,469,77608,140434,104198,163792,185891,207271,106423.1
 
 ----------------------------------------------------------------------------------------------------,,,,,,,,,,,,,,,,,,
 gpgpu_simulation_rate\s+=\s+(.*)\s+\(cycle\/sec\),,,,,,,,,,,,,,,,,,
@@ -822,6 +982,7 @@ A100-SASS-accel-9be0e3c-gpgpu-6c3cf4f,3232,2216,3189,2552,65,73,2957,92,3808,248
 A100-SASS-accel-1b34b87-gpgpu-6c3cf4f,2113,2115,3189,2458,84,74,2866,117,2771,2445,2811,274,315,2418,4038,2282,2275,1920.3
 A100-SASS-accel-f28591a-gpgpu-6c3cf4f,2136,2115,3207,2458,115,111,3166,83,2807,2404,2769,260,301,2483,3610,2214,2224,1909.6
 A100-SASS-accel-3016c65-gpgpu-6c3cf4f,2230,3580,3244,2654,52,51,2821,84,3024,2533,4418,274,301,2483,3882,3690,3041,2256.6
+A100-SASS-accel-9e99903-gpgpu-9783b92,2547,1964,2849,2458,52,52,2609,67,2508,2251,2651,253,319,2258,3510,2051,2007,1788.6
 
 ----------------------------------------------------------------------------------------------------,,,,,,,,,,,,,,,,,,
 gpgpu_silicon_slowdown\s*=\s*(.*)x,,,,,,,,,,,,,,,,,,
@@ -855,6 +1016,7 @@ A100-SASS-accel-9be0e3c-gpgpu-6c3cf4f,436262,636281,442144,552507,21692307,19315
 A100-SASS-accel-1b34b87-gpgpu-6c3cf4f,667297,666666,442144,573637,16785714,19054054,491974,12051282,508841,576687,501600,5145985,4476190,583126,349182,617879,619780,3771296.4
 A100-SASS-accel-f28591a-gpgpu-6c3cf4f,660112,666666,439663,573637,12260869,12702702,445356,16987951,502315,586522,509209,5423076,4684385,567861,390581,636856,633992,3451279.6
 A100-SASS-accel-3016c65-gpgpu-6c3cf4f,632286,393854,434648,531273,27115384,27647058,499822,16785714,466269,556652,319148,5145985,4684385,567861,363214,382113,463663,5117019.4
+A100-SASS-accel-9e99903-gpgpu-9783b92,553592,717922,494910,573637,27115384,27115384,540436,21044776,562200,626388,531874,5573122,4420062,624446,401709,687469,702541,5428579.5
 
 ----------------------------------------------------------------------------------------------------,,,,,,,,,,,,,,,,,,
 gpu_tot_ipc\s*=\s*(.*),,,,,,,,,,,,,,,,,,
@@ -888,4 +1050,5 @@ A100-SASS-accel-9be0e3c-gpgpu-6c3cf4f,90.8944,49.0878,72.5293,0.4687,3617.2986,1
 A100-SASS-accel-1b34b87-gpgpu-6c3cf4f,90.8944,49.0878,72.5293,0.4687,3617.2986,1890.2126,0.0084,110.0482,8.1191,31.4663,0.1772,290.1820,406.9436,46.4923,46.6285,89.5357,100.8320,403.0
 A100-SASS-accel-f28591a-gpgpu-6c3cf4f,90.8944,49.0878,72.5293,0.4687,3617.2986,1890.2126,0.0084,110.0482,8.1191,31.4663,0.1772,290.1820,406.9436,46.4923,46.6285,89.5357,100.8320,403.0
 A100-SASS-accel-3016c65-gpgpu-6c3cf4f,90.8944,49.0878,72.5293,0.4687,3617.2986,1890.2126,0.0084,110.0482,8.1191,31.4663,0.1772,290.1820,406.9436,46.4923,46.6285,89.5357,100.8320,403.0
+A100-SASS-accel-9e99903-gpgpu-9783b92,91.7924,50.5542,72.5293,0.4687,3593.7249,1900.8447,0.0084,109.8099,8.1191,31.4663,0.1772,305.7984,439.5767,46.1428,46.6608,90.6097,103.2616,405.4
 
