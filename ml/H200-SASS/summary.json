@@ -1,0 +1,118 @@
+{
+ "configs": {
+  "H200-SASS": {
+   "hw_device": "NVIDIA H200",
+   "no_hw_reference": [],
+   "kernel_mismatch": {
+    "inference_llama_3.1_8b.sh/2048_2046_2": {
+     "paired": 59,
+     "sim_only": [
+      "kernel-1170"
+     ],
+     "hw_only": 1
+    }
+   },
+   "stats": {
+    "gpc_cycles": {
+     "chart_name": "GPC Cycles",
+     "apps": 20,
+     "kernels": 8941,
+     "correl": 0.7901497319500178,
+     "mean_abs_err_pct": 14.585613148143974
+    },
+    "warp-inst": {
+     "chart_name": "Warp Instructions",
+     "apps": 20,
+     "kernels": 8941,
+     "correl": 0.9979332875656481,
+     "mean_abs_err_pct": 1.03398019787372
+    },
+    "l2-read-hits": {
+     "chart_name": "L2 Read Hits",
+     "apps": 20,
+     "kernels": 8941,
+     "correl": 0.966091609856592,
+     "mean_abs_err_pct": 47.93781242645191
+    },
+    "l2-read-transactions": {
+     "chart_name": "L2 Reads",
+     "apps": 20,
+     "kernels": 8833,
+     "correl": 0.9870581207883817,
+     "mean_abs_err_pct": 10.000589513530121
+    },
+    "l2-write-transactions": {
+     "chart_name": "L2 Writes",
+     "apps": 20,
+     "kernels": 8929,
+     "correl": 0.9708869781233148,
+     "mean_abs_err_pct": 4.46067824922532
+    },
+    "l2-write-hits": {
+     "chart_name": "L2 Write Hits",
+     "apps": 20,
+     "kernels": 8941,
+     "correl": 0.42759613462547386,
+     "mean_abs_err_pct": 93.89644198234137
+    },
+    "l2-write-hitrate": {
+     "chart_name": "L2 Write Hit Rate",
+     "apps": 20,
+     "kernels": 8929,
+     "correl": -0.08463478071817704,
+     "mean_abs_err_pct": 92.39982363343871
+    },
+    "occupancy": {
+     "chart_name": "Occupancy",
+     "apps": 20,
+     "kernels": 8941,
+     "correl": 0.9836845717318864,
+     "mean_abs_err_pct": 10.340827223620419
+    },
+    "l1hitreads": {
+     "chart_name": "L1D Read Hits",
+     "apps": 20,
+     "kernels": 7828,
+     "correl": 0.9999049338586831,
+     "mean_abs_err_pct": 12.612531266999197
+    },
+    "l1hitwrites": {
+     "chart_name": "L1D Write Hits",
+     "apps": 20,
+     "kernels": 7828,
+     "correl": 0.8381531297437232,
+     "mean_abs_err_pct": 264.5943700139816
+    },
+    "l1readaccess": {
+     "chart_name": "L1D Read Access",
+     "apps": 20,
+     "kernels": 7517,
+     "correl": 0.4108008674450498,
+     "mean_abs_err_pct": 2.4159033116102053
+    },
+    "l1writeaccess": {
+     "chart_name": "L1D Write Access",
+     "apps": 20,
+     "kernels": 7804,
+     "correl": 0.9999999998733599,
+     "mean_abs_err_pct": 0.014117836741326871
+    },
+    "dram-read-transactions": {
+     "chart_name": "DRAM Reads",
+     "apps": 20,
+     "kernels": 8941,
+     "correl": 0.9958108796349587,
+     "mean_abs_err_pct": 57.42425836503051
+    },
+    "dram-write-transactions": {
+     "chart_name": "DRAM Writes",
+     "apps": 20,
+     "kernels": 8941,
+     "correl": 0.9640501273098294,
+     "mean_abs_err_pct": 13.318275000942482
+    }
+   }
+  }
+ },
+ "errors": []
+}
