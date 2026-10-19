@@ -1,0 +1,135 @@
+{
+ "configs": {
+  "H200-SASS": {
+   "hw_device": "NVIDIA H200",
+   "no_hw_reference": [],
+   "kernel_mismatch": {
+    "cutlass_48_hopper_warp_specialized_gemm/__m_512___n_512___k_512___iterations_0": {
+     "paired": 0,
+     "sim_only": [
+      "_ZN7cutlass9reference6device6kernel12BlockForEachIfNS1_6detail17RandomUniformFuncIfEEEEvPT_mNT0_6ParamsE--0",
+      "_ZN7cutlass9reference6device6kernel12BlockForEachIfNS1_6detail17RandomUniformFuncIfEEEEvPT_mNT0_6ParamsE--1",
+      "_ZN7cutlass9reference6device6kernel12BlockForEachIfNS1_6detail17RandomUniformFuncIfEEEEvPT_mNT0_6ParamsE--2",
+      "_ZN7cutlass13device_kernelINS_4gemm6kernel13GemmUniversalIN4cute5tupleIJiiiEEENS1_10collective13CollectiveMmaINS1_34MainloopSm90TmaGmmaWarpSpecializedILi7ENS5_IJNS4_1CILi4EEENSA_ILi2EEENSA_ILi1EEEEEENS1_35KernelTmaWarpSpecializedCooperativeEEENS5_IJNSA_ILi128EEESH_NSA_ILi32EEEEEEfNS5_IJlSD_lEEEfSK_NS4_8TiledMMAINS4_8MMA_AtomIJNS4_4SM904GMMA30MMA_64x128x8_F32TF32TF32_SS_TNILNSO_7ScaleInE1ELSQ_1EEEEEENS4_6LayoutINS5_IJSC_SD_SD_EEENS5_IJSD_NSA_ILi0EEESV_EEEEENS5_IJNS4_10UnderscoreESY_SY_EEEEENS4_23SM90_TMA_LOAD_MULTICASTENS4_14ComposedLayoutINS4_7SwizzleILi3ELi4ELi3EEENS4_18smem_ptr_flag_bitsILi32EEENST_INS5_IJNSA_ILi8EEESI_EEENS5_IJSI_SD_EEEEEEEvNS4_8identityES11_S1B_vS1C_EENS_8epilogue10collective6detail29Sm90TmaWarpSpecializedAdapterINS1F_15DefaultEpilogueIfNS5_IJSD_llEEES1J_NS1E_6thread17LinearCombinationIfLi1EffLNS1K_9ScaleType4KindE0ELNS_15FloatRoundStyleE2EfEENS1_15EpilogueDefaultEEEEEvvEEEEvNT_6ParamsE--0",
+      "_ZN7cutlass9reference6device6kernel4GemmINS_9TensorRefIfNS_6layout8RowMajorEEENS4_IfNS5_11ColumnMajorEEES9_ffNS_11MatrixShapeILi4ELi4EEENS_12multiply_addIfffEENS_16NumericConverterIffLNS_15FloatRoundStyleE2EEEEEvNS_4gemm9GemmCoordET2_T_T0_SJ_T1_SM_T3_--0",
+      "_ZN7cutlass9reference6device6kernel17BlockCompareEqualIfEEvPiPKT_S7_m--0"
+     ],
+     "hw_only": 6
+    },
+    "cutlass_48_hopper_warp_specialized_gemm/__m_512___n_4___k_512___iterations_0": {
+     "paired": 0,
+     "sim_only": [
+      "_ZN7cutlass9reference6device6kernel12BlockForEachIfNS1_6detail17RandomUniformFuncIfEEEEvPT_mNT0_6ParamsE--0",
+      "_ZN7cutlass9reference6device6kernel12BlockForEachIfNS1_6detail17RandomUniformFuncIfEEEEvPT_mNT0_6ParamsE--1",
+      "_ZN7cutlass9reference6device6kernel12BlockForEachIfNS1_6detail17RandomUniformFuncIfEEEEvPT_mNT0_6ParamsE--2",
+      "_ZN7cutlass13device_kernelINS_4gemm6kernel13GemmUniversalIN4cute5tupleIJiiiEEENS1_10collective13CollectiveMmaINS1_34MainloopSm90TmaGmmaWarpSpecializedILi7ENS5_IJNS4_1CILi4EEENSA_ILi2EEENSA_ILi1EEEEEENS1_35KernelTmaWarpSpecializedCooperativeEEENS5_IJNSA_ILi128EEESH_NSA_ILi32EEEEEEfNS5_IJlSD_lEEEfSK_NS4_8TiledMMAINS4_8MMA_AtomIJNS4_4SM904GMMA30MMA_64x128x8_F32TF32TF32_SS_TNILNSO_7ScaleInE1ELSQ_1EEEEEENS4_6LayoutINS5_IJSC_SD_SD_EEENS5_IJSD_NSA_ILi0EEESV_EEEEENS5_IJNS4_10UnderscoreESY_SY_EEEEENS4_23SM90_TMA_LOAD_MULTICASTENS4_14ComposedLayoutINS4_7SwizzleILi3ELi4ELi3EEENS4_18smem_ptr_flag_bitsILi32EEENST_INS5_IJNSA_ILi8EEESI_EEENS5_IJSI_SD_EEEEEEEvNS4_8identityES11_S1B_vS1C_EENS_8epilogue10collective6detail29Sm90TmaWarpSpecializedAdapterINS1F_15DefaultEpilogueIfNS5_IJSD_llEEES1J_NS1E_6thread17LinearCombinationIfLi1EffLNS1K_9ScaleType4KindE0ELNS_15FloatRoundStyleE2EfEENS1_15EpilogueDefaultEEEEEvvEEEEvNT_6ParamsE--0",
+      "_ZN7cutlass9reference6device6kernel4GemmINS_9TensorRefIfNS_6layout8RowMajorEEENS4_IfNS5_11ColumnMajorEEES9_ffNS_11MatrixShapeILi4ELi4EEENS_12multiply_addIfffEENS_16NumericConverterIffLNS_15FloatRoundStyleE2EEEEEvNS_4gemm9GemmCoordET2_T_T0_SJ_T1_SM_T3_--0",
+      "_ZN7cutlass9reference6device6kernel17BlockCompareEqualIfEEvPiPKT_S7_m--0"
+     ],
+     "hw_only": 6
+    }
+   },
+   "stats": {
+    "gpc_cycles": {
+     "chart_name": "GPC Cycles",
+     "apps": 63,
+     "kernels": 2344,
+     "correl": 0.9778276539435753,
+     "mean_abs_err_pct": 8.909620526494312
+    },
+    "warp-inst": {
+     "chart_name": "Warp Instructions",
+     "apps": 63,
+     "kernels": 2344,
+     "correl": 0.9996284354092695,
+     "mean_abs_err_pct": 0.9296823425843475
+    },
+    "l2-read-hits": {
+     "chart_name": "L2 Read Hits",
+     "apps": 63,
+     "kernels": 2344,
+     "correl": 0.9917263524553716,
+     "mean_abs_err_pct": 23.14385252390431
+    },
+    "l2-read-transactions": {
+     "chart_name": "L2 Reads",
+     "apps": 52,
+     "kernels": 2333,
+     "correl": 0.9945317769300046,
+     "mean_abs_err_pct": 9.827806438922325
+    },
+    "l2-write-transactions": {
+     "chart_name": "L2 Writes",
+     "apps": 59,
+     "kernels": 2340,
+     "correl": 0.968203366595103,
+     "mean_abs_err_pct": 21.422021598672323
+    },
+    "l2-write-hits": {
+     "chart_name": "L2 Write Hits",
+     "apps": 63,
+     "kernels": 2344,
+     "correl": 0.9411448993779861,
+     "mean_abs_err_pct": 28.59195522875675
+    },
+    "l2-write-hitrate": {
+     "chart_name": "L2 Write Hit Rate",
+     "apps": 59,
+     "kernels": 2336,
+     "correl": -0.012588963901884393,
+     "mean_abs_err_pct": 36.39578545719773
+    },
+    "occupancy": {
+     "chart_name": "Occupancy",
+     "apps": 63,
+     "kernels": 2344,
+     "correl": 0.9917926862521182,
+     "mean_abs_err_pct": 12.013228894511075
+    },
+    "l1hitreads": {
+     "chart_name": "L1D Read Hits",
+     "apps": 57,
+     "kernels": 2338,
+     "correl": 0.9999782855677157,
+     "mean_abs_err_pct": 4.391160972476013
+    },
+    "l1hitwrites": {
+     "chart_name": "L1D Write Hits",
+     "apps": 57,
+     "kernels": 2338,
+     "correl": 0.9999112087477292,
+     "mean_abs_err_pct": 18.377724428256844
+    },
+    "l1readaccess": {
+     "chart_name": "L1D Read Access",
+     "apps": 46,
+     "kernels": 2327,
+     "correl": 0.9999973632775717,
+     "mean_abs_err_pct": 0.7773584133561232
+    },
+    "l1writeaccess": {
+     "chart_name": "L1D Write Access",
+     "apps": 51,
+     "kernels": 2332,
+     "correl": 0.9999999997984553,
+     "mean_abs_err_pct": 0.04268312051330919
+    },
+    "dram-read-transactions": {
+     "chart_name": "DRAM Reads",
+     "apps": 63,
+     "kernels": 2344,
+     "correl": 0.9999002988256673,
+     "mean_abs_err_pct": 453.0983927659402
+    },
+    "dram-write-transactions": {
+     "chart_name": "DRAM Writes",
+     "apps": 63,
+     "kernels": 2344,
+     "correl": 0.9984929636220923,
+     "mean_abs_err_pct": 44.38180552404686
+    }
+   }
+  }
+ },
+ "errors": []
+}
