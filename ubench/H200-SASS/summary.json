@@ -34,78 +34,78 @@
      "chart_name": "GPC Cycles",
      "apps": 63,
      "kernels": 2344,
-     "correl": 0.9778276539435753,
-     "mean_abs_err_pct": 8.909620526494312
+     "correl": 0.9777916702861849,
+     "mean_abs_err_pct": 8.95560952458024
     },
     "warp-inst": {
      "chart_name": "Warp Instructions",
      "apps": 63,
      "kernels": 2344,
-     "correl": 0.9996284354092695,
-     "mean_abs_err_pct": 0.9296823425843475
+     "correl": 0.9996234562185171,
+     "mean_abs_err_pct": 0.9301485059389287
     },
     "l2-read-hits": {
      "chart_name": "L2 Read Hits",
      "apps": 63,
      "kernels": 2344,
-     "correl": 0.9917263524553716,
-     "mean_abs_err_pct": 23.14385252390431
+     "correl": 0.9911945943617421,
+     "mean_abs_err_pct": 23.14389080618275
     },
     "l2-read-transactions": {
      "chart_name": "L2 Reads",
      "apps": 52,
      "kernels": 2333,
-     "correl": 0.9945317769300046,
-     "mean_abs_err_pct": 9.827806438922325
+     "correl": 0.9944187251248094,
+     "mean_abs_err_pct": 9.84373617490199
     },
     "l2-write-transactions": {
      "chart_name": "L2 Writes",
      "apps": 59,
      "kernels": 2340,
-     "correl": 0.968203366595103,
-     "mean_abs_err_pct": 21.422021598672323
+     "correl": 0.9682074513004838,
+     "mean_abs_err_pct": 21.567547410630013
     },
     "l2-write-hits": {
      "chart_name": "L2 Write Hits",
      "apps": 63,
      "kernels": 2344,
-     "correl": 0.9411448993779861,
-     "mean_abs_err_pct": 28.59195522875675
+     "correl": 0.9411390298928172,
+     "mean_abs_err_pct": 28.6446410730986
     },
     "l2-write-hitrate": {
      "chart_name": "L2 Write Hit Rate",
      "apps": 59,
      "kernels": 2336,
-     "correl": -0.012588963901884393,
-     "mean_abs_err_pct": 36.39578545719773
+     "correl": 0.0006379767436745885,
+     "mean_abs_err_pct": 43.97070739492541
     },
     "occupancy": {
      "chart_name": "Occupancy",
      "apps": 63,
      "kernels": 2344,
-     "correl": 0.9917926862521182,
-     "mean_abs_err_pct": 12.013228894511075
+     "correl": 0.9933714880360914,
+     "mean_abs_err_pct": 11.816634651304676
     },
     "l1hitreads": {
      "chart_name": "L1D Read Hits",
      "apps": 57,
      "kernels": 2338,
-     "correl": 0.9999782855677157,
-     "mean_abs_err_pct": 4.391160972476013
+     "correl": 0.999975611427117,
+     "mean_abs_err_pct": 2.776065534860988
     },
     "l1hitwrites": {
      "chart_name": "L1D Write Hits",
      "apps": 57,
      "kernels": 2338,
-     "correl": 0.9999112087477292,
-     "mean_abs_err_pct": 18.377724428256844
+     "correl": 0.9999109585537224,
+     "mean_abs_err_pct": 18.289046593932024
     },
     "l1readaccess": {
      "chart_name": "L1D Read Access",
      "apps": 46,
      "kernels": 2327,
-     "correl": 0.9999973632775717,
-     "mean_abs_err_pct": 0.7773584133561232
+     "correl": 0.9999972562248267,
+     "mean_abs_err_pct": 0.7764467825120184
     },
     "l1writeaccess": {
      "chart_name": "L1D Write Access",
@@ -118,15 +118,15 @@
      "chart_name": "DRAM Reads",
      "apps": 63,
      "kernels": 2344,
-     "correl": 0.9999002988256673,
-     "mean_abs_err_pct": 453.0983927659402
+     "correl": 0.9998957205123847,
+     "mean_abs_err_pct": 402.94203188069815
     },
     "dram-write-transactions": {
      "chart_name": "DRAM Writes",
      "apps": 63,
      "kernels": 2344,
-     "correl": 0.9984929636220923,
-     "mean_abs_err_pct": 44.38180552404686
+     "correl": 0.9982950483129847,
+     "mean_abs_err_pct": 41.47195894484571
     }
    }
   }
