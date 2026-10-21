@@ -1,0 +1,96 @@
+{
+ "configs": {
+  "QV100-SASS": {
+   "hw_device": "Tesla V100-SXM2-32GB",
+   "no_hw_reference": [],
+   "kernel_mismatch": {},
+   "stats": {
+    "gpc_cycles": {
+     "chart_name": "GPC Cycles",
+     "apps": 27,
+     "kernels": 210,
+     "correl": 0.99502158894577,
+     "mean_abs_err_pct": 12.184997196241097
+    },
+    "warp-inst": {
+     "chart_name": "Warp Instructions",
+     "apps": 27,
+     "kernels": 210,
+     "correl": 0.9999999969093886,
+     "mean_abs_err_pct": 0.019517654892152413
+    },
+    "l2-read-hits": {
+     "chart_name": "L2 Read Hits",
+     "apps": 27,
+     "kernels": 210,
+     "correl": 0.9999998757630345,
+     "mean_abs_err_pct": 82.78178466395735
+    },
+    "l2-read-transactions": {
+     "chart_name": "L2 Reads",
+     "apps": 24,
+     "kernels": 207,
+     "correl": 0.9999999915377217,
+     "mean_abs_err_pct": 0.2018379914916624
+    },
+    "l2-write-hitrate": {
+     "chart_name": "L2 Write Hit Rate",
+     "apps": 27,
+     "kernels": 209,
+     "correl": -0.23774087904674335,
+     "mean_abs_err_pct": 25.51898414853482
+    },
+    "occupancy": {
+     "chart_name": "Occupancy",
+     "apps": 27,
+     "kernels": 210,
+     "correl": 0.9959087775529724,
+     "mean_abs_err_pct": 3.675553815686483
+    },
+    "l1hitreads": {
+     "chart_name": "L1D Read Hits",
+     "apps": 27,
+     "kernels": 210,
+     "correl": 0.9999818966760217,
+     "mean_abs_err_pct": 0.356430061871844
+    },
+    "l1hitwrites": {
+     "chart_name": "L1D Write Hits",
+     "apps": 27,
+     "kernels": 210,
+     "correl": 0.9714079353748335,
+     "mean_abs_err_pct": 12.056227716247927
+    },
+    "l1readaccess": {
+     "chart_name": "L1D Read Access",
+     "apps": 22,
+     "kernels": 205,
+     "correl": 0.9999824116188281,
+     "mean_abs_err_pct": 0.7470969629868796
+    },
+    "l1writeaccess": {
+     "chart_name": "L1D Write Access",
+     "apps": 27,
+     "kernels": 209,
+     "correl": 0.9999999861195631,
+     "mean_abs_err_pct": 0.037303818703917115
+    },
+    "dram-read-transactions": {
+     "chart_name": "DRAM Reads",
+     "apps": 27,
+     "kernels": 210,
+     "correl": 0.9999977731179834,
+     "mean_abs_err_pct": 17.39657660781993
+    },
+    "dram-write-transactions": {
+     "chart_name": "DRAM Writes",
+     "apps": 27,
+     "kernels": 210,
+     "correl": 0.9708520250914597,
+     "mean_abs_err_pct": 12.633619046578376
+    }
+   }
+  }
+ },
+ "errors": []
+}
