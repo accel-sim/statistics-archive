@@ -1,0 +1,56 @@
+-----------------------------------------------------------------
+All Card Summary:
+HW Summary for Tesla V100-SXM2-32GB [Contains 51 Apps]:
+----------------------------------------------------------------
+
+
+Plotting Tesla V100-SXM2-32GB : [GPC Cycles]
+QV100-SASS (27 apps, 210 kernels (28 < 1% Err, 53 under, 129 over)) [Correl=0.995 Err=12.18%] :: 0 high error points dropped from Err calc. 0 dropped for HW too low (>0)
+Per-App :: QV100-SASS (27 apps (1 < 1% Err, 10 under, 17 over, 6 < 10% Err)) [Correl=0.9937 Err=21.00% Agg_Err=22.11% RPD=20.88%,NMSE=0.51]
+
+Plotting Tesla V100-SXM2-32GB : [Warp Instructions]
+QV100-SASS (27 apps, 210 kernels (210 < 1% Err, 0 under, 0 over)) [Correl=1.0 Err=0.02%] :: 0 high error points dropped from Err calc. 0 dropped for HW too low (>0)
+Per-App :: QV100-SASS (27 apps (27 < 1% Err, 3 under, 0 over, 27 < 10% Err)) [Correl=1.0 Err=0.03% Agg_Err=0.01% RPD=0.03%,NMSE=0.00]
+
+Plotting Tesla V100-SXM2-32GB : [L2 Read Hits]
+QV100-SASS (27 apps, 210 kernels (19 < 1% Err, 191 under, 0 over)) [Correl=1.0 Err=82.78%] :: 0 high error points dropped from Err calc. 0 dropped for HW too low (>0)
+Per-App :: QV100-SASS (27 apps (13 < 1% Err, 14 under, 0 over, 13 < 10% Err)) [Correl=1.0 Err=40.20% Agg_Err=0.16% RPD=74.82%,NMSE=0.00]
+
+Plotting Tesla V100-SXM2-32GB : [L2 Reads]
+QV100-SASS (24 apps, 207 kernels (200 < 1% Err, 3 under, 4 over)) [Correl=1.0 Err=0.20%] :: 0 high error points dropped from Err calc. 0 dropped for HW too low (>0)
+Per-App :: QV100-SASS (24 apps (21 < 1% Err, 3 under, 1 over, 24 < 10% Err)) [Correl=1.0 Err=0.66% Agg_Err=0.02% RPD=0.66%,NMSE=0.00]
+
+Plotting Tesla V100-SXM2-32GB : [L2 Write Hit Rate]
+QV100-SASS (27 apps, 209 kernels (21 < 1% Err, 188 under, 0 over)) [Correl=-0.2377 Err=25.52%] :: 0 high error points dropped from Err calc. 0 dropped for HW too low (>0)
+Per-App :: QV100-SASS (27 apps (2 < 1% Err, 25 under, 0 over, 4 < 10% Err)) [Correl=-0.224 Err=72.12% Agg_Err=72.17% RPD=135.32%,NMSE=0.81]
+
+Plotting Tesla V100-SXM2-32GB : [Occupancy]
+QV100-SASS (27 apps, 210 kernels (45 < 1% Err, 156 under, 9 over)) [Correl=0.9959 Err=3.68%] :: 0 high error points dropped from Err calc. 0 dropped for HW too low (>0)
+Per-App :: QV100-SASS (27 apps (17 < 1% Err, 8 under, 15 over, 24 < 10% Err)) [Correl=0.9981 Err=3.25% Agg_Err=2.48% RPD=3.09%,NMSE=0.05]
+
+Plotting Tesla V100-SXM2-32GB : [L1D Read Hits]
+QV100-SASS (27 apps, 210 kernels (205 < 1% Err, 0 under, 5 over)) [Correl=1.0 Err=0.36%] :: 0 high error points dropped from Err calc. 0 dropped for HW too low (>0)
+Per-App :: QV100-SASS (27 apps (25 < 1% Err, 0 under, 5 over, 26 < 10% Err)) [Correl=0.9999 Err=1.64% Agg_Err=0.56% RPD=1.45%,NMSE=0.03]
+
+Plotting Tesla V100-SXM2-32GB : [L1D Write Hits]
+QV100-SASS (27 apps, 210 kernels (46 < 1% Err, 164 under, 0 over)) [Correl=0.9714 Err=12.06%] :: 0 high error points dropped from Err calc. 0 dropped for HW too low (>0)
+Per-App :: QV100-SASS (27 apps (19 < 1% Err, 9 under, 0 over, 20 < 10% Err)) [Correl=0.991 Err=13.30% Agg_Err=14.25% RPD=20.23%,NMSE=0.36]
+
+Plotting Tesla V100-SXM2-32GB : [L1D Read Access]
+QV100-SASS (22 apps, 205 kernels (179 < 1% Err, 0 under, 26 over)) [Correl=1.0 Err=0.75%] :: 0 high error points dropped from Err calc. 0 dropped for HW too low (>0)
+Per-App :: QV100-SASS (22 apps (17 < 1% Err, 0 under, 9 over, 22 < 10% Err)) [Correl=0.9999 Err=1.63% Agg_Err=0.52% RPD=1.57%,NMSE=0.02]
+
+Plotting Tesla V100-SXM2-32GB : [L1D Write Access]
+QV100-SASS (27 apps, 209 kernels (206 < 1% Err, 0 under, 3 over)) [Correl=1.0 Err=0.04%] :: 0 high error points dropped from Err calc. 0 dropped for HW too low (>0)
+Per-App :: QV100-SASS (27 apps (26 < 1% Err, 1 under, 2 over, 27 < 10% Err)) [Correl=1.0 Err=0.09% Agg_Err=0.01% RPD=0.08%,NMSE=0.00]
+
+Plotting Tesla V100-SXM2-32GB : [DRAM Reads]
+QV100-SASS (27 apps, 210 kernels (8 < 1% Err, 202 under, 0 over)) [Correl=1.0 Err=17.40%] :: 0 high error points dropped from Err calc. 0 dropped for HW too low (>0)
+Per-App :: QV100-SASS (27 apps (6 < 1% Err, 27 under, 0 over, 16 < 10% Err)) [Correl=0.9999 Err=27.10% Agg_Err=1.90% RPD=45.22%,NMSE=0.05]
+
+Plotting Tesla V100-SXM2-32GB : [DRAM Writes]
+QV100-SASS (27 apps, 210 kernels (182 < 1% Err, 28 under, 0 over)) [Correl=0.9709 Err=12.63%] :: 0 high error points dropped from Err calc. 0 dropped for HW too low (>0)
+Per-App :: QV100-SASS (27 apps (10 < 1% Err, 17 under, 0 over, 10 < 10% Err)) [Correl=0.9694 Err=57.52% Agg_Err=33.41% RPD=113.53%,NMSE=1.06]
+
+Combined per-kernel output available at: file:///scratch/tgrogers-disk01/a/tgrghci/github-ci/accel-sim/runner-tgrogers-raid-3/_work/accel-sim-framework/accel-sim-framework/util/plotting/correl-html/combined_per_kernel.html
+Combined per-app output available at: file:///scratch/tgrogers-disk01/a/tgrghci/github-ci/accel-sim/runner-tgrogers-raid-3/_work/accel-sim-framework/accel-sim-framework/util/plotting/correl-html/combined_per_app.html
