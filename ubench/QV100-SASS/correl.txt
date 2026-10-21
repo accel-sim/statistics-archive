@@ -52,5 +52,5 @@ Plotting Tesla V100-SXM2-32GB : [DRAM Writes]
 QV100-SASS (27 apps, 210 kernels (182 < 1% Err, 28 under, 0 over)) [Correl=0.9709 Err=12.63%] :: 0 high error points dropped from Err calc. 0 dropped for HW too low (>0)
 Per-App :: QV100-SASS (27 apps (10 < 1% Err, 17 under, 0 over, 10 < 10% Err)) [Correl=0.9694 Err=57.52% Agg_Err=33.41% RPD=113.53%,NMSE=1.06]
 
-Combined per-kernel output available at: file:///scratch/tgrogers-disk01/a/tgrghci/github-ci/accel-sim/runner-tgrogers-raid-7/_work/accel-sim-framework/accel-sim-framework/util/plotting/correl-html/combined_per_kernel.html
-Combined per-app output available at: file:///scratch/tgrogers-disk01/a/tgrghci/github-ci/accel-sim/runner-tgrogers-raid-7/_work/accel-sim-framework/accel-sim-framework/util/plotting/correl-html/combined_per_app.html
+Combined per-kernel output available at: file:///scratch/tgrogers-disk01/a/tgrghci/github-ci/accel-sim/runner-tgrogers-raid-2/_work/accel-sim-framework/accel-sim-framework/util/plotting/correl-html/combined_per_kernel.html
+Combined per-app output available at: file:///scratch/tgrogers-disk01/a/tgrghci/github-ci/accel-sim/runner-tgrogers-raid-2/_work/accel-sim-framework/accel-sim-framework/util/plotting/correl-html/combined_per_app.html
