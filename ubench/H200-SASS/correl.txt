@@ -1,0 +1,66 @@
+-----------------------------------------------------------------
+All Card Summary:
+HW Summary for NVIDIA H200 [Contains 65 Apps]:
+----------------------------------------------------------------
+
+
+KERNEL-MISMATCH H200-SASS cutlass_48_hopper_warp_specialized_gemm/__m_512___n_512___k_512___iterations_0: 0 paired, sim kernels without HW: ['_ZN7cutlass9reference6device6kernel12BlockForEachIfNS1_6detail17RandomUniformFuncIfEEEEvPT_mNT0_6ParamsE--0', '_ZN7cutlass9reference6device6kernel12BlockForEachIfNS1_6detail17RandomUniformFuncIfEEEEvPT_mNT0_6ParamsE--1', '_ZN7cutlass9reference6device6kernel12BlockForEachIfNS1_6detail17RandomUniformFuncIfEEEEvPT_mNT0_6ParamsE--2', '_ZN7cutlass13device_kernelINS_4gemm6kernel13GemmUniversalIN4cute5tupleIJiiiEEENS1_10collective13CollectiveMmaINS1_34MainloopSm90TmaGmmaWarpSpecializedILi7ENS5_IJNS4_1CILi4EEENSA_ILi2EEENSA_ILi1EEEEEENS1_35KernelTmaWarpSpecializedCooperativeEEENS5_IJNSA_ILi128EEESH_NSA_ILi32EEEEEEfNS5_IJlSD_lEEEfSK_NS4_8TiledMMAINS4_8MMA_AtomIJNS4_4SM904GMMA30MMA_64x128x8_F32TF32TF32_SS_TNILNSO_7ScaleInE1ELSQ_1EEEEEENS4_6LayoutINS5_IJSC_SD_SD_EEENS5_IJSD_NSA_ILi0EEESV_EEEEENS5_IJNS4_10UnderscoreESY_SY_EEEEENS4_23SM90_TMA_LOAD_MULTICASTENS4_14ComposedLayoutINS4_7SwizzleILi3ELi4ELi3EEENS4_18smem_ptr_flag_bitsILi32EEENST_INS5_IJNSA_ILi8EEESI_EEENS5_IJSI_SD_EEEEEEEvNS4_8identityES11_S1B_vS1C_EENS_8epilogue10collective6detail29Sm90TmaWarpSpecializedAdapterINS1F_15DefaultEpilogueIfNS5_IJSD_llEEES1J_NS1E_6thread17LinearCombinationIfLi1EffLNS1K_9ScaleType4KindE0ELNS_15FloatRoundStyleE2EfEENS1_15EpilogueDefaultEEEEEvvEEEEvNT_6ParamsE--0', '_ZN7cutlass9reference6device6kernel4GemmINS_9TensorRefIfNS_6layout8RowMajorEEENS4_IfNS5_11ColumnMajorEEES9_ffNS_11MatrixShapeILi4ELi4EEENS_12multiply_addIfffEENS_16NumericConverterIffLNS_15FloatRoundStyleE2EEEEEvNS_4gemm9GemmCoordET2_T_T0_SJ_T1_SM_T3_--0', '_ZN7cutlass9reference6device6kernel17BlockCompareEqualIfEEvPiPKT_S7_m--0'], HW kernels without sim: 6
+KERNEL-MISMATCH H200-SASS cutlass_48_hopper_warp_specialized_gemm/__m_512___n_4___k_512___iterations_0: 0 paired, sim kernels without HW: ['_ZN7cutlass9reference6device6kernel12BlockForEachIfNS1_6detail17RandomUniformFuncIfEEEEvPT_mNT0_6ParamsE--0', '_ZN7cutlass9reference6device6kernel12BlockForEachIfNS1_6detail17RandomUniformFuncIfEEEEvPT_mNT0_6ParamsE--1', '_ZN7cutlass9reference6device6kernel12BlockForEachIfNS1_6detail17RandomUniformFuncIfEEEEvPT_mNT0_6ParamsE--2', '_ZN7cutlass13device_kernelINS_4gemm6kernel13GemmUniversalIN4cute5tupleIJiiiEEENS1_10collective13CollectiveMmaINS1_34MainloopSm90TmaGmmaWarpSpecializedILi7ENS5_IJNS4_1CILi4EEENSA_ILi2EEENSA_ILi1EEEEEENS1_35KernelTmaWarpSpecializedCooperativeEEENS5_IJNSA_ILi128EEESH_NSA_ILi32EEEEEEfNS5_IJlSD_lEEEfSK_NS4_8TiledMMAINS4_8MMA_AtomIJNS4_4SM904GMMA30MMA_64x128x8_F32TF32TF32_SS_TNILNSO_7ScaleInE1ELSQ_1EEEEEENS4_6LayoutINS5_IJSC_SD_SD_EEENS5_IJSD_NSA_ILi0EEESV_EEEEENS5_IJNS4_10UnderscoreESY_SY_EEEEENS4_23SM90_TMA_LOAD_MULTICASTENS4_14ComposedLayoutINS4_7SwizzleILi3ELi4ELi3EEENS4_18smem_ptr_flag_bitsILi32EEENST_INS5_IJNSA_ILi8EEESI_EEENS5_IJSI_SD_EEEEEEEvNS4_8identityES11_S1B_vS1C_EENS_8epilogue10collective6detail29Sm90TmaWarpSpecializedAdapterINS1F_15DefaultEpilogueIfNS5_IJSD_llEEES1J_NS1E_6thread17LinearCombinationIfLi1EffLNS1K_9ScaleType4KindE0ELNS_15FloatRoundStyleE2EfEENS1_15EpilogueDefaultEEEEEvvEEEEvNT_6ParamsE--0', '_ZN7cutlass9reference6device6kernel4GemmINS_9TensorRefIfNS_6layout8RowMajorEEENS4_IfNS5_11ColumnMajorEEES9_ffNS_11MatrixShapeILi4ELi4EEENS_12multiply_addIfffEENS_16NumericConverterIffLNS_15FloatRoundStyleE2EEEEEvNS_4gemm9GemmCoordET2_T_T0_SJ_T1_SM_T3_--0', '_ZN7cutlass9reference6device6kernel17BlockCompareEqualIfEEvPiPKT_S7_m--0'], HW kernels without sim: 6
+Plotting NVIDIA H200 : [GPC Cycles]
+H200-SASS (63 apps, 2344 kernels (65 < 1% Err, 99 under, 2180 over)) [Correl=0.9777 Err=48.23%] :: 0 high error points dropped from Err calc. 0 dropped for HW too low (>0)
+Per-App :: H200-SASS (63 apps (2 < 1% Err, 24 under, 39 over, 15 < 10% Err)) [Correl=0.9423 Err=30.05% Agg_Err=32.19% RPD=30.71%,NMSE=1.22]
+
+Plotting NVIDIA H200 : [Warp Instructions]
+H200-SASS (63 apps, 2344 kernels (2313 < 1% Err, 27 under, 4 over)) [Correl=0.9996 Err=0.93%] :: 0 high error points dropped from Err calc. 0 dropped for HW too low (>0)
+Per-App :: H200-SASS (63 apps (57 < 1% Err, 13 under, 4 over, 57 < 10% Err)) [Correl=0.9997 Err=3.29% Agg_Err=1.76% RPD=4.97%,NMSE=0.09]
+
+Plotting NVIDIA H200 : [L2 Read Hits]
+H200-SASS (63 apps, 2344 kernels (15 < 1% Err, 2328 under, 1 over)) [Correl=0.9877 Err=96.12%] :: 0 high error points dropped from Err calc. 0 dropped for HW too low (>0)
+Per-App :: H200-SASS (63 apps (12 < 1% Err, 51 under, 1 over, 15 < 10% Err)) [Correl=0.6838 Err=68.75% Agg_Err=47.51% RPD=131.40%,NMSE=2.70]
+
+Plotting NVIDIA H200 : [L2 Reads]
+H200-SASS (52 apps, 2333 kernels (1469 < 1% Err, 859 under, 5 over)) [Correl=0.9949 Err=10.50%] :: 0 high error points dropped from Err calc. 0 dropped for HW too low (>0)
+Per-App :: H200-SASS (52 apps (25 < 1% Err, 30 under, 3 over, 33 < 10% Err)) [Correl=0.9946 Err=11.32% Agg_Err=9.74% RPD=14.00%,NMSE=0.35]
+
+Plotting NVIDIA H200 : [L2 Writes]
+H200-SASS (59 apps, 2336 kernels (1754 < 1% Err, 1 under, 581 over)) [Correl=0.9682 Err=21.51%] :: 0 high error points dropped from Err calc. 0 dropped for HW too low (>0)
+Per-App :: H200-SASS (59 apps (41 < 1% Err, 6 under, 18 over, 46 < 10% Err)) [Correl=0.9799 Err=20.33% Agg_Err=10.39% RPD=13.60%,NMSE=0.62]
+
+Plotting NVIDIA H200 : [L2 Write Hits]
+H200-SASS (63 apps, 2344 kernels (490 < 1% Err, 1310 under, 544 over)) [Correl=0.9389 Err=65.75%] :: 0 high error points dropped from Err calc. 0 dropped for HW too low (>0)
+Per-App :: H200-SASS (63 apps (10 < 1% Err, 49 under, 8 over, 19 < 10% Err)) [Correl=0.7423 Err=62.50% Agg_Err=47.90% RPD=99.00%,NMSE=2.09]
+
+Plotting NVIDIA H200 : [L2 Write Hit Rate]
+H200-SASS (59 apps, 2336 kernels (309 < 1% Err, 1521 under, 506 over)) [Correl=0.1162 Err=55.17%] :: 0 high error points dropped from Err calc. 0 dropped for HW too low (>0)
+Per-App :: H200-SASS (59 apps (4 < 1% Err, 56 under, 3 over, 15 < 10% Err)) [Correl=0.2991 Err=53.72% Agg_Err=52.59% RPD=94.55%,NMSE=0.65]
+
+Plotting NVIDIA H200 : [Occupancy]
+H200-SASS (63 apps, 2344 kernels (349 < 1% Err, 1170 under, 825 over)) [Correl=0.9928 Err=13.92%] :: 0 high error points dropped from Err calc. 0 dropped for HW too low (>0)
+Per-App :: H200-SASS (63 apps (19 < 1% Err, 22 under, 41 over, 37 < 10% Err)) [Correl=0.9664 Err=26.37% Agg_Err=15.50% RPD=17.82%,NMSE=0.28]
+
+Plotting NVIDIA H200 : [L1D Read Hits]
+H200-SASS (57 apps, 2338 kernels (2275 < 1% Err, 45 under, 18 over)) [Correl=1.0 Err=2.25%] :: 0 high error points dropped from Err calc. 0 dropped for HW too low (>0)
+Per-App :: H200-SASS (57 apps (43 < 1% Err, 13 under, 11 over, 46 < 10% Err)) [Correl=1.0 Err=22.52% Agg_Err=0.66% RPD=29.22%,NMSE=0.03]
+
+Plotting NVIDIA H200 : [L1D Write Hits]
+H200-SASS (57 apps, 2338 kernels (1335 < 1% Err, 489 under, 514 over)) [Correl=0.9999 Err=14.04%] :: 0 high error points dropped from Err calc. 0 dropped for HW too low (>0)
+Per-App :: H200-SASS (57 apps (26 < 1% Err, 22 under, 9 over, 34 < 10% Err)) [Correl=0.9961 Err=1263157920.12% Agg_Err=10.36% RPD=46.94%,NMSE=0.36]
+
+Plotting NVIDIA H200 : [L1D Read Access]
+H200-SASS (46 apps, 2327 kernels (2301 < 1% Err, 20 under, 6 over)) [Correl=1.0 Err=0.77%] :: 0 high error points dropped from Err calc. 0 dropped for HW too low (>0)
+Per-App :: H200-SASS (46 apps (43 < 1% Err, 3 under, 1 over, 45 < 10% Err)) [Correl=1.0 Err=2.55% Agg_Err=0.21% RPD=4.59%,NMSE=0.01]
+
+Plotting NVIDIA H200 : [L1D Write Access]
+H200-SASS (51 apps, 2328 kernels (2327 < 1% Err, 1 under, 0 over)) [Correl=1.0 Err=0.04%] :: 0 high error points dropped from Err calc. 0 dropped for HW too low (>0)
+Per-App :: H200-SASS (51 apps (50 < 1% Err, 1 under, 0 over, 50 < 10% Err)) [Correl=1.0 Err=1.95% Agg_Err=0.00% RPD=3.89%,NMSE=0.00]
+
+Plotting NVIDIA H200 : [DRAM Reads]
+H200-SASS (63 apps, 2344 kernels (1950 < 1% Err, 15 under, 379 over)) [Correl=0.9948 Err=3417.84%] :: 0 high error points dropped from Err calc. 0 dropped for HW too low (>0)
+Per-App :: H200-SASS (63 apps (5 < 1% Err, 12 under, 47 over, 7 < 10% Err)) [Correl=0.552 Err=865017131857.27% Agg_Err=171.18% RPD=160.59%,NMSE=10.58]
+
+Plotting NVIDIA H200 : [DRAM Writes]
+H200-SASS (63 apps, 2344 kernels (1387 < 1% Err, 957 under, 0 over)) [Correl=0.9983 Err=40.75%] :: 0 high error points dropped from Err calc. 0 dropped for HW too low (>0)
+Per-App :: H200-SASS (63 apps (0 < 1% Err, 63 under, 0 over, 2 < 10% Err)) [Correl=0.9958 Err=97.09% Agg_Err=19.53% RPD=193.89%,NMSE=0.64]
+
+Combined per-kernel output available at: file:///scratch/tgrogers-disk01/a/tgrghci/github-ci/accel-sim/runner-tgrogers-raid-3/_work/accel-sim-framework/accel-sim-framework/util/plotting/correl-html/combined_per_kernel.html
+Combined per-app output available at: file:///scratch/tgrogers-disk01/a/tgrghci/github-ci/accel-sim/runner-tgrogers-raid-3/_work/accel-sim-framework/accel-sim-framework/util/plotting/correl-html/combined_per_app.html
