@@ -1,0 +1,110 @@
+{
+ "configs": {
+  "QV100-SASS": {
+   "hw_device": "Tesla V100-SXM2-32GB",
+   "no_hw_reference": [],
+   "kernel_mismatch": {},
+   "stats": {
+    "gpc_cycles": {
+     "chart_name": "GPC Cycles",
+     "apps": 50,
+     "kernels": 2331,
+     "correl": 0.9784474692615992,
+     "mean_abs_err_pct": 55.10398624656856
+    },
+    "warp-inst": {
+     "chart_name": "Warp Instructions",
+     "apps": 50,
+     "kernels": 2331,
+     "correl": 0.9999974825836587,
+     "mean_abs_err_pct": 0.8952879297196495
+    },
+    "l2-read-hits": {
+     "chart_name": "L2 Read Hits",
+     "apps": 50,
+     "kernels": 2331,
+     "correl": 0.9933302146581904,
+     "mean_abs_err_pct": 90.34954635038709
+    },
+    "l2-read-transactions": {
+     "chart_name": "L2 Reads",
+     "apps": 47,
+     "kernels": 2328,
+     "correl": 0.9962122388317954,
+     "mean_abs_err_pct": 0.7600861749840782
+    },
+    "l2-write-transactions": {
+     "chart_name": "L2 Writes",
+     "apps": 50,
+     "kernels": 2327,
+     "correl": 0.9999999966670585,
+     "mean_abs_err_pct": 0.0013570288339797899
+    },
+    "l2-write-hits": {
+     "chart_name": "L2 Write Hits",
+     "apps": 50,
+     "kernels": 2331,
+     "correl": 0.9784555353705247,
+     "mean_abs_err_pct": 45.00240305300857
+    },
+    "l2-write-hitrate": {
+     "chart_name": "L2 Write Hit Rate",
+     "apps": 50,
+     "kernels": 2327,
+     "correl": -0.0073758297325647385,
+     "mean_abs_err_pct": 45.26688782546283
+    },
+    "occupancy": {
+     "chart_name": "Occupancy",
+     "apps": 50,
+     "kernels": 2331,
+     "correl": 0.9914480862827263,
+     "mean_abs_err_pct": 13.696104208035832
+    },
+    "l1hitreads": {
+     "chart_name": "L1D Read Hits",
+     "apps": 50,
+     "kernels": 2331,
+     "correl": 0.9972630808925603,
+     "mean_abs_err_pct": 1.2171317779209934
+    },
+    "l1hitwrites": {
+     "chart_name": "L1D Write Hits",
+     "apps": 50,
+     "kernels": 2331,
+     "correl": 0.999892259957302,
+     "mean_abs_err_pct": 9.272100628018592
+    },
+    "l1readaccess": {
+     "chart_name": "L1D Read Access",
+     "apps": 45,
+     "kernels": 2326,
+     "correl": 0.9999800494831989,
+     "mean_abs_err_pct": 1.2367871585408217
+    },
+    "l1writeaccess": {
+     "chart_name": "L1D Write Access",
+     "apps": 50,
+     "kernels": 2327,
+     "correl": 0.9999999860651521,
+     "mean_abs_err_pct": 0.029262408747110134
+    },
+    "dram-read-transactions": {
+     "chart_name": "DRAM Reads",
+     "apps": 50,
+     "kernels": 2331,
+     "correl": 0.8682235695825409,
+     "mean_abs_err_pct": 149320.29571758938
+    },
+    "dram-write-transactions": {
+     "chart_name": "DRAM Writes",
+     "apps": 50,
+     "kernels": 2331,
+     "correl": 0.7129453302727004,
+     "mean_abs_err_pct": 72.78201493747704
+    }
+   }
+  }
+ },
+ "errors": []
+}
