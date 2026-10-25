@@ -1,0 +1,65 @@
+-----------------------------------------------------------------
+All Card Summary:
+HW Summary for NVIDIA H200 [Contains 86 Apps]:
+----------------------------------------------------------------
+
+
+KERNEL-MISMATCH H200-SASS inference_qwen25_7b.sh/1024_1023_1: 25 paired, sim kernels without HW: ['kernel-1176', 'kernel-1180'], HW kernels without sim: 2
+Plotting NVIDIA H200 : [GPC Cycles]
+H200-SASS (20 apps, 8940 kernels (205 < 1% Err, 1418 under, 7317 over)) [Correl=0.7924 Err=19.89%] :: 0 high error points dropped from Err calc. 0 dropped for HW too low (>0)
+Per-App :: H200-SASS (20 apps (3 < 1% Err, 6 under, 14 over, 10 < 10% Err)) [Correl=0.9971 Err=9.97% Agg_Err=8.98% RPD=9.51%,NMSE=0.13]
+
+Plotting NVIDIA H200 : [Warp Instructions]
+H200-SASS (20 apps, 8940 kernels (8234 < 1% Err, 277 under, 429 over)) [Correl=0.9979 Err=1.03%] :: 0 high error points dropped from Err calc. 0 dropped for HW too low (>0)
+Per-App :: H200-SASS (20 apps (14 < 1% Err, 3 under, 17 over, 20 < 10% Err)) [Correl=0.9998 Err=1.37% Agg_Err=1.80% RPD=1.37%,NMSE=0.04]
+
+Plotting NVIDIA H200 : [L2 Read Hits]
+H200-SASS (20 apps, 8940 kernels (4840 < 1% Err, 3984 under, 116 over)) [Correl=0.9638 Err=51.02%] :: 0 high error points dropped from Err calc. 0 dropped for HW too low (>0)
+Per-App :: H200-SASS (20 apps (1 < 1% Err, 20 under, 0 over, 5 < 10% Err)) [Correl=0.9683 Err=28.03% Agg_Err=26.25% RPD=35.26%,NMSE=0.45]
+
+Plotting NVIDIA H200 : [L2 Reads]
+H200-SASS (20 apps, 8832 kernels (6202 < 1% Err, 2527 under, 103 over)) [Correl=0.9869 Err=10.01%] :: 0 high error points dropped from Err calc. 0 dropped for HW too low (>0)
+Per-App :: H200-SASS (20 apps (0 < 1% Err, 18 under, 2 over, 9 < 10% Err)) [Correl=0.9882 Err=11.98% Agg_Err=13.12% RPD=13.09%,NMSE=0.24]
+
+Plotting NVIDIA H200 : [L2 Writes]
+H200-SASS (20 apps, 8928 kernels (8399 < 1% Err, 221 under, 308 over)) [Correl=0.971 Err=4.46%] :: 0 high error points dropped from Err calc. 0 dropped for HW too low (>0)
+Per-App :: H200-SASS (20 apps (14 < 1% Err, 7 under, 11 over, 17 < 10% Err)) [Correl=0.9987 Err=5.31% Agg_Err=2.98% RPD=4.69%,NMSE=0.08]
+
+Plotting NVIDIA H200 : [L2 Write Hits]
+H200-SASS (20 apps, 8940 kernels (388 < 1% Err, 8478 under, 74 over)) [Correl=0.4265 Err=93.90%] :: 0 high error points dropped from Err calc. 0 dropped for HW too low (>0)
+Per-App :: H200-SASS (20 apps (0 < 1% Err, 20 under, 0 over, 1 < 10% Err)) [Correl=0.817 Err=86.44% Agg_Err=81.29% RPD=161.68%,NMSE=1.31]
+
+Plotting NVIDIA H200 : [L2 Write Hit Rate]
+H200-SASS (20 apps, 8928 kernels (294 < 1% Err, 8583 under, 51 over)) [Correl=-0.08465 Err=92.40%] :: 0 high error points dropped from Err calc. 0 dropped for HW too low (>0)
+Per-App :: H200-SASS (20 apps (0 < 1% Err, 20 under, 0 over, 0 < 10% Err)) [Correl=0.03271 Err=89.34% Agg_Err=89.86% RPD=163.12%,NMSE=0.94]
+
+Plotting NVIDIA H200 : [Occupancy]
+H200-SASS (20 apps, 8940 kernels (1082 < 1% Err, 3630 under, 4228 over)) [Correl=0.9837 Err=10.34%] :: 0 high error points dropped from Err calc. 0 dropped for HW too low (>0)
+Per-App :: H200-SASS (20 apps (1 < 1% Err, 1 under, 19 over, 7 < 10% Err)) [Correl=0.9766 Err=15.18% Agg_Err=16.03% RPD=13.75%,NMSE=0.19]
+
+Plotting NVIDIA H200 : [L1D Read Hits]
+H200-SASS (20 apps, 7828 kernels (7562 < 1% Err, 125 under, 141 over)) [Correl=0.9999 Err=11.92%] :: 0 high error points dropped from Err calc. 0 dropped for HW too low (>0)
+Per-App :: H200-SASS (20 apps (17 < 1% Err, 8 under, 9 over, 19 < 10% Err)) [Correl=0.9998 Err=1.28% Agg_Err=1.11% RPD=1.27%,NMSE=0.03]
+
+Plotting NVIDIA H200 : [L1D Write Hits]
+H200-SASS (20 apps, 7828 kernels (2101 < 1% Err, 5425 under, 302 over)) [Correl=0.8382 Err=264.30%] :: 0 high error points dropped from Err calc. 0 dropped for HW too low (>0)
+Per-App :: H200-SASS (20 apps (0 < 1% Err, 11 under, 9 over, 0 < 10% Err)) [Correl=0.9622 Err=42.72% Agg_Err=34.02% RPD=67.18%,NMSE=0.70]
+
+Plotting NVIDIA H200 : [L1D Read Access]
+H200-SASS (20 apps, 7517 kernels (7333 < 1% Err, 144 under, 40 over)) [Correl=0.4108 Err=2.42%] :: 0 high error points dropped from Err calc. 0 dropped for HW too low (>0)
+Per-App :: H200-SASS (20 apps (6 < 1% Err, 14 under, 2 over, 10 < 10% Err)) [Correl=0.7058 Err=24.21% Agg_Err=28.55% RPD=36.51%,NMSE=0.87]
+
+Plotting NVIDIA H200 : [L1D Write Access]
+H200-SASS (20 apps, 7804 kernels (7801 < 1% Err, 3 under, 0 over)) [Correl=1.0 Err=0.01%] :: 0 high error points dropped from Err calc. 0 dropped for HW too low (>0)
+Per-App :: H200-SASS (20 apps (20 < 1% Err, 1 under, 0 over, 20 < 10% Err)) [Correl=1.0 Err=0.00% Agg_Err=0.00% RPD=0.00%,NMSE=0.00]
+
+Plotting NVIDIA H200 : [DRAM Reads]
+H200-SASS (20 apps, 8940 kernels (2807 < 1% Err, 6048 under, 85 over)) [Correl=0.9957 Err=57.43%] :: 0 high error points dropped from Err calc. 0 dropped for HW too low (>0)
+Per-App :: H200-SASS (20 apps (7 < 1% Err, 9 under, 11 over, 18 < 10% Err)) [Correl=0.9968 Err=3.98% Agg_Err=4.07% RPD=3.89%,NMSE=0.06]
+
+Plotting NVIDIA H200 : [DRAM Writes]
+H200-SASS (20 apps, 8940 kernels (7370 < 1% Err, 1562 under, 8 over)) [Correl=0.9639 Err=13.29%] :: 0 high error points dropped from Err calc. 0 dropped for HW too low (>0)
+Per-App :: H200-SASS (20 apps (0 < 1% Err, 20 under, 0 over, 0 < 10% Err)) [Correl=0.9912 Err=39.20% Agg_Err=32.72% RPD=56.63%,NMSE=0.58]
+
+Combined per-kernel output available at: file:///scratch/tgrogers-disk01/a/tgrghci/github-ci/accel-sim/runner-tgrogers-raid-6/_work/accel-sim-framework/accel-sim-framework/util/plotting/correl-html/combined_per_kernel.html
+Combined per-app output available at: file:///scratch/tgrogers-disk01/a/tgrghci/github-ci/accel-sim/runner-tgrogers-raid-6/_work/accel-sim-framework/accel-sim-framework/util/plotting/correl-html/combined_per_app.html
